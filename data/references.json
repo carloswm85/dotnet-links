@@ -1,0 +1,682 @@
+{
+	"references": [
+		{
+			"name": "Bootstrap",
+			"lowercased_id": "bootstrap",
+			"links": [
+				{
+					"name": "Official Docs (5.1)",
+					"url": "https://getbootstrap.com/docs/5.1/getting-started/introduction/"
+				},
+				{
+					"name": "Dark Theme using JS",
+					"url": "https://blog.shhdharmen.me/toggle-light-and-dark-themes-in-bootstrap"
+				},
+				{
+					"name": "Dark Theme using CSS",
+					"url": "https://vinorodrigues.github.io/bootstrap-dark-5/"
+				},
+				{
+					"name": "StartBootstrap",
+					"url": "https://startbootstrap.com/"
+				},
+				{
+					"name": "CoreUI Admin",
+					"url": "https://github.com/coreui/coreui-free-bootstrap-admin-template"
+				},
+				{
+					"name": "DatePicker",
+					"url": "https://bootstrap-datepicker.readthedocs.io/"
+				},
+				{
+					"name": "Material Design",
+					"url": "https://mdbootstrap.com/"
+				}
+			]
+		},
+		{
+			"name": "Async/Await",
+			"lowercased_id": "async",
+			"links": [
+				{
+					"name": "Why",
+					"url": "https://stackoverflow.com/a/32343477/7389293"
+				},
+				{
+					"name": "How and When",
+					"url": "https://stackoverflow.com/questions/14455293/how-and-when-to-use-async-and-await"
+				},
+				{
+					"name": "Getting Started",
+					"url": "https://www.pluralsight.com/guides/csharp-async-await-keywords-getting-started"
+				},
+				{
+					"name": "Control Flow",
+					"url": "https://www.pluralsight.com/guides/understand-control-flow-async-await"
+				}
+			]
+		},
+		{
+			"name": "SSMS",
+			"lowercased_id": "ssms",
+			"links": [
+				{
+					"name": "Local Server Set Up",
+					"url": "https://blogs.triggerdb.com/2021/06/02/instalar-y-configurar-sql-2019-developer-paso-a-paso/"
+				},
+				{
+					"name": "Import/Export DB",
+					"url": "https://stackoverflow.com/a/66770043/7389293"
+				}
+			]
+		},
+		{
+			"name": "CSS",
+			"lowercased_id": "css",
+			"links": [
+				{
+					"name": "Flexbox Guide",
+					"url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+				},
+				{
+					"name": "Grid Guide",
+					"url": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+				},
+				{
+					"name": "CSS Topics Guides",
+					"url": "https://css-tricks.com/guides/"
+				},
+				{
+					"name": "CSS Tooltips Implementation",
+					"url": "https://www.florin-pop.com/blog/2019/05/pure-css-tooltip/"
+				}
+			]
+		},
+		{
+			"name": "DateTime",
+			"lowercased_id": "datetime",
+			"links": [
+				{
+					"name": "Format String",
+					"url": "https://stackoverflow.com/a/24728080/7389293"
+				},
+				{
+					"name": "UNIX Time",
+					"url": "https://currentmillis.com/standard/specification/client-centric-time/"
+				},
+				{
+					"name": "UNIX_TIMESTAMP in SQL Server",
+					"url": "https://stackoverflow.com/questions/8837225/unix-timestamp-in-sql-server"
+				},
+				{
+					"name": "How to get correct UNIX_TIMESTAMP in C#",
+					"url": "https://stackoverflow.com/questions/21219797/how-to-get-correct-timestamp-in-c-sharp"
+				}
+			]
+		},
+		{
+			"name": "nTier",
+			"lowercased_id": "ntier",
+			"links": [
+				{
+					"name": "Layered Project Case",
+					"url": "https://stackoverflow.com/questions/71714676/where-do-i-place-the-entity-framework-queries-in-layered-architecture"
+				},
+				{
+					"name": "Service Layer Architecture",
+					"url": "https://stackoverflow.com/questions/14887871/creating-a-service-layer-for-my-mvc-application"
+				},
+				{
+					"name": "Service Layer Design",
+					"url": "https://stackoverflow.com/questions/31180816/mvc-design-pattern-service-layer-purpose"
+				}
+			]
+		},
+		{
+			"name": "jQuery",
+			"lowercased_id": "jquery",
+			"links": [
+				{
+					"name": "Official Docs",
+					"url": "https://learn.jquery.com/code-organization/"
+				},
+				{
+					"name": "jQueryUI",
+					"url": "https://jqueryui.com/"
+				},
+				{
+					"name": "Select2",
+					"url": "https://select2.org/"
+				},
+				{
+					"name": "jquery-steps",
+					"url": "http://www.jquery-steps.com/"
+				},
+				{
+					"name": "DataTables",
+					"url": "https://datatables.net/"
+				}
+			]
+		},
+		{
+			"name": "Design Patterns",
+			"lowercased_id": "patterns",
+			"links": [
+				{
+					"name": "Software Design Patterns",
+					"url": "https://en.wikipedia.org/wiki/Software_design_pattern"
+				},
+				{
+					"name": "Source Making",
+					"url": "https://sourcemaking.com/"
+				},
+				{
+					"name": "Refactoring Guru",
+					"url": "https://refactoring.guru/"
+				},
+				{
+					"name": "C# Design Patterns",
+					"url": "https://scottlilly.com/c-design-patterns/"
+				}
+			]
+		},
+		{
+			"name": "Vue.js",
+			"lowercased_id": "vue",
+			"links": [
+				{
+					"name": "Official Docs",
+					"url": "https://vuejs.org/guide/introduction.html"
+				}
+			]
+		},
+		{
+			"name": "React.js",
+			"lowercased_id": "react",
+			"links": [
+				{
+					"name": "Official Docs",
+					"url": "https://reactjs.org/docs/getting-started.html"
+				}
+			]
+		},
+		{
+			"name": "Angular.js",
+			"lowercased_id": "angular",
+			"links": [
+				{
+					"name": "Official Docs",
+					"url": "https://angular.io/docs"
+				}
+			]
+		},
+		{
+			"name": "JavaScript",
+			"lowercased_id": "js",
+			"links": [
+				{
+					"name": "Style guide",
+					"url": "https://google.github.io/styleguide/jsguide.html"
+				}
+			]
+		},
+		{
+			"name": "RegEx",
+			"lowercased_id": "regex",
+			"links": [
+				{
+					"name": "regexr.com",
+					"url": "https://regexr.com/"
+				},
+				{
+					"name": "regex101.com",
+					"url": "https://regex101.com/"
+				}
+			]
+		},
+		{
+			"name": "MS SQL Server",
+			"lowercased_id": "sqlserver",
+			"links": [
+				{
+					"name": "(General) Style",
+					"url": "https://www.sqlstyle.guide/"
+				},
+				{
+					"name": "Data Types (numerics, strings, time)",
+					"url": "https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16"
+				}
+			]
+		},
+		{
+			"name": "SQL Language",
+			"lowercased_id": "sql",
+			"links": [
+				{
+					"name": "char Vs nchar",
+					"url": "https://stackoverflow.com/a/176523/7389293"
+				},
+				{
+					"name": "Data Types",
+					"url": "https://www.w3schools.com/sql/sql_datatypes.asp"
+				}
+			]
+		},
+		{
+			"name": "Razor",
+			"lowercased_id": "razor",
+			"links": [
+				{
+					"name": "HTML Helper",
+					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php"
+				}
+			]
+		},
+		{
+			"name": ".NET Tutorials",
+			"lowercased_id": "tutorials",
+			"links": [
+				{
+					"name": "MS Technical Documentation",
+					"url": "https://docs.microsoft.com/en-us/"
+				},
+				{
+					"name": "MS .NET Video Tutorials",
+					"url": "https://dotnet.microsoft.com/en-us/learn/videos"
+				},
+				{
+					"name": "MS ASP.NET Core Docs                                  ",
+					"url": "https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0"
+				},
+				{
+					"name": "HTML Helper",
+					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php"
+				},
+				{
+					"name": "Rip Tutorial",
+					"url": "https://riptutorial.com/"
+				},
+				{
+					"name": "DotNet Tutorials",
+					"url": "https://dotnettutorials.net/course/csharp-dot-net-tutorials/"
+				},
+				{
+					"name": "TutorialsTeacher",
+					"url": "https://www.tutorialsteacher.com/csharp"
+				},
+				{
+					"name": "DotNet Academy",
+					"url": "https://dotnetcademy.net/Search"
+				},
+				{
+					"name": "Pragim Tech",
+					"url": "https://www.pragimtech.com/course-category/free-online-courses/"
+				}
+			]
+		},
+		{
+			"name": "C#",
+			"lowercased_id": "csharp",
+			"links": [
+				{
+					"name": "Style Guide",
+					"url": "https://google.github.io/styleguide/csharp-style.html"
+				}
+			]
+		},
+		{
+			"name": "Online Books",
+			"lowercased_id": "onlinebooks",
+			"links": [
+				{
+					"name": "CSharp In Depth",
+					"url": "https://csharpindepth.com/"
+				}
+			]
+		},
+		{
+			"name": "Ebooks",
+			"lowercased_id": "ebooks",
+			"links": [
+				{
+					"name": "Rip Tutorial",
+					"url": "https://riptutorial.com/ebook"
+				}
+			]
+		},
+		{
+			"name": "MVC Best Practices",
+			"lowercased_id": "mvcbestpractices",
+			"links": [
+				{
+					"name": "General: Best Practices and Guidelines",
+					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4"
+				}
+			]
+		},
+		{
+			"name": "MVC - Model",
+			"lowercased_id": "mvcmodel",
+			"links": [
+				{
+					"name": "ViewModels More Functional",
+					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-viewmodel-make-your-viewmodels-more-functional-PY"
+				}
+			]
+		},
+		{
+			"name": "MVC - View",
+			"lowercased_id": "mvcview",
+			"links": [
+				{
+					"name": "MVC Dropdowns",
+					"url": "https://www.danylkoweb.com/Blog/the-ultimate-guide-to-aspnet-mvc-dropdowns-JO"
+				}
+			]
+		},
+		{
+			"name": "MVC - Controller",
+			"lowercased_id": "mvccontroller",
+			"links": [
+				{
+					"name": "ViewModels More Functional",
+					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-viewmodel-make-your-viewmodels-more-functional-PY"
+				}
+			]
+		},
+		{
+			"name": "Repository Pattern",
+			"lowercased_id": "repositorypattern",
+			"links": [
+				{
+					"name": "Why?",
+					"url": "https://stackoverflow.com/questions/8749153/why-use-repository-pattern-or-please-explain-it-to-me"
+				},
+				{
+					"name": "But why??",
+					"url": "https://stackoverflow.com/questions/11985736/repository-pattern-step-by-step-explanation"
+				},
+				{
+					"name": "Implementation #1",
+					"url": "https://stackoverflow.com/questions/10925257/best-repository-pattern-for-asp-net-mvc/10925510#10925510"
+				},
+				{
+					"name": "Implementation #2 (pragimtech.com)",
+					"url": "https://www.pragimtech.com/blog/blazor/rest-api-repository-pattern/"
+				},
+				{
+					"name": "Implementation #3 (remondo.net)",
+					"url": "./docs/001.pdf"
+				},
+				{
+					"name": "Why: Interfaces in RP, with good implementation example",
+					"url": "https://stackoverflow.com/questions/10616131/repository-pattern-why-exactly-do-we-need-interfaces"
+				},
+				{
+					"name": "Why: RP and DDD",
+					"url": "https://stackoverflow.com/questions/27631490/what-is-the-use-of-repository-and-why-do-mvc-developers-create-repository"
+				},
+				{
+					"name": "DbContext (entityframeworktutorial.net)",
+					"url": "https://www.entityframeworktutorial.net/efcore/entity-framework-core-dbcontext.aspx"
+				},
+				{
+					"name": "Models (POCO), Entity Framework and Data Patterns",
+					"url": "https://www.codeproject.com/Articles/615499/Models-POCO-Entity-Framework-and-Data-Patterns"
+				},
+				{
+					"name": "Content List for RP interface (GS)",
+					"url": "https://docs.google.com/spreadsheets/d/18gYhR05ykkRqwye3n808POnTfXT_8MVjz-a5rtldZrg/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"name": "Test-driven Development",
+			"lowercased_id": "tdd",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Test-driven_development"
+				}
+			]
+		},
+		{
+			"name": "Scrum",
+			"lowercased_id": "scrum",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Scrum_(software_development)"
+				}
+			]
+		},
+		{
+			"name": "Agile",
+			"lowercased_id": "agile",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Agile_software_development"
+				}
+			]
+		},
+		{
+			"name": "SOLID",
+			"lowercased_id": "solid",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/SOLID"
+				},
+				{
+					"name": "Example: remondo.net",
+					"url": "http://web.archive.org/web/20150411131853/http://www.remondo.net/category/solid-series/"
+				}
+			]
+		},
+		{
+			"name": "MVC",
+			"lowercased_id": "mvc",
+			"links": [
+				{
+					"name": "Life Cycle",
+					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application"
+				}
+			]
+		},
+		{
+			"name": "APIs",
+			"lowercased_id": "apis",
+			"links": [
+				{
+					"name": "mockAPI",
+					"url": "https://mockapi.io/"
+				}
+			]
+		},
+		{
+			"name": "Social",
+			"lowercased_id": "social",
+			"links": [
+				{
+					"name": "C# Discord",
+					"url": "https://discord.gg/csharp"
+				},
+				{
+					"name": "ASP.NET Core en Español",
+					"url": "https://www.facebook.com/groups/291405831518163"
+				}
+			]
+		},
+		{
+			"name": "Job Search",
+			"lowercased_id": "jobs",
+			"links": [
+				{
+					"name": "arc.dev",
+					"url": "https://arc.dev/"
+				}
+			]
+		},
+		{
+			"name": "Online Tools",
+			"lowercased_id": "onlinetools",
+			"links": [
+				{
+					"name": "10015 Tools",
+					"url": "https://10015.io/"
+				},
+				{
+					"name": "overapi.com (cheatsheets)",
+					"url": "https://overapi.com/"
+				}
+			]
+		},
+		{
+			"name": "Entity Framework",
+			"lowercased_id": "entityframework",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Entity_Framework"
+				},
+				{
+					"name": "Official Docs",
+					"url": "https://docs.microsoft.com/en-us/ef/"
+				},
+				{
+					"name": "EF Tutorial",
+					"url": "https://www.entityframeworktutorial.net/what-is-entityframework.aspx"
+				}
+			]
+		},
+		{
+			"name": "Object–Relational Mapping (ORM)",
+			"lowercased_id": "orm",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping"
+				},
+				{
+					"name": "What's this?",
+					"url": "https://education.launchcode.org/csharp-web-development/chapters/orm-intro/background.html"
+				}
+			]
+		},
+		{
+			"name": "Domain-Driven Design (DDD)",
+			"lowercased_id": "ddd",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Domain-driven_design"
+				}
+			]
+		},
+		{
+			"name": "NuGet Dependencies",
+			"lowercased_id": "nugetdep",
+			"links": [
+				{
+					"name": "T4MVC",
+					"url": "https://github.com/T4MVC/T4MVC"
+				},
+				{
+					"name": "AutoMapper",
+					"url": "http://automapper.org/"
+				}
+			]
+		},
+		{
+			"name": "GitHub Pages",
+			"lowercased_id": "githubpages",
+			"links": [
+				{
+					"name": "Use own DB on GHP",
+					"url": "https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page"
+				},
+				{
+					"name": "Link to html in another repo",
+					"url": "https://stackoverflow.com/questions/62601696/github-page-link-to-html-in-another-repo"
+				}
+			]
+		},
+		{
+			"name": "Hosting",
+			"lowercased_id": "hosting",
+			"links": [
+				{
+					"name": "Azure",
+					"url": "https://azure.microsoft.com/en-us/"
+				},
+				{
+					"name": "AWS",
+					"url": "https://aws.amazon.com/"
+				},
+				{
+					"name": "somee.com",
+					"url": "https://somee.com/"
+				},
+				{
+					"name": "myasp.net",
+					"url": "https://www.myasp.net/"
+				},
+				{
+					"name": "smarterasp.net",
+					"url": "https://www.smarterasp.net"
+				},
+				{
+					"name": "ionos.com/",
+					"url": "https://www.ionos.com/"
+				},
+				{
+					"name": "contabo.com",
+					"url": "https://contabo.com/en/"
+				},
+				{
+					"name": "sitioshispanos.com",
+					"url": "https://www.sitioshispanos.com/es/"
+				},
+				{
+					"name": "asphostportal.com",
+					"url": "https://www.asphostportal.com/"
+				}
+			]
+		},
+		{
+			"name": "C# Features",
+			"lowercased_id": "chsarpfeatures",
+			"links": [
+				{
+					"name": "Partials",
+					"url": "https://www.geeksforgeeks.org/partial-classes-in-c-sharp/"
+				}
+			]
+		},
+		{
+			"name": "🤓",
+			"lowercased_id": "lol",
+			"links": [
+				{
+					"name": "List of topics",
+					"url": "./assets/broken.png"
+				},
+				{
+					"name": "musicForProgramming();",
+					"url": "https://musicforprogramming.net/fiftyseven"
+				}
+			]
+		},
+		{
+			"name": "LINQ",
+			"lowercased_id": "linq",
+			"links": [
+				{
+					"name": "Using IQueryable with Linq",
+					"url": "https://stackoverflow.com/questions/1578778/using-iqueryable-with-linq/1578809#1578809"
+				}
+			]
+		}
+	]
+}
