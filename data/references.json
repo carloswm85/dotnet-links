@@ -129,6 +129,10 @@
 				{
 					"name": "Service Layer Design",
 					"url": "https://stackoverflow.com/questions/31180816/mvc-design-pattern-service-layer-purpose"
+				},
+				{
+					"name": "Service/Business Layer & Repository Providers/Repository Layer",
+					"url": "https://stackoverflow.com/questions/20514446/how-to-call-model-methods-in-controller-in-asp-net-mvc"
 				}
 			]
 		},
@@ -351,6 +355,10 @@
 				{
 					"name": "General: Best Practices and Guidelines",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4"
+				},
+				{
+					"name": "Helper Methods",
+					"url": "https://stackoverflow.com/questions/8233286/mvc3-helper-method-to-be-used-by-several-controllers"
 				}
 			]
 		},
@@ -371,6 +379,10 @@
 				{
 					"name": "MVC Dropdowns",
 					"url": "https://www.danylkoweb.com/Blog/the-ultimate-guide-to-aspnet-mvc-dropdowns-JO"
+				},
+				{
+				"name": "Best Way to Bind Partial View",
+				"url": "https://www.ifourtechnolab.com/blog/best-way-to-bind-partial-view-for-improving-performance-in-asp-net-mvc"
 				}
 			]
 		},
