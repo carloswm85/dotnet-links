@@ -14,19 +14,35 @@ fetch(requestURL)
 
 		for (let i = 0; i < references.length; i++) {
 			let button = document.createElement("button");
-			button.classList.add("btn", "button-reference", "btn-dark", "tooltip-top", "me-1");
+			button.classList.add(
+				"btn",
+				"button-reference",
+				"btn-dark",
+				"tooltip-top",
+				"me-1"
+			);
 			button.setAttribute("type", "button");
 			// button.setAttribute("data-bs-placement", "top");
 			button.setAttribute("data-bs-toggle", "collapse");
-			button.setAttribute("data-bs-target", `#${references[i].lowercased_id}`);
+			button.setAttribute(
+				"data-bs-target",
+				`#${references[i].name
+					.toLowerCase()
+					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
+			);
 			button.setAttribute("aria-expanded", "false");
-			button.setAttribute("aria-controls", `${references[i].lowercased_id}`);
-			button.setAttribute("data-content", i+1);
+			button.setAttribute(
+				"aria-controls",
+				`${references[i].name
+					.toLowerCase()
+					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
+			);
+			button.setAttribute("data-content", i + 1);
 			button.innerText = `${references[i].name}`;
 			referencesView.appendChild(button);
 			// buttons.parentNode.insertBefore(button, buttons.nextSibling);
 		}
-		
+
 		let horizontalRule = document.createElement("hr");
 		referencesView.appendChild(horizontalRule);
 
@@ -41,9 +57,19 @@ fetch(requestURL)
 			div1.setAttribute("style", "min-height: 120px;");
 
 			let div2 = document.createElement("div");
-			div2.classList.add("collapse", "collapse-horizontal", "card-border", "mb-5");
+			div2.classList.add(
+				"collapse",
+				"collapse-horizontal",
+				"card-border",
+				"mb-5"
+			);
 			div2.setAttribute("data-bs-parent", "#references");
-			div2.setAttribute("id", `${references[i].lowercased_id}`);
+			div2.setAttribute(
+				"id",
+				`${references[i].name
+					.toLowerCase()
+					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
+			);
 
 			let div3 = document.createElement("div");
 			div3.classList.add("card", "card-body", "text-white", "bg-dark");
@@ -77,7 +103,5 @@ fetch(requestURL)
 			div1.appendChild(div2);
 			cards.appendChild(div1);
 			referencesView.appendChild(cards);
-
-
 		}
 	});

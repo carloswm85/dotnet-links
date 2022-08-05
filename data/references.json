@@ -381,8 +381,8 @@
 					"url": "https://www.danylkoweb.com/Blog/the-ultimate-guide-to-aspnet-mvc-dropdowns-JO"
 				},
 				{
-				"name": "Best Way to Bind Partial View",
-				"url": "https://www.ifourtechnolab.com/blog/best-way-to-bind-partial-view-for-improving-performance-in-asp-net-mvc"
+					"name": "Best Way to Bind Partial View",
+					"url": "https://www.ifourtechnolab.com/blog/best-way-to-bind-partial-view-for-improving-performance-in-asp-net-mvc"
 				}
 			]
 		},
@@ -687,6 +687,32 @@
 				{
 					"name": "Using IQueryable with Linq",
 					"url": "https://stackoverflow.com/questions/1578778/using-iqueryable-with-linq/1578809#1578809"
+				}
+			]
+		},
+		{
+			"name": "YouTube 📺",
+			"lowercased_id": "youtube",
+			"links": [
+				{
+				"name": "freeCodeCamp.org",
+				"url": "https://www.youtube.com/c/Freecodecamp/videos"
+				},
+				{
+				"name": "dotNET",
+				"url": "https://www.youtube.com/c/dotNET/videos"
+				},
+				{
+				"name": "Coder Foundry",
+				"url": "https://www.youtube.com/c/CoderFoundryBootcamp/videos"
+				},
+				{
+					"name": "Code Skills",
+					"url": "https://www.youtube.com/c/jestradabe/videos"
+				},
+				{
+				"name": ".NET Interview Preparation videos",
+				"url": "https://www.youtube.com/c/dnfvideo/videos"
 				}
 			]
 		}
