@@ -2,7 +2,6 @@
 	"references": [
 		{
 			"name": "Bootstrap",
-			"lowercased_id": "bootstrap",
 			"links": [
 				{
 					"name": "Official Docs (5.1)",
@@ -36,7 +35,6 @@
 		},
 		{
 			"name": "Async/Await",
-			"lowercased_id": "async",
 			"links": [
 				{
 					"name": "Why",
@@ -58,7 +56,6 @@
 		},
 		{
 			"name": "SSMS",
-			"lowercased_id": "ssms",
 			"links": [
 				{
 					"name": "Local Server Set Up",
@@ -72,7 +69,6 @@
 		},
 		{
 			"name": "CSS",
-			"lowercased_id": "css",
 			"links": [
 				{
 					"name": "Flexbox Guide",
@@ -94,7 +90,6 @@
 		},
 		{
 			"name": "DateTime",
-			"lowercased_id": "datetime",
 			"links": [
 				{
 					"name": "Format String",
@@ -116,7 +111,6 @@
 		},
 		{
 			"name": "nTier",
-			"lowercased_id": "ntier",
 			"links": [
 				{
 					"name": "Layered Project Case",
@@ -138,7 +132,6 @@
 		},
 		{
 			"name": "jQuery",
-			"lowercased_id": "jquery",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -164,7 +157,6 @@
 		},
 		{
 			"name": "Design Patterns",
-			"lowercased_id": "patterns",
 			"links": [
 				{
 					"name": "Software Design Patterns",
@@ -186,7 +178,6 @@
 		},
 		{
 			"name": "Vue.js",
-			"lowercased_id": "vue",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -196,7 +187,6 @@
 		},
 		{
 			"name": "React.js",
-			"lowercased_id": "react",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -206,7 +196,6 @@
 		},
 		{
 			"name": "Angular.js",
-			"lowercased_id": "angular",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -216,7 +205,6 @@
 		},
 		{
 			"name": "JavaScript",
-			"lowercased_id": "js",
 			"links": [
 				{
 					"name": "Style guide",
@@ -226,7 +214,6 @@
 		},
 		{
 			"name": "RegEx",
-			"lowercased_id": "regex",
 			"links": [
 				{
 					"name": "regexr.com",
@@ -240,7 +227,6 @@
 		},
 		{
 			"name": "MS SQL Server",
-			"lowercased_id": "sqlserver",
 			"links": [
 				{
 					"name": "(General) Style",
@@ -254,7 +240,6 @@
 		},
 		{
 			"name": "SQL Language",
-			"lowercased_id": "sql",
 			"links": [
 				{
 					"name": "char Vs nchar",
@@ -268,7 +253,6 @@
 		},
 		{
 			"name": "Razor",
-			"lowercased_id": "razor",
 			"links": [
 				{
 					"name": "HTML Helper",
@@ -278,7 +262,6 @@
 		},
 		{
 			"name": ".NET Tutorials",
-			"lowercased_id": "tutorials",
 			"links": [
 				{
 					"name": "MS Technical Documentation",
@@ -320,7 +303,6 @@
 		},
 		{
 			"name": "C#",
-			"lowercased_id": "csharp",
 			"links": [
 				{
 					"name": "Style Guide",
@@ -330,7 +312,6 @@
 		},
 		{
 			"name": "Online Books",
-			"lowercased_id": "onlinebooks",
 			"links": [
 				{
 					"name": "CSharp In Depth",
@@ -340,7 +321,6 @@
 		},
 		{
 			"name": "Ebooks",
-			"lowercased_id": "ebooks",
 			"links": [
 				{
 					"name": "Rip Tutorial",
@@ -350,7 +330,6 @@
 		},
 		{
 			"name": "MVC Best Practices",
-			"lowercased_id": "mvcbestpractices",
 			"links": [
 				{
 					"name": "General: Best Practices and Guidelines",
@@ -364,7 +343,6 @@
 		},
 		{
 			"name": "MVC - Model",
-			"lowercased_id": "mvcmodel",
 			"links": [
 				{
 					"name": "ViewModels More Functional",
@@ -374,7 +352,6 @@
 		},
 		{
 			"name": "MVC - View",
-			"lowercased_id": "mvcview",
 			"links": [
 				{
 					"name": "MVC Dropdowns",
@@ -388,7 +365,6 @@
 		},
 		{
 			"name": "MVC - Controller",
-			"lowercased_id": "mvccontroller",
 			"links": [
 				{
 					"name": "ViewModels More Functional",
@@ -398,7 +374,6 @@
 		},
 		{
 			"name": "Repository Pattern",
-			"lowercased_id": "repositorypattern",
 			"links": [
 				{
 					"name": "Why?",
@@ -444,7 +419,6 @@
 		},
 		{
 			"name": "Test-driven Development",
-			"lowercased_id": "tdd",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -454,7 +428,6 @@
 		},
 		{
 			"name": "Scrum",
-			"lowercased_id": "scrum",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -464,7 +437,6 @@
 		},
 		{
 			"name": "Agile",
-			"lowercased_id": "agile",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -474,7 +446,6 @@
 		},
 		{
 			"name": "SOLID",
-			"lowercased_id": "solid",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -488,7 +459,6 @@
 		},
 		{
 			"name": "MVC",
-			"lowercased_id": "mvc",
 			"links": [
 				{
 					"name": "Life Cycle",
@@ -498,7 +468,6 @@
 		},
 		{
 			"name": "APIs",
-			"lowercased_id": "apis",
 			"links": [
 				{
 					"name": "mockAPI",
@@ -508,7 +477,6 @@
 		},
 		{
 			"name": "Social",
-			"lowercased_id": "social",
 			"links": [
 				{
 					"name": "C# Discord",
@@ -522,7 +490,6 @@
 		},
 		{
 			"name": "Job Search",
-			"lowercased_id": "jobs",
 			"links": [
 				{
 					"name": "arc.dev",
@@ -532,7 +499,6 @@
 		},
 		{
 			"name": "Online Tools",
-			"lowercased_id": "onlinetools",
 			"links": [
 				{
 					"name": "10015 Tools",
@@ -546,7 +512,6 @@
 		},
 		{
 			"name": "Entity Framework",
-			"lowercased_id": "entityframework",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -564,7 +529,6 @@
 		},
 		{
 			"name": "Object–Relational Mapping (ORM)",
-			"lowercased_id": "orm",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -578,7 +542,6 @@
 		},
 		{
 			"name": "Domain-Driven Design (DDD)",
-			"lowercased_id": "ddd",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -588,7 +551,6 @@
 		},
 		{
 			"name": "NuGet Dependencies",
-			"lowercased_id": "nugetdep",
 			"links": [
 				{
 					"name": "T4MVC",
@@ -602,7 +564,6 @@
 		},
 		{
 			"name": "GitHub Pages",
-			"lowercased_id": "githubpages",
 			"links": [
 				{
 					"name": "Use own DB on GHP",
@@ -616,7 +577,6 @@
 		},
 		{
 			"name": "Hosting",
-			"lowercased_id": "hosting",
 			"links": [
 				{
 					"name": "Azure",
@@ -658,7 +618,6 @@
 		},
 		{
 			"name": "C# Features",
-			"lowercased_id": "chsarpfeatures",
 			"links": [
 				{
 					"name": "Partials",
@@ -668,7 +627,6 @@
 		},
 		{
 			"name": "🤓",
-			"lowercased_id": "lol",
 			"links": [
 				{
 					"name": "List of topics",
@@ -682,7 +640,6 @@
 		},
 		{
 			"name": "LINQ",
-			"lowercased_id": "linq",
 			"links": [
 				{
 					"name": "Using IQueryable with Linq",
@@ -692,7 +649,6 @@
 		},
 		{
 			"name": "YouTube 📺",
-			"lowercased_id": "youtube",
 			"links": [
 				{
 				"name": "freeCodeCamp.org",
