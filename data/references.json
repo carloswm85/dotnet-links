@@ -305,8 +305,16 @@
 			"name": "C#",
 			"links": [
 				{
-					"name": "Style Guide",
+					"name": "C# Style Guide (by Google)",
 					"url": "https://google.github.io/styleguide/csharp-style.html"
+				},
+				{
+					"name": "C# Style Rules (by MS)",
+					"url": "https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/"
+				},
+				{
+					"name": "C# Built In Types",
+					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types"
 				}
 			]
 		},
