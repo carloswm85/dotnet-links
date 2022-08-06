@@ -1,5 +1,4 @@
 // JSON REFERENCES
-
 // Why do this? To make adding new links easier, while using JSON file.
 
 const requestURL = ".\\data\\references.json";
