@@ -381,6 +381,10 @@
 				{
 					"name": "ViewModels More Functional",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-viewmodel-make-your-viewmodels-more-functional-PY"
+				},
+				{
+					"name": "Model Validation",
+					"url": "https://www.c-sharpcorner.com/article/model-validation-in-mvc-5/"
 				}
 			]
 		},
@@ -505,6 +509,14 @@
 				{
 					"name": "Life Cycle",
 					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application"
+				},
+				{
+					"name": "Basic Architecture (SO)",
+					"url": "https://stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371#9933371"
+				},
+				{
+				"name": "Basic Implementation (danylkoweb.com)",
+				"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-make-your-application-an-onion-QE"
 				}
 			]
 		},
@@ -757,6 +769,14 @@
 				{
 					"name": "Software Architecture Monday, with Mark Richards",
 					"url": "https://youtu.be/FKYKeqWfyIs"
+				},
+				{
+					"name": "Multitier Architecture (Wiki)",
+					"url": "https://en.wikipedia.org/wiki/Multitier_architecture"
+				},
+				{
+					"name": "Onion Architecture (Jeffrey Palermo)",
+					"url": "https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/"
 				}
 			]
 		},
