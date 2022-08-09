@@ -36,7 +36,7 @@ fetch(requestURL)
 					.toLowerCase()
 					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
 			);
-			button.setAttribute("data-content", i + 1);
+			button.setAttribute("data-content", `${references[i].id}`);
 			button.innerText = `${references[i].name}`;
 			referencesView.appendChild(button);
 			// buttons.parentNode.insertBefore(button, buttons.nextSibling);
