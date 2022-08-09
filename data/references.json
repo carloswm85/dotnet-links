@@ -331,8 +331,8 @@
 			"name": "Ebooks",
 			"links": [
 				{
-				"name": ".NET Architecture Guides (Official)",
-				"url": "https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides"
+					"name": ".NET Architecture Guides (Official)",
+					"url": "https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides"
 				},
 				{
 					"name": "Rip Tutorial",
@@ -681,6 +681,10 @@
 				{
 					"name": ".NET Interview Preparation videos",
 					"url": "https://www.youtube.com/c/dnfvideo/videos"
+				},
+				{
+					"name": "Mark Richards, on Software Architecture",
+					"url": "https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w"
 				}
 			]
 		},
@@ -690,6 +694,15 @@
 				{
 					"name": "abp.io",
 					"url": "https://abp.io/"
+				}
+			]
+		},
+		{
+			"name": "Software Architecture",
+			"links": [
+				{
+					"name": "Software Architecture Monday, with Mark Richards",
+					"url": "https://youtu.be/FKYKeqWfyIs"
 				}
 			]
 		}
