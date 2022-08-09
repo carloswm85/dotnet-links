@@ -742,7 +742,7 @@
 		},
 		{
 			"id": 45,
-			"name": "Frameworks",
+			"name": "Other Frameworks",
 			"links": [
 				{
 					"name": "abp.io",
@@ -757,6 +757,24 @@
 				{
 					"name": "Software Architecture Monday, with Mark Richards",
 					"url": "https://youtu.be/FKYKeqWfyIs"
+				}
+			]
+		},
+		{
+			"id": 47,
+			"name": "ADO.NET",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/ADO.NET"
+				},
+				{
+					"name": "MS Docs",
+					"url": "https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/"
+				},
+				{
+					"name": "Entity Framework VS ADO.NET",
+					"url": "https://stackoverflow.com/questions/22328889/entity-framework-vs-pure-ado-net"
 				}
 			]
 		}
