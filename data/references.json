@@ -277,6 +277,10 @@
 				{
 					"name": "HTML Helper",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php"
+				},
+				{
+				"name": "Custom Helper Minimal Example (SO)",
+				"url": "https://stackoverflow.com/a/50947610/7389293"
 				}
 			]
 		},
