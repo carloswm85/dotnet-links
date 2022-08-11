@@ -515,8 +515,8 @@
 					"url": "https://stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371#9933371"
 				},
 				{
-				"name": "Basic Implementation (danylkoweb.com)",
-				"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-make-your-application-an-onion-QE"
+					"name": "Basic Implementation (danylkoweb.com)",
+					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-make-your-application-an-onion-QE"
 				}
 			]
 		},
@@ -795,6 +795,16 @@
 				{
 					"name": "Entity Framework VS ADO.NET",
 					"url": "https://stackoverflow.com/questions/22328889/entity-framework-vs-pure-ado-net"
+				}
+			]
+		},
+		{
+			"id": 48,
+			"name": "Clean Code",
+			"links": [
+				{
+					"name": "if() return",
+					"url": "https://www.youtube.com/shorts/JnFh2NoAM4s"
 				}
 			]
 		}
