@@ -116,8 +116,12 @@
 		},
 		{
 			"id": 6,
-			"name": "nTier",
+			"name": "nTier/Layered Architecture",
 			"links": [
+				{
+					"name": "First Reading",
+					"url": "https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier"
+				},
 				{
 					"name": "Layered Project Case",
 					"url": "https://stackoverflow.com/questions/71714676/where-do-i-place-the-entity-framework-queries-in-layered-architecture"
@@ -800,7 +804,7 @@
 		},
 		{
 			"id": 48,
-			"name": "Clean Code",
+			"name": "Cleaner Code Examples",
 			"links": [
 				{
 					"name": "if() return",

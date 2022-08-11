@@ -11,6 +11,7 @@ fetch(requestURL)
 		const references = jsonObject["references"];
 		const referencesView = document.querySelector("#references");
 
+		// BUTTON
 		for (let i = 0; i < references.length; i++) {
 			let button = document.createElement("button");
 			button.classList.add(
@@ -76,7 +77,7 @@ fetch(requestURL)
 
 			let h2 = document.createElement("h2");
 			h2.classList.add("ms-auto", "me-auto");
-			h2.innerText = `${references[i].name}`;
+			h2.innerText = `(${references[i].id}) ${references[i].name}`;
 
 			let div4 = document.createElement("div");
 			div4.classList.add("list-group");
