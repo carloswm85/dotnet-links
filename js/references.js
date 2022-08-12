@@ -22,25 +22,26 @@ fetch(requestURL)
 				"me-1"
 			);
 			button.setAttribute("type", "button");
-			// button.setAttribute("data-bs-placement", "top");
 			button.setAttribute("data-bs-toggle", "collapse");
 			button.setAttribute(
 				"data-bs-target",
 				`#${references[i].name
 					.toLowerCase()
-					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
+					.replace(/[. *+?\/\#^${&}()|[\]\\]/g, "")}`
 			);
 			button.setAttribute("aria-expanded", "false");
 			button.setAttribute(
 				"aria-controls",
 				`${references[i].name
 					.toLowerCase()
-					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
+					.replace(/[. *+?\/\#^${&}()|[\]\\]/g, "")}`
 			);
-			button.setAttribute("data-content", `${references[i].id}`);
+			button.setAttribute(
+				"data-content",
+				`${references[i].id}`
+			);
 			button.innerText = `${references[i].name}`;
 			referencesView.appendChild(button);
-			// buttons.parentNode.insertBefore(button, buttons.nextSibling);
 		}
 
 		let horizontalRule = document.createElement("hr");
@@ -68,16 +69,20 @@ fetch(requestURL)
 				"id",
 				`${references[i].name
 					.toLowerCase()
-					.replace(/[. *+?\/\#^${}()|[\]\\]/g, "")}`
+					.replace(/[. *+?\/\#^${&}()|[\]\\]/g, "")}`
 			);
 
 			let div3 = document.createElement("div");
 			div3.classList.add("card", "card-body", "text-white", "bg-dark");
-			div3.setAttribute("style", "width: 300px;");
+			div3.setAttribute("style", "width: 350px;");
 
 			let h2 = document.createElement("h2");
 			h2.classList.add("ms-auto", "me-auto");
 			h2.innerText = `(${references[i].id}) ${references[i].name}`;
+			
+			let p = document.createElement("p");
+			p.classList.add("ms-auto", "me-auto");
+			p.innerText = `${references[i].about}`;
 
 			let div4 = document.createElement("div");
 			div4.classList.add("list-group");
@@ -98,6 +103,7 @@ fetch(requestURL)
 			}
 
 			div3.appendChild(h2);
+			div3.appendChild(p);
 			div3.appendChild(div4);
 			div2.appendChild(div3);
 			div1.appendChild(div2);

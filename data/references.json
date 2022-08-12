@@ -3,6 +3,7 @@
 		{
 			"id": 1,
 			"name": "Bootstrap",
+			"about": "",
 			"links": [
 				{
 					"name": "Official Docs (5.1)",
@@ -37,6 +38,7 @@
 		{
 			"id": 2,
 			"name": "Async/Await",
+			"about": "",
 			"links": [
 				{
 					"name": "Why",
@@ -59,6 +61,7 @@
 		{
 			"id": 3,
 			"name": "SSMS",
+			"about": "",
 			"links": [
 				{
 					"name": "Local Server Set Up",
@@ -73,6 +76,7 @@
 		{
 			"id": 4,
 			"name": "CSS",
+			"about": "",
 			"links": [
 				{
 					"name": "Flexbox Guide",
@@ -95,6 +99,7 @@
 		{
 			"id": 5,
 			"name": "DateTime",
+			"about": "",
 			"links": [
 				{
 					"name": "Format String",
@@ -117,6 +122,7 @@
 		{
 			"id": 6,
 			"name": "nTier/Layered Architecture",
+			"about": "",
 			"links": [
 				{
 					"name": "First Reading",
@@ -143,6 +149,7 @@
 		{
 			"id": 7,
 			"name": "jQuery",
+			"about": "",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -169,6 +176,7 @@
 		{
 			"id": 8,
 			"name": "Design Patterns",
+			"about": "",
 			"links": [
 				{
 					"name": "Software Design Patterns (Wiki)",
@@ -191,6 +199,7 @@
 		{
 			"id": 9,
 			"name": "Vue.js",
+			"about": "",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -201,6 +210,7 @@
 		{
 			"id": 10,
 			"name": "React.js",
+			"about": "",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -211,6 +221,7 @@
 		{
 			"id": 11,
 			"name": "Angular.js",
+			"about": "",
 			"links": [
 				{
 					"name": "Official Docs",
@@ -221,6 +232,7 @@
 		{
 			"id": 12,
 			"name": "JavaScript",
+			"about": "",
 			"links": [
 				{
 					"name": "Style guide",
@@ -231,6 +243,7 @@
 		{
 			"id": 13,
 			"name": "RegEx",
+			"about": "",
 			"links": [
 				{
 					"name": "regexr.com",
@@ -245,6 +258,7 @@
 		{
 			"id": 14,
 			"name": "MS SQL Server",
+			"about": "",
 			"links": [
 				{
 					"name": "(General) Style",
@@ -259,6 +273,7 @@
 		{
 			"id": 15,
 			"name": "SQL Language",
+			"about": "",
 			"links": [
 				{
 					"name": "char Vs nchar",
@@ -273,20 +288,22 @@
 		{
 			"id": 16,
 			"name": "Razor",
+			"about": "",
 			"links": [
 				{
 					"name": "HTML Helper",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php"
 				},
 				{
-				"name": "Custom Helper Minimal Example (SO)",
-				"url": "https://stackoverflow.com/a/50947610/7389293"
+					"name": "Custom Helper Minimal Example (SO)",
+					"url": "https://stackoverflow.com/a/50947610/7389293"
 				}
 			]
 		},
 		{
 			"id": 17,
 			"name": ".NET Tutorials",
+			"about": "",
 			"links": [
 				{
 					"name": "MS Technical Documentation",
@@ -329,6 +346,7 @@
 		{
 			"id": 18,
 			"name": "C#",
+			"about": "",
 			"links": [
 				{
 					"name": "C# Style Guide (by Google)",
@@ -341,12 +359,17 @@
 				{
 					"name": "C# Built In Types",
 					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types"
+				},
+				{
+				"name": "Constraints on type parameters",
+				"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters"
 				}
 			]
 		},
 		{
 			"id": 19,
 			"name": "Online Books",
+			"about": "",
 			"links": [
 				{
 					"name": "CSharp In Depth",
@@ -357,6 +380,7 @@
 		{
 			"id": 20,
 			"name": "Ebooks",
+			"about": "",
 			"links": [
 				{
 					"name": ".NET Architecture Guides (Official)",
@@ -371,6 +395,7 @@
 		{
 			"id": 21,
 			"name": "MVC Best Practices",
+			"about": "",
 			"links": [
 				{
 					"name": "General: Best Practices and Guidelines",
@@ -385,6 +410,7 @@
 		{
 			"id": 22,
 			"name": "MVC - Model",
+			"about": "",
 			"links": [
 				{
 					"name": "ViewModels More Functional",
@@ -399,6 +425,7 @@
 		{
 			"id": 23,
 			"name": "MVC - View",
+			"about": "",
 			"links": [
 				{
 					"name": "MVC Dropdowns",
@@ -413,6 +440,7 @@
 		{
 			"id": 24,
 			"name": "MVC - Controller",
+			"about": "",
 			"links": [
 				{
 					"name": "ViewModels More Functional",
@@ -422,18 +450,19 @@
 		},
 		{
 			"id": 25,
-			"name": "Repository Pattern",
+			"name": "Repository Pattern & Unit of Work",
+			"about": "The repository and unit of work patterns are intended to create an abstraction layer between the data access layer and the business logic layer of an application. Implementing these patterns can help insulate your application from changes in the data store and can facilitate automated unit testing or test-driven development (TDD).",
 			"links": [
 				{
-					"name": "Why?",
+					"name": "Why? (SO)",
 					"url": "https://stackoverflow.com/questions/8749153/why-use-repository-pattern-or-please-explain-it-to-me"
 				},
 				{
-					"name": "But why??",
+					"name": "But why?? (SO)",
 					"url": "https://stackoverflow.com/questions/11985736/repository-pattern-step-by-step-explanation"
 				},
 				{
-					"name": "Implementation #1",
+					"name": "Implementation #1 (SO)",
 					"url": "https://stackoverflow.com/questions/10925257/best-repository-pattern-for-asp-net-mvc/10925510#10925510"
 				},
 				{
@@ -463,12 +492,17 @@
 				{
 					"name": "Content List for RP interface (GS)",
 					"url": "https://docs.google.com/spreadsheets/d/18gYhR05ykkRqwye3n808POnTfXT_8MVjz-a5rtldZrg/edit?usp=sharing"
+				},
+				{
+					"name": "⭐ Repository and Unit of Work Patterns in an ASP.NET MVC (MS)",
+					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application"
 				}
 			]
 		},
 		{
 			"id": 26,
 			"name": "Test-driven Development",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -479,6 +513,7 @@
 		{
 			"id": 27,
 			"name": "Scrum",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -489,6 +524,7 @@
 		{
 			"id": 28,
 			"name": "Agile",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -499,6 +535,7 @@
 		{
 			"id": 29,
 			"name": "SOLID",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -513,6 +550,7 @@
 		{
 			"id": 30,
 			"name": "MVC",
+			"about": "",
 			"links": [
 				{
 					"name": "Life Cycle",
@@ -531,6 +569,7 @@
 		{
 			"id": 31,
 			"name": "APIs",
+			"about": "",
 			"links": [
 				{
 					"name": "mockAPI",
@@ -541,6 +580,7 @@
 		{
 			"id": 32,
 			"name": "Social",
+			"about": "",
 			"links": [
 				{
 					"name": "C# Discord",
@@ -555,6 +595,7 @@
 		{
 			"id": 33,
 			"name": "Job Search",
+			"about": "",
 			"links": [
 				{
 					"name": "arc.dev",
@@ -565,6 +606,7 @@
 		{
 			"id": 34,
 			"name": "Online Tools",
+			"about": "",
 			"links": [
 				{
 					"name": "10015 Tools",
@@ -583,6 +625,7 @@
 		{
 			"id": 35,
 			"name": "Entity Framework",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -601,6 +644,7 @@
 		{
 			"id": 36,
 			"name": "Object–Relational Mapping (ORM)",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -615,6 +659,7 @@
 		{
 			"id": 37,
 			"name": "Domain-Driven Design (DDD)",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -625,6 +670,7 @@
 		{
 			"id": 38,
 			"name": "NuGet Dependencies",
+			"about": "",
 			"links": [
 				{
 					"name": "T4MVC",
@@ -639,6 +685,7 @@
 		{
 			"id": 39,
 			"name": "GitHub Pages",
+			"about": "",
 			"links": [
 				{
 					"name": "Use own DB on GHP",
@@ -653,6 +700,7 @@
 		{
 			"id": 40,
 			"name": "Hosting",
+			"about": "",
 			"links": [
 				{
 					"name": "Azure",
@@ -695,6 +743,7 @@
 		{
 			"id": 41,
 			"name": "C# Features",
+			"about": "",
 			"links": [
 				{
 					"name": "Partials",
@@ -705,6 +754,7 @@
 		{
 			"id": 42,
 			"name": "🤓",
+			"about": "Non-topical stuffs.",
 			"links": [
 				{
 					"name": "List of topics",
@@ -723,6 +773,7 @@
 		{
 			"id": 43,
 			"name": "LINQ",
+			"about": "",
 			"links": [
 				{
 					"name": "Using IQueryable with Linq",
@@ -733,6 +784,7 @@
 		{
 			"id": 44,
 			"name": "YouTube 📺",
+			"about": "",
 			"links": [
 				{
 					"name": "freeCodeCamp.org",
@@ -763,6 +815,7 @@
 		{
 			"id": 45,
 			"name": "Other Frameworks",
+			"about": "",
 			"links": [
 				{
 					"name": "abp.io",
@@ -773,6 +826,7 @@
 		{
 			"id": 46,
 			"name": "Software Architecture",
+			"about": "",
 			"links": [
 				{
 					"name": "Software Architecture Monday, with Mark Richards",
@@ -791,6 +845,7 @@
 		{
 			"id": 47,
 			"name": "ADO.NET",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -809,10 +864,30 @@
 		{
 			"id": 48,
 			"name": "Cleaner Code Examples",
+			"about": "",
 			"links": [
 				{
 					"name": "if() return",
 					"url": "https://www.youtube.com/shorts/JnFh2NoAM4s"
+				}
+			]
+		},
+		{
+			"id": "49",
+			"name": "Workflow Tools",
+			"about": "",
+			"links": [
+				{
+					"name": "Asana",
+					"url": "https://app.asana.com/"
+				},
+				{
+					"name": "notion.so",
+					"url": "https://www.notion.so"
+				},
+				{
+					"name": "boostnote.io",
+					"url": "https://boostnote.io/gdm"
 				}
 			]
 		}
