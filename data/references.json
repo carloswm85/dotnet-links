@@ -909,6 +909,40 @@
 					"url": "https://stackify.com/top-11-json-performance-usage-tips/"
 				}
 			]
+		},
+		{
+			"id": 51,
+			"name": "Packages",
+			"about": "Packages for: npm, NuGet",
+			"links": [
+				{
+					"name": "openbase.com (npm)",
+					"url": "https://openbase.com/"
+				}
+			]
+		},
+		{
+			"id": 52,
+			"name": "HTML Template Engines",
+			"about": "Template Engines are tools that help us break HTML code into smaller pieces that we can reuse across multiple HTML files. They also give you the power to feed data into variables that help you simplify your code.",
+			"links": [
+				{
+					"name": "Top 10",
+					"url": "https://openbase.com/categories/js/most-popular-javascript-html-templating-engine-libraries"
+				},
+				{
+					"name": "How to Modularize HTML Using Template Engines and Gulp",
+					"url": "https://zellwk.com/blog/nunjucks-with-gulp/"
+				},
+				{
+					"name": "Nunjucks",
+					"url": "https://mozilla.github.io/nunjucks/"
+				},
+				{
+					"name": "Pug",
+					"url": "https://github.com/pugjs/pug"
+				}
+			]
 		}
 	]
 }
