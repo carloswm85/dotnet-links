@@ -3,8 +3,12 @@
 		{
 			"id": 1,
 			"name": "Bootstrap",
-			"about": "",
+			"about": "Free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"
+				},
 				{
 					"name": "Official Docs (5.1)",
 					"url": "https://getbootstrap.com/docs/5.1/getting-started/introduction/"
@@ -38,8 +42,12 @@
 		{
 			"id": 2,
 			"name": "Async/Await",
-			"about": "",
+			"about": "In computer programming, the async/await pattern is a syntactic feature of many programming languages that allows an asynchronous, non-blocking function to be structured in a way similar to an ordinary synchronous function.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Async/await"
+				},
 				{
 					"name": "Why",
 					"url": "https://stackoverflow.com/a/32343477/7389293"
@@ -60,9 +68,13 @@
 		},
 		{
 			"id": 3,
-			"name": "SSMS",
-			"about": "",
+			"name": "SSMS and MS SQL Sever",
+			"about": "SQL Server Management Studio (SSMS) is a software application used for configuring, managing, and administering all components within Microsoft SQL Server (which is, a relational database management system, or database server).",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/SQL_Server_Management_Studio"
+				},
 				{
 					"name": "Local Server Set Up",
 					"url": "https://blogs.triggerdb.com/2021/06/02/instalar-y-configurar-sql-2019-developer-paso-a-paso/"
@@ -76,8 +88,12 @@
 		{
 			"id": 4,
 			"name": "CSS",
-			"about": "",
+			"about": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation (looks) of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/CSS"
+				},
 				{
 					"name": "Flexbox Guide",
 					"url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
@@ -98,9 +114,13 @@
 		},
 		{
 			"id": 5,
-			"name": "DateTime",
-			"about": "",
+			"name": "DateTime (General)",
+			"about": "General use. Including and not limited to: C#, SQL, JS, etc. In computer science and computer programming, system time represents a computer system's notion of the passage of time. In this sense, time also includes the passing of days on the calendar. ",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/System_time"
+				},
 				{
 					"name": "Format String",
 					"url": "https://stackoverflow.com/a/24728080/7389293"
@@ -122,8 +142,12 @@
 		{
 			"id": 6,
 			"name": "nTier/Layered Architecture",
-			"about": "",
+			"about": "Multitier architecture (often referred to as n-tier architecture) is a client–server architecture in which presentation, application processing and data management functions are physically separated. The most widespread use of multitier architecture is the three-tier architecture.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Multitier_architecture"
+				},
 				{
 					"name": "First Reading",
 					"url": "https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier"
@@ -149,8 +173,12 @@
 		{
 			"id": 7,
 			"name": "jQuery",
-			"about": "",
+			"about": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/JQuery"
+				},
 				{
 					"name": "Official Docs",
 					"url": "https://learn.jquery.com/code-organization/"
@@ -176,10 +204,10 @@
 		{
 			"id": 8,
 			"name": "Design Patterns",
-			"about": "",
+			"about": "It is a general, reusable solution to a commonly occurring problem within a given context in software design.",
 			"links": [
 				{
-					"name": "Software Design Patterns (Wiki)",
+					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Software_design_pattern"
 				},
 				{
@@ -199,8 +227,12 @@
 		{
 			"id": 9,
 			"name": "Vue.js",
-			"about": "",
+			"about": "Open-source model–view–viewmodel front-end JavaScript framework for building user interfaces and single-page applications.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Vue.js"
+				},
 				{
 					"name": "Official Docs",
 					"url": "https://vuejs.org/guide/introduction.html"
@@ -209,9 +241,13 @@
 		},
 		{
 			"id": 10,
-			"name": "React.js",
-			"about": "",
+			"name": "ReactJS",
+			"about": "Free and open-source front-end JavaScript library for building user interfaces based on UI components. It can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)"
+				},
 				{
 					"name": "Official Docs",
 					"url": "https://reactjs.org/docs/getting-started.html"
@@ -220,9 +256,13 @@
 		},
 		{
 			"id": 11,
-			"name": "Angular.js",
-			"about": "",
+			"name": "Angular",
+			"about": "TypeScript-based free and open-source web application framework.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Angular_(web_framework)"
+				},
 				{
 					"name": "Official Docs",
 					"url": "https://angular.io/docs"
@@ -232,8 +272,16 @@
 		{
 			"id": 12,
 			"name": "JavaScript",
-			"about": "",
+			"about": "High-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).\nThe ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O. ",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/JavaScript"
+				},
+				{
+					"name": "Comparison of JavaScript-based web frameworks (Wiki)",
+					"url": "https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks"
+				},
 				{
 					"name": "Style guide",
 					"url": "https://google.github.io/styleguide/jsguide.html"
@@ -596,6 +644,10 @@
 				{
 					"name": "arc.dev",
 					"url": "https://arc.dev/"
+				},
+				{
+					"name": "amazonuniversity.jobs",
+					"url": "https://www.amazonuniversity.jobs/"
 				}
 			]
 		},
@@ -967,6 +1019,28 @@
 				{
 					"name": "ASP.NET MVC Best Practices and Guidelines",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4"
+				}
+			]
+		},
+		{
+			"id": 55,
+			"name": "Well-being ❤️‍🩹",
+			"about": "",
+			"links": [
+				{
+					"name": "Healthy Software Developer",
+					"url": "https://www.youtube.com/c/JaymeEdwardsMedia"
+				}
+			]
+		},
+		{
+			"id": 56,
+			"name": "Ajax",
+			"about": "Ajax (\"Asynchronous JavaScript and XML/JSON\") is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications. Ajax is not a technology, but rather a programming concept and technology use.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Ajax_(programming)"
 				}
 			]
 		}
