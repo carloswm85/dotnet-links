@@ -398,10 +398,6 @@
 			"about": "",
 			"links": [
 				{
-					"name": "General: Best Practices and Guidelines",
-					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4"
-				},
-				{
 					"name": "Helper Methods",
 					"url": "https://stackoverflow.com/questions/8233286/mvc3-helper-method-to-be-used-by-several-controllers"
 				}
@@ -960,6 +956,17 @@
 				{
 					"name": "Docker Docs",
 					"url": "https://docs.docker.com/"
+				}
+			]
+		},
+		{
+			"id": 54,
+			"name": "DanylkoWeb 🔥",
+			"about": "A technology blog focusing on mobile, responsive, and web technologies primarily in the Microsoft stack.",
+			"links": [
+				{
+					"name": "ASP.NET MVC Best Practices and Guidelines",
+					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4"
 				}
 			]
 		}
