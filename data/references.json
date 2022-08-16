@@ -648,6 +648,22 @@
 				{
 					"name": "amazonuniversity.jobs",
 					"url": "https://www.amazonuniversity.jobs/"
+				},
+				{
+					"name": "UpWork",
+					"url": "https://www.upwork.com/"
+				},
+				{
+					"name": "Fiverr",
+					"url": "https://www.fiverr.com/"
+				},
+				{
+					"name": "FlexJobs",
+					"url": "https://www.flexjobs.com/"
+				},
+				{
+					"name": "Nomad Coders",
+					"url": ""
 				}
 			]
 		},
@@ -1099,6 +1115,52 @@
 				{
 					"name": "Toast Notifications",
 					"url": "https://codewithmukesh.com/blog/toast-notifications-in-aspnet-core/"
+				}
+			]
+		},
+		{
+			"id": 59,
+			"name": "Nomad Work",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Digital_nomad"
+				},
+				{
+					"name": "The Ultimate Digital Nomad Guide",
+					"url": "https://www.outsite.co/digital-nomad-guide"
+				},
+				{
+					"name": "Reddit",
+					"url": "https://www.reddit.com/r/digitalnomad/"
+				},
+				{
+					"name": "OUTSITE",
+					"url": "https://www.outsite.co/"
+				}
+			]
+		},
+		{
+			"id": 60,
+			"name": "Blogs",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "danylkoweb.com",
+					"url": "https://www.danylkoweb.com"
+				},
+				{
+					"name": "codejourney.net",
+					"url": "https://www.codejourney.net/"
+				},
+				{
+					"name": "shhdharmen.me",
+					"url": "https://blog.shhdharmen.me/"
 				}
 			]
 		}
