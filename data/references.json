@@ -1043,6 +1043,64 @@
 					"url": "https://en.wikipedia.org/wiki/Ajax_(programming)"
 				}
 			]
+		},
+		{
+			"id": 57,
+			"name": "Git",
+			"about": "Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Git"
+				},
+				{
+					"name": "Git Docs",
+					"url": "https://git-scm.com/doc"
+				},
+				{
+					"name": "Common Git Commands",
+					"url": "http://guides.beanstalkapp.com/version-control/common-git-commands.html"
+				},
+				{
+					"name": "Git Workflow",
+					"url": "https://wiki.spheredev.org/index.php/Git_for_the_lazy#Introduce_yourself_to_git"
+				},
+				{
+					"name": "git - the simple guide",
+					"url": "http://up1.github.io/git-guide/index.html"
+				},
+				{
+					"name": "learngitbranching.js.org",
+					"url": "https://learngitbranching.js.org/"
+				},
+				{
+					"name": "gitexercises.fracz.com",
+					"url": "https://gitexercises.fracz.com/"
+				},
+				{
+					"name": "gitimmersion.com",
+					"url": "https://gitimmersion.com/lab_01.html"
+				},
+				{
+					"name": "visual-git-guide",
+					"url": "https://marklodato.github.io/visual-git-guide/index-en.html"
+				}
+			]
+		},
+		{
+			"id": 58,
+			"name": "UI (User Interface)",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/User_interface"
+				},
+				{
+					"name": "Toast Notifications",
+					"url": "https://codewithmukesh.com/blog/toast-notifications-in-aspnet-core/"
+				}
+			]
 		}
 	]
 }
