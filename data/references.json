@@ -122,7 +122,7 @@
 					"url": "https://en.wikipedia.org/wiki/System_time"
 				},
 				{
-					"name": "Format String",
+					"name": "DateTime to \"YYYYMMDDHHMMSS\" format",
 					"url": "https://stackoverflow.com/a/24728080/7389293"
 				},
 				{
@@ -136,6 +136,10 @@
 				{
 					"name": "How to get correct UNIX_TIMESTAMP in C#",
 					"url": "https://stackoverflow.com/questions/21219797/how-to-get-correct-timestamp-in-c-sharp"
+				},
+				{
+					"name": "timeSpan.ToString()",
+					"url": "https://stackoverflow.com/questions/11077711/timespan-tostring-format"
 				}
 			]
 		},
