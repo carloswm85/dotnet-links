@@ -1,6 +1,25 @@
 {
 	"references": [
 		{
+			"id": 0,
+			"name": "🔥",
+			"about": "Hottest Resources Out There",
+			"links": [
+				{
+					"name": "dotnetperls.com",
+					"url": "https://www.dotnetperls.com/"
+				},
+				{
+					"name": "c-sharpcorner.com",
+					"url": "https://www.c-sharpcorner.com/"
+				},
+				{
+					"name": "tutorialsteacher.com",
+					"url": "https://www.tutorialsteacher.com/"
+				}
+			]
+		},
+		{
 			"id": 1,
 			"name": "Bootstrap",
 			"about": "Free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
@@ -114,7 +133,7 @@
 		},
 		{
 			"id": 5,
-			"name": "DateTime (General)",
+			"name": "TIME (General)",
 			"about": "General use. Including and not limited to: C#, SQL, JS, etc. In computer science and computer programming, system time represents a computer system's notion of the passage of time. In this sense, time also includes the passing of days on the calendar. ",
 			"links": [
 				{
@@ -140,6 +159,10 @@
 				{
 					"name": "timeSpan.ToString()",
 					"url": "https://stackoverflow.com/questions/11077711/timespan-tostring-format"
+				},
+				{
+					"name": "dotnetperls.com",
+					"url": "https://www.dotnetperls.com/timespan"
 				}
 			]
 		},
@@ -583,7 +606,7 @@
 		{
 			"id": 29,
 			"name": "SOLID",
-			"about": "",
+			"about": "Mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable. Those principles are:\n• SRP - Single Responsibility\n• OCP - Open-Closed\n• LSP - Liskov Substitution\n• ISP - Interface Segregation\n• DIP - Dependency Inversion",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -882,7 +905,7 @@
 		},
 		{
 			"id": 45,
-			"name": "Other Frameworks",
+			"name": ".NET Frameworks",
 			"about": "",
 			"links": [
 				{
@@ -894,8 +917,12 @@
 		{
 			"id": 46,
 			"name": "Software Architecture",
-			"about": "",
+			"about": "Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Software_architecture"
+				},
 				{
 					"name": "Software Architecture Monday, with Mark Richards",
 					"url": "https://youtu.be/FKYKeqWfyIs"
@@ -907,6 +934,10 @@
 				{
 					"name": "Onion Architecture (Jeffrey Palermo)",
 					"url": "https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/"
+				},
+				{
+					"name": "Jamstack.org",
+					"url": "https://jamstack.org/"
 				}
 			]
 		},
@@ -1033,7 +1064,7 @@
 		},
 		{
 			"id": 54,
-			"name": "DanylkoWeb 🔥",
+			"name": "DanylkoWeb Topics 🔥",
 			"about": "A technology blog focusing on mobile, responsive, and web technologies primarily in the Microsoft stack.",
 			"links": [
 				{
@@ -1165,6 +1196,37 @@
 				{
 					"name": "shhdharmen.me",
 					"url": "https://blog.shhdharmen.me/"
+				}
+			]
+		},
+		{
+			"id": 61,
+			"name": "JS Frameworks",
+			"about": "A JavaScript framework is a collection of JavaScript code libraries that provide a web developer with pre-written code for routine programming tasks. Frameworks are structures with a particular context and help you create web applications within that context.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks"
+				},
+				{
+					"name": "What's",
+					"url": "https://generalassemb.ly/blog/what-is-a-javascript-framework/"
+				},
+				{
+					"name": "Angular",
+					"url": "https://angular.io/"
+				},
+				{
+					"name": "ReactJS",
+					"url": "https://reactjs.org/"
+				},
+				{
+					"name": "Vue.js",
+					"url": "https://vuejs.org/"
+				},
+				{
+					"name": "Alpine",
+					"url": "https://alpinejs.dev/"
 				}
 			]
 		}

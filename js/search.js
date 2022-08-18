@@ -34,4 +34,8 @@ function Validate(content) {
 			// document.getElementById("searchClear").style.display = "";
 		}
 	}
-}
+} 
+
+window.addEventListener("load", (event) => {
+	ClearSearchBox();
+});
