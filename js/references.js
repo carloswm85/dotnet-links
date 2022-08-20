@@ -54,7 +54,7 @@ fetch(requestURL)
 			let links = references[i].links;
 
 			let div1 = document.createElement("div");
-			div1.classList.add("position-absolute", "start-0", "top-0");
+			div1.classList.add("position-absolute", "start-0", "top-0", "mt-4");
 			div1.setAttribute("style", "min-height: 120px;");
 
 			let div2 = document.createElement("div");
