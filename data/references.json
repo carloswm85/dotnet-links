@@ -276,6 +276,10 @@
 					"url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)"
 				},
 				{
+					"name": "React in 100 Seconds",
+					"url": "https://youtu.be/Tn6-PIqc4UM"
+				},
+				{
 					"name": "Official Docs",
 					"url": "https://reactjs.org/docs/getting-started.html"
 				}
@@ -1227,6 +1231,52 @@
 				{
 					"name": "Alpine",
 					"url": "https://alpinejs.dev/"
+				}
+			]
+		},
+		{
+			"id": 62,
+			"name": "Blazor",
+			"about": "Free and open-source web framework that enables developers to create web apps using C# and HTML (avoiding the use of JS).",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Blazor"
+				},
+				{
+					"name": "",
+					"url": "https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-github-pagesHow to deploy ASP.NET Blazor WebAssembly to GitHub Pages"
+				}
+			]
+		},
+		{
+			"id": 63,
+			"name": "Static Site Generator",
+			"about": "A static site generator is a tool that generates a full static HTML website based on raw data and a set of templates. Essentially, a static site generator automates the task of coding individual HTML pages and gets those pages ready to serve to users ahead of time.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "/assets/wikipedia-no.jpg"
+				},{
+					"name": "What's",
+					"url": "https://kinsta.com/blog/static-site-generator/#5-best-static-site-generators"
+				},{
+					"name": "Jekyll",
+					"url": "https://jekyllrb.com/"
+				},{
+					"name": "HUGO",
+					"url": "https://gohugo.io"
+				},{
+					"name": "11ty (JS, NodeJS)",
+					"url": "https://www.11ty.dev/"
+				},
+				{
+					"name": "Gatsbyjs (from ReactJS)",
+					"url": "https://www.gatsbyjs.com"
+				},
+				{
+					"name": "Gridsome",
+					"url": "https://gridsome.org/"
 				}
 			]
 		}
