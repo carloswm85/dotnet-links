@@ -10695,11 +10695,11 @@ button.btn-dark:focus {
   border-color: rgb(43, 255, 0);
 }
 
-body {
+html, body {
+  height: 100vh;
   background: linear-gradient(135deg, #282828 25%, transparent 25%) -100px 0, linear-gradient(225deg, #282828 25%, transparent 25%) -100px 0, linear-gradient(315deg, #282828 25%, transparent 25%), linear-gradient(45deg, #282828 25%, transparent 25%);
   background-size: 200px 200px;
   background-color: #515151;
-  height: 100%;
 }
 
 hr {

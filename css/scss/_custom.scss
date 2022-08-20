@@ -14,8 +14,8 @@ button {
 	}
 }
 
-body {
-	// height: 100vh;
+html, body {
+	height: 100vh;
 	// background-image: url("../assets/background.jpg");
 	background: linear-gradient(135deg, #282828 25%, transparent 25%) -100px 0,
 		linear-gradient(225deg, #282828 25%, transparent 25%) -100px 0,
@@ -23,7 +23,6 @@ body {
 		linear-gradient(45deg, #282828 25%, transparent 25%);
 	background-size: 200px 200px;
 	background-color: #515151;
-	height: 100%;
 }
 
 hr {
