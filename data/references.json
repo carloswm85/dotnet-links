@@ -915,6 +915,10 @@
 				{
 					"name": "abp.io",
 					"url": "https://abp.io/"
+				},
+				{
+					"name": "syncfusion.com (inspiration)",
+					"url": "https://ej2.syncfusion.com/home/aspnetmvc.html"
 				}
 			]
 		},
