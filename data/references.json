@@ -424,7 +424,7 @@
 		},
 		{
 			"id": 18,
-			"name": "C#",
+			"name": "C# General",
 			"about": "",
 			"links": [
 				{
@@ -837,7 +837,7 @@
 		},
 		{
 			"id": 41,
-			"name": "C# Features",
+			"name": "C# OOP",
 			"about": "",
 			"links": [
 				{
@@ -1257,16 +1257,20 @@
 				{
 					"name": "Wikipedia",
 					"url": "/assets/wikipedia-no.jpg"
-				},{
+				},
+				{
 					"name": "What's",
 					"url": "https://kinsta.com/blog/static-site-generator/#5-best-static-site-generators"
-				},{
+				},
+				{
 					"name": "Jekyll",
 					"url": "https://jekyllrb.com/"
-				},{
+				},
+				{
 					"name": "HUGO",
 					"url": "https://gohugo.io"
-				},{
+				},
+				{
 					"name": "11ty (JS, NodeJS)",
 					"url": "https://www.11ty.dev/"
 				},
@@ -1277,6 +1281,36 @@
 				{
 					"name": "Gridsome",
 					"url": "https://gridsome.org/"
+				}
+			]
+		},
+		{
+			"id": 64,
+			"name": "Authentication/Authorization",
+			"about": "Service and a procedure that enables members of different institutions to access protected information that is distributed on different web servers.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Authentication_and_authorization_infrastructure"
+				},
+				{
+					"name": "auth0",
+					"url": "https://auth0.com/"
+				}
+			]
+		},
+		{
+			"id": 65,
+			"name": "C# Exception Handling",
+			"about": "Process of responding to the occurrence of exceptions (anomalous or exceptional conditions requiring special processing) during the execution of a program. In general, an exception breaks the normal flow of execution and executes a pre-registered exception handler. The details of how this is done depend on whether it is a hardware or software exception. Some exceptions, especially hardware ones, may be handled so gracefully that execution can resume where it was interrupted.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Exception_handling"
+				},
+				{
+					"name": "throw keyword basic example",
+					"url": "https://www.tutorialsteacher.com/csharp/throw-csharp"
 				}
 			]
 		}
