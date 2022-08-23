@@ -1,0 +1,4 @@
+- Update: DataTables, added more features
+- Update: DataTables into Spanish
+- Update: DataTables, correct styling to Bootstrap 5
+- Add: DataTables dependencies, still need to add bundles, and delete cdn references

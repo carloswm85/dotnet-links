@@ -223,8 +223,12 @@
 					"url": "http://www.jquery-steps.com/"
 				},
 				{
-					"name": "DataTables",
-					"url": "https://datatables.net/"
+					"name": "DataTables (Examples)",
+					"url": "https://datatables.net/examples/index"
+				},
+				{
+					"name": "DataTables at ASP.NET (Back-end)",
+					"url": "https://gist.github.com/ChinhP/9b4dc1df1b12637b99a420aa268ae32b"
 				}
 			]
 		},
@@ -1315,6 +1319,29 @@
 				{
 					"name": "throw keyword basic example",
 					"url": "https://www.tutorialsteacher.com/csharp/throw-csharp"
+				}
+			]
+		},
+		{
+			"id": 66,
+			"name": "App_Start",
+			"about": "This entry is for explaining those files and resources initialized at the app start up.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "/assets/wikipedia-no.jpg"
+				},
+				{
+					"name": "Bundling and Minification",
+					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/performance/bundling-and-minification"
+				},
+				{
+					"name": "Bundling #1",
+					"url": "https://www.c-sharpcorner.com/article/bundling-in-asp-net-mvc-application/"
+				},
+				{
+					"name": "Bundling #2",
+					"url": "https://www.tutorialsteacher.com/mvc/scriptbundle-mvc"
 				}
 			]
 		}
