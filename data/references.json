@@ -301,6 +301,10 @@
 				{
 					"name": "Official Docs",
 					"url": "https://angular.io/docs"
+				},
+				{
+					"name": "5 Things to Know About Angular Development With C#",
+					"url": "https://programmers.io/5-things-to-know-about-angular-development-with-c/"
 				}
 			]
 		},
