@@ -229,6 +229,10 @@
 				{
 					"name": "DataTables at ASP.NET (Back-end)",
 					"url": "https://gist.github.com/ChinhP/9b4dc1df1b12637b99a420aa268ae32b"
+				},
+				{
+					"name": "jQueryValidation",
+					"url": "https://jqueryvalidation.org/"
 				}
 			]
 		},
