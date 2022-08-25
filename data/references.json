@@ -786,6 +786,10 @@
 				{
 					"name": "AutoMapper",
 					"url": "http://automapper.org/"
+				},
+				{
+					"name": "C# Bogus",
+					"url": "https://github.com/bchavez/Bogus"
 				}
 			]
 		},
@@ -1350,6 +1354,43 @@
 				{
 					"name": "Bundling #2",
 					"url": "https://www.tutorialsteacher.com/mvc/scriptbundle-mvc"
+				}
+			]
+		},
+		{
+			"id": 67,
+			"name": "npm (Dependencies)",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Npm_(software)"
+				},{
+					"name": "npmjs (Official site)",
+					"url": "https://www.npmjs.com/"
+				},
+				{
+					"name": "FakerJS",
+					"url": "https://fakerjs.dev/"
+				}
+			]
+		},
+		{
+			"id": 68,
+			"name": "System.Collections",
+			"about": "It is a grouping of some variable number of data items (possibly zero) that have some shared significance to the problem being solved and need to be operated upon together in some controlled fashion.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Collection_(abstract_data_type)"
+				},
+				{
+					"name": "LinkedIn: IEnumerable vs ICollection vs IList vs IQueryable",
+					"url": "https://www.linkedin.com/pulse/ienumerable-vs-icollection-idictionary-ilist-hasan-shahjahan/"
+				},
+				{
+					"name": "Code Project: ist vs IEnumerable vs IQueryable vs ICollection vs IDictionary",
+					"url": "https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v"
 				}
 			]
 		}
