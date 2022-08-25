@@ -1393,6 +1393,21 @@
 					"url": "https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v"
 				}
 			]
+		},
+		{
+			"id": 69,
+			"name": "Big O notation",
+			"about": "Big-O notation is the language we use for talking about how long an algorithm takes to run (time complexity) or how much memory is used by an algorithm (space complexity). Big-O notation can express the best, worst, and average-case running time of an algorithm.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Big_O_notation"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
 		}
 	]
 }
