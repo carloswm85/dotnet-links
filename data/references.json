@@ -731,8 +731,8 @@
 		},
 		{
 			"id": 35,
-			"name": "Entity Framework",
-			"about": "",
+			"name": "Entity Framework (6, Core)",
+			"about": "Entity Framework is an open-source ORM framework for .NET applications supported by Microsoft. It enables developers to work with data using objects of domain specific classes without focusing on the underlying database tables and columns where this data is stored. With the Entity Framework, developers can work at a higher level of abstraction when they deal with data, and can create and maintain data-oriented applications with less code compared with traditional applications. ",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -743,7 +743,11 @@
 					"url": "https://docs.microsoft.com/en-us/ef/"
 				},
 				{
-					"name": "EF Tutorial",
+					"name": "entityframework.net",
+					"url": "https://entityframework.net/"
+				},
+				{
+					"name": "EF6 Tutorial",
 					"url": "https://www.entityframeworktutorial.net/what-is-entityframework.aspx"
 				}
 			]
@@ -884,8 +888,20 @@
 		{
 			"id": 43,
 			"name": "LINQ",
-			"about": "",
+			"about": "Language-Integrated Query (LINQ) is the name for a set of technologies based on the integration of query capabilities directly into the C# language. Traditionally, queries against data are expressed as simple strings without type checking at compile time or IntelliSense support. With LINQ, a query is a first-class language construct, just like classes, methods, events. You write queries against strongly typed collections of objects by using language keywords and familiar operators. The LINQ family of technologies provides a consistent query experience for objects (LINQ to Objects), relational databases (LINQ to SQL), and XML (LINQ to XML).",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Language_Integrated_Query"
+				},
+				{
+					"name": "Official Docs",
+					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/"
+				},
+				{
+					"name": "codingame.com free course",
+					"url": "https://www.codingame.com/playgrounds/213/using-c-linq---a-practical-overview/welcome"
+				},
 				{
 					"name": "Using IQueryable with Linq",
 					"url": "https://stackoverflow.com/questions/1578778/using-iqueryable-with-linq/1578809#1578809"
@@ -1365,7 +1381,8 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Npm_(software)"
-				},{
+				},
+				{
 					"name": "npmjs (Official site)",
 					"url": "https://www.npmjs.com/"
 				},
