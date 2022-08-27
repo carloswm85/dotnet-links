@@ -1365,7 +1365,8 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Npm_(software)"
-				},{
+				},
+				{
 					"name": "npmjs (Official site)",
 					"url": "https://www.npmjs.com/"
 				},
@@ -1423,6 +1424,10 @@
 					"url": "https://en.wikipedia.org/wiki/.NET_Framework_version_history"
 				},
 				{
+					"name": "HTTP Protocol",
+					"url": ""
+				},
+				{
 					"name": "HTTP status codes list (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"
 				},
@@ -1476,6 +1481,9 @@
 				},
 				{
 					"name": "Webhooks",
+					"url": ""
+				},{
+					"name": "Services: API Rest, SOAP",
 					"url": ""
 				},
 				{
