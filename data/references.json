@@ -895,7 +895,7 @@
 		{
 			"id": 44,
 			"name": "YouTube 📺",
-			"about": "",
+			"about": "Best channels I've found so far about .NET technologies and programming learning. Videos marked as SPA are in Spanish.",
 			"links": [
 				{
 					"name": "freeCodeCamp.org",
@@ -920,6 +920,10 @@
 				{
 					"name": "Mark Richards, on Software Architecture",
 					"url": "https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w"
+				},
+				{
+					"name": "hdeleonnet (Back-End; SPA)",
+					"url": "https://www.youtube.com/c/hdeleonnet"
 				}
 			]
 		},
@@ -1412,7 +1416,7 @@
 		},
 		{
 			"id": 70,
-			"name": "🔙 Back-End Portfolio/Profile 🔚",
+			"name": "🔙 Back-End Portfolio/Prep 🔚",
 			"about": "",
 			"links": [
 				{
@@ -1482,7 +1486,8 @@
 				{
 					"name": "Webhooks",
 					"url": ""
-				},{
+				},
+				{
 					"name": "Services: API Rest, SOAP",
 					"url": ""
 				},
@@ -1516,6 +1521,21 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Frontend_and_backend#Back-end_focused"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 72,
+			"name": "Back-End Tools",
+			"about": "",
+			"links": [
+				{
+					"name": "Postman",
+					"url": "https://www.postman.com/"
 				},
 				{
 					"name": "",
