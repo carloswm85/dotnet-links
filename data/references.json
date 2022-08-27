@@ -1408,6 +1408,112 @@
 					"url": ""
 				}
 			]
+		},
+		{
+			"id": 70,
+			"name": "🔙 Back-End Portfolio/Profile 🔚",
+			"about": "",
+			"links": [
+				{
+					"name": "Choose the Language: C#",
+					"url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+				},
+				{
+					"name": "Choose the Framework: .NET",
+					"url": "https://en.wikipedia.org/wiki/.NET_Framework_version_history"
+				},
+				{
+					"name": "HTTP status codes list (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"
+				},
+				{
+					"name": "HTTP Response Status Codes (MDN)",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+				},
+				{
+					"name": "HTTP Request Methods (verbs; MDN)",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods"
+				},
+				{
+					"name": "ORM: Entity Framework",
+					"url": "https://en.wikipedia.org/wiki/Entity_Framework"
+				},
+				{
+					"name": "MS SQL Server/Syntax",
+					"url": "https://en.wikipedia.org/wiki/Microsoft_SQL_Server"
+				},
+				{
+					"name": "CRUD/Store Procedures",
+					"url": ""
+				},
+				{
+					"name": "DB Design (Constraints, Rules)",
+					"url": ""
+				},
+				{
+					"name": "Lazy Loading",
+					"url": ""
+				},
+				{
+					"name": "Back-End Security",
+					"url": ""
+				},
+				{
+					"name": "JSON Web Token",
+					"url": ""
+				},
+				{
+					"name": "Authentication/Authorization",
+					"url": ""
+				},
+				{
+					"name": "Layer Filtering",
+					"url": ""
+				},
+				{
+					"name": "Queue Tasks (Tareas en segundo plano)",
+					"url": ""
+				},
+				{
+					"name": "Webhooks",
+					"url": ""
+				},
+				{
+					"name": "Document Generation (Swagger)",
+					"url": ""
+				},
+				{
+					"name": "Unit Testing",
+					"url": ""
+				},
+				{
+					"name": "Design Patterns: Observer, DI, Mediator, Factory, Builder, Singleton, Facade, Strategy, State",
+					"url": ""
+				},
+				{
+					"name": "Basic Front-End",
+					"url": ""
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 71,
+			"name": "Web Development Basics",
+			"about": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. ",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Frontend_and_backend#Back-end_focused"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
 		}
 	]
 }
