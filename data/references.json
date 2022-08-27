@@ -1542,6 +1542,21 @@
 					"url": ""
 				}
 			]
+		},
+		{
+			"id": 73,
+			"name": "Environment Customizations",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "Cascadia Code",
+					"url": "https://github.com/microsoft/cascadia-code#installation"
+				}
+			]
 		}
 	]
 }
