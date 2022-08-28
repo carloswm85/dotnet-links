@@ -305,7 +305,8 @@
 				{
 					"name": "Official Docs",
 					"url": "https://angular.io/docs"
-				},{
+				},
+				{
 					"name": "Sample App (at GitHub pages",
 					"url": "https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-github-pages.aspx#creating-an-angular-app"
 				},
@@ -337,8 +338,12 @@
 		{
 			"id": 13,
 			"name": "RegEx",
-			"about": "",
+			"about": "A regular expression (shortened as regex or regexp) is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for \"find\" or \"find and replace\" operations on strings, or for input validation.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Regular_expression"
+				},
 				{
 					"name": "regexr.com",
 					"url": "https://regexr.com/"
