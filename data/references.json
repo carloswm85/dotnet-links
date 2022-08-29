@@ -87,7 +87,7 @@
 		},
 		{
 			"id": 3,
-			"name": "SSMS and MS SQL Sever",
+			"name": "SSMS and MS SQL Sever (actual server)",
 			"about": "SQL Server Management Studio (SSMS) is a software application used for configuring, managing, and administering all components within Microsoft SQL Server (which is, a relational database management system, or database server).",
 			"links": [
 				{
@@ -348,8 +348,8 @@
 		},
 		{
 			"id": 14,
-			"name": "MS SQL Server",
-			"about": "",
+			"name": "T-SQL Server",
+			"about": "Transact-SQL (T-SQL) is Microsoft's and Sybase's proprietary extension to the SQL (Structured Query Language) used to interact with relational databases. T-SQL expands on the SQL standard to include procedural programming, local variables, various support functions for string processing, date processing, mathematics, etc. and changes to the DELETE and UPDATE statements.",
 			"links": [
 				{
 					"name": "(General) Style",
@@ -358,14 +358,22 @@
 				{
 					"name": "Data Types (numerics, strings, time)",
 					"url": "https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16"
+				},
+				{
+					"name": "sqlservertutorial.net",
+					"url": "https://www.sqlservertutorial.net/"
 				}
 			]
 		},
 		{
 			"id": 15,
 			"name": "SQL Language",
-			"about": "",
+			"about": "SQL (Structured Query Language)[5] is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. ",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/SQL"
+				},
 				{
 					"name": "char Vs nchar",
 					"url": "https://stackoverflow.com/a/176523/7389293"
@@ -749,6 +757,14 @@
 				{
 					"name": "EF6 Tutorial",
 					"url": "https://www.entityframeworktutorial.net/what-is-entityframework.aspx"
+				},
+				{
+					"name": "DbContext (session to DB)",
+					"url": "https://www.entityframeworktutorial.net/basics/context-class-in-entity-framework.aspx"
+				},
+				{
+					"name": "EF Good Practices (SO)",
+					"url": "https://stackoverflow.com/a/19312851/7389293"
 				}
 			]
 		},
