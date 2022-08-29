@@ -296,7 +296,7 @@
 		{
 			"id": 11,
 			"name": "Angular",
-			"about": "TypeScript-based free and open-source web application framework.",
+			"about": "TypeScript-based free and open-source web application framework. Led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -305,6 +305,10 @@
 				{
 					"name": "Official Docs",
 					"url": "https://angular.io/docs"
+				},
+				{
+					"name": "Sample App (at GitHub pages",
+					"url": "https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-github-pages.aspx#creating-an-angular-app"
 				},
 				{
 					"name": "5 Things to Know About Angular Development With C#",
@@ -334,8 +338,12 @@
 		{
 			"id": 13,
 			"name": "RegEx",
-			"about": "",
+			"about": "A regular expression (shortened as regex or regexp) is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for \"find\" or \"find and replace\" operations on strings, or for input validation.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Regular_expression"
+				},
 				{
 					"name": "regexr.com",
 					"url": "https://regexr.com/"
@@ -927,7 +935,7 @@
 		{
 			"id": 44,
 			"name": "YouTube 📺",
-			"about": "",
+			"about": "Best channels I've found so far about .NET technologies and programming learning. Videos marked as SPA are in Spanish.",
 			"links": [
 				{
 					"name": "freeCodeCamp.org",
@@ -952,6 +960,10 @@
 				{
 					"name": "Mark Richards, on Software Architecture",
 					"url": "https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w"
+				},
+				{
+					"name": "hdeleonnet (Back-End; SPA)",
+					"url": "https://www.youtube.com/c/hdeleonnet"
 				}
 			]
 		},
@@ -1439,6 +1451,150 @@
 				{
 					"name": "",
 					"url": ""
+				}
+			]
+		},
+		{
+			"id": 70,
+			"name": "🔙 Back-End Portfolio/Prep 🔚",
+			"about": "",
+			"links": [
+				{
+					"name": "Choose the Language: C#",
+					"url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+				},
+				{
+					"name": "Choose the Framework: .NET",
+					"url": "https://en.wikipedia.org/wiki/.NET_Framework_version_history"
+				},
+				{
+					"name": "HTTP Protocol",
+					"url": ""
+				},
+				{
+					"name": "HTTP status codes list (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"
+				},
+				{
+					"name": "HTTP Response Status Codes (MDN)",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+				},
+				{
+					"name": "HTTP Request Methods (verbs; MDN)",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods"
+				},
+				{
+					"name": "ORM: Entity Framework",
+					"url": "https://en.wikipedia.org/wiki/Entity_Framework"
+				},
+				{
+					"name": "MS SQL Server/Syntax",
+					"url": "https://en.wikipedia.org/wiki/Microsoft_SQL_Server"
+				},
+				{
+					"name": "CRUD/Store Procedures",
+					"url": ""
+				},
+				{
+					"name": "DB Design (Constraints, Rules)",
+					"url": ""
+				},
+				{
+					"name": "Lazy Loading",
+					"url": ""
+				},
+				{
+					"name": "Back-End Security",
+					"url": ""
+				},
+				{
+					"name": "JSON Web Token",
+					"url": ""
+				},
+				{
+					"name": "Authentication/Authorization",
+					"url": ""
+				},
+				{
+					"name": "Layer Filtering",
+					"url": ""
+				},
+				{
+					"name": "Queue Tasks (Tareas en segundo plano)",
+					"url": ""
+				},
+				{
+					"name": "Webhooks",
+					"url": ""
+				},
+				{
+					"name": "Services: API Rest, SOAP",
+					"url": ""
+				},
+				{
+					"name": "Document Generation (Swagger)",
+					"url": ""
+				},
+				{
+					"name": "Unit Testing",
+					"url": ""
+				},
+				{
+					"name": "Design Patterns: Observer, DI, Mediator, Factory, Builder, Singleton, Facade, Strategy, State",
+					"url": ""
+				},
+				{
+					"name": "Basic Front-End",
+					"url": ""
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 71,
+			"name": "Web Development Basics",
+			"about": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. ",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Frontend_and_backend#Back-end_focused"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 72,
+			"name": "Back-End Tools",
+			"about": "",
+			"links": [
+				{
+					"name": "Postman",
+					"url": "https://www.postman.com/"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 73,
+			"name": "Workspace",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "Cascadia Code",
+					"url": "https://github.com/microsoft/cascadia-code#installation"
 				}
 			]
 		}
