@@ -87,7 +87,7 @@
 		},
 		{
 			"id": 3,
-			"name": "SSMS and MS SQL Sever (actual server)",
+			"name": "SSMS and MSSQL Sever (actual server)",
 			"about": "SQL Server Management Studio (SSMS) is a software application used for configuring, managing, and administering all components within Microsoft SQL Server (which is, a relational database management system, or database server).",
 			"links": [
 				{
@@ -145,7 +145,7 @@
 					"url": "https://stackoverflow.com/a/24728080/7389293"
 				},
 				{
-					"name": "UNIX Time",
+					"name": "UNIX Time 🔥",
 					"url": "https://currentmillis.com/standard/specification/client-centric-time/"
 				},
 				{
@@ -370,6 +370,10 @@
 				{
 					"name": "sqlservertutorial.net",
 					"url": "https://www.sqlservertutorial.net/"
+				},
+				{
+					"name": "W3 Schools",
+					"url": "https://www.w3schools.com/sql/default.asp"
 				}
 			]
 		},
