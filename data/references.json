@@ -194,6 +194,10 @@
 				{
 					"name": "Service/Business Layer & Repository Providers/Repository Layer",
 					"url": "https://stackoverflow.com/questions/20514446/how-to-call-model-methods-in-controller-in-asp-net-mvc"
+				},
+				{
+					"name": "Persistence Layer",
+					"url": "https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design"
 				}
 			]
 		},
@@ -463,7 +467,7 @@
 		},
 		{
 			"id": 18,
-			"name": "C# Language",
+			"name": "C# Basics",
 			"about": "C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. The C# programming language was designed by Anders Hejlsberg from Microsoft in 2000 and was later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO/IEC (ISO/IEC 23270) in 2003.",
 			"links": [
 				{
@@ -485,6 +489,10 @@
 				{
 					"name": "Constraints on type parameters",
 					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters"
+				},
+				{
+					"name": "Interfaces",
+					"url": ""
 				}
 			]
 		},
@@ -1149,6 +1157,10 @@
 				{
 					"name": "Docker Docs",
 					"url": "https://docs.docker.com/"
+				},
+				{
+					"name": "Docker, what is it and what is the purpose",
+					"url": "https://stackoverflow.com/a/42111368/7389293"
 				}
 			]
 		},
@@ -1647,6 +1659,130 @@
 				{
 					"name": "58 Form Design & UX Best Practices",
 					"url": "https://www.ventureharbour.com/form-design-best-practices/"
+				}
+			]
+		},
+		{
+			"id": 76,
+			"name": "Data Structures",
+			"about": "In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data,i.e., it is an algebraic structure about data.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Data_structure"
+				},{
+					"name": "MS Docs",
+					"url": "https://docs.microsoft.com/en-us/dotnet/standard/collections/"
+				},
+				{
+					"name": "List of Data Structures (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/List_of_data_structures"
+				},
+				{
+					"name": "Fundamental Data Structures and Algorithms in C# 🔥",
+					"url": "https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf"
+				}
+			]
+		},
+		{
+			"id": 77,
+			"name": "F#",
+			"about": "F# is a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. Developed by Microsoft, The F# Software Foundation.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/F_Sharp_(programming_language)"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 78,
+			"name": "Restful APIs",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "REST APIs with .NET and C#",
+					"url": "https://dotnet.microsoft.com/en-us/apps/aspnet/apis"
+				},
+				{
+					"name": "Web API vs REST API Simplified: 4 Critical Differences",
+					"url": "https://hevodata.com/learn/web-api-vs-rest-api/#web"
+				}
+			]
+		},
+		{
+			"id": 79,
+			"name": "HTTP Protocol",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "HTTP Request Methods (verbs)",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods"
+				},
+				{
+					"name": "HTTP Status (Mozilla)",
+					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+				},
+				{
+					"name": "List of HTTP status codes (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"
+				}
+			]
+		},
+		{
+			"id": 80,
+			"name": "Microservices",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "What is a microservice? (SO)",
+					"url": "https://stackoverflow.com/questions/46575898/what-is-a-microservice"
+				}
+			]
+		},
+		{
+			"id": 81,
+			"name": "C# Advanced",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "Reflection",
+					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection"
+				}
+			]
+		},
+		{
+			"id": 82,
+			"name": "Strings",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "Concatenating Strings Efficiently (String Builder)",
+					"url": "https://web.archive.org/web/20181106113504/http://yoda.arachsys.com:80/csharp/stringbuilder.html"
 				}
 			]
 		}
