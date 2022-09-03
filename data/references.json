@@ -404,10 +404,11 @@
 			"id": 16,
 			"name": "ASP.NET Razor",
 			"about": "Razor is an ASP.NET programming syntax used to create dynamic web pages with the C# or VB.NET programming languages. Razor Pages can make coding page-focused scenarios easier and more productive than using controllers and views.",
-			"links": [{
-				"name": "Wikipedia",
-				"url": "https://en.wikipedia.org/wiki/ASP.NET_Razor"
-			},
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/ASP.NET_Razor"
+				},
 				{
 					"name": "HTML Helper",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php"
@@ -700,10 +701,11 @@
 			"id": 31,
 			"name": "APIs",
 			"about": "An application programming interface (API) is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification. A computer system that meets this standard is said to implement or expose an API. The term API may refer either to the specification or to the implementation.",
-			"links": [{
-				"name": "Wikipedia",
-				"url": "https://en.wikipedia.org/wiki/API"
-			},
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/API"
+				},
 				{
 					"name": "mockAPI",
 					"url": "https://mockapi.io/"
@@ -712,7 +714,7 @@
 		},
 		{
 			"id": 32,
-			"name": "Social Media Channels",
+			"name": "Social Media 🧠",
 			"about": "Some of the best places I've known in the internet for .NET developers.",
 			"links": [
 				{
@@ -1612,8 +1614,12 @@
 					"url": "https://www.postman.com/"
 				},
 				{
-					"name": "dbdiagram.io",
+					"name": "dbdiagram.io (DB design)",
 					"url": "https://dbdiagram.io/home"
+				},
+				{
+					"name": "dbml.org (Mark Up Language)",
+					"url": "https://www.dbml.org/home/"
 				}
 			]
 		},
@@ -1670,7 +1676,8 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Data_structure"
-				},{
+				},
+				{
 					"name": "MS Docs",
 					"url": "https://docs.microsoft.com/en-us/dotnet/standard/collections/"
 				},
@@ -1783,6 +1790,107 @@
 				{
 					"name": "Concatenating Strings Efficiently (String Builder)",
 					"url": "https://web.archive.org/web/20181106113504/http://yoda.arachsys.com:80/csharp/stringbuilder.html"
+				}
+			]
+		},
+		{
+			"id": 83,
+			"name": "SQL Tutorials",
+			"about": "Tutorials about agnostic SQL.",
+			"links": [
+				{
+					"name": "sqlauthority.com",
+					"url": "https://blog.sqlauthority.com/"
+				},
+				{
+					"name": "sqltutorial.org",
+					"url": "https://www.sqltutorial.org/"
+				},
+				{
+					"name": "SQL Server and Azure SQL Labs and Workshops",
+					"url": "https://github.com/microsoft/sqlworkshops"
+				},
+				{
+					"name": "tt.com/sql",
+					"url": "https://www.tutorialsteacher.com/sql"
+				},
+				{
+					"name": "tt.com/sqlserver",
+					"url": "https://www.tutorialsteacher.com/sqlserver"
+				},
+				{
+					"name": "learnsql.com",
+					"url": "https://learnsql.com/"
+				},
+				{
+					"name": "learnsqlonline.org/",
+					"url": "https://www.learnsqlonline.org/"
+				},
+				{
+					"name": "tutorialspoint.com/sql",
+					"url": "https://www.tutorialspoint.com/sql/"
+				},
+				{
+					"name": "Normalization (up to 5NF)",
+					"url": "https://youtu.be/GFQaEYEc8_8"
+				}
+			]
+		},
+		{
+			"id": 84,
+			"name": "ERM (with examples)",
+			"about": "An entity–relationship model (or ER model) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between entities (instances of those entity types). In software engineering, an ER model is commonly formed to represent things a business needs to remember in order to perform business processes. Consequently, the ER model becomes an abstract data model, that defines a data or information structure which can be implemented in a database, typically a relational database.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model"
+				},
+				{
+					"name": "Entity Relationship (ER) Diagram Model with DBMS Example (Guru99)",
+					"url": "https://www.guru99.com/er-diagram-tutorial-dbms.html"
+				},
+				{
+					"name": "What is Entity Relationship Diagram (ERD)?",
+					"url": "https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/"
+				},
+				{
+					"name": "Entity Relationship Diagram Examples (edrawsoft.com)",
+					"url": "https://www.edrawsoft.com/er-diagram-examples.html"
+				},
+				{
+					"name": "Entity Relationship Modeling Examples (O'Reilly)",
+					"url": "https://learning.oreilly.com/library/view/learning-mysql/0596008643/ch04s04.html"
+				}
+			]
+		}
+		,
+		{
+			"id": 85,
+			"name": "Concept: Business",
+			"about": "",
+			"links": [
+				{
+					"name": "Business process (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Business_process"
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 86,
+			"name": "Concept: Domain",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "",
+					"url": ""
 				}
 			]
 		}
