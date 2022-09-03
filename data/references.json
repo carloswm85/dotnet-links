@@ -500,8 +500,12 @@
 		{
 			"id": 19,
 			"name": "Online Books",
-			"about": "Just one book per link.",
+			"about": "Just one book per link. At ResearchGate you can find highly developed ideas for projects.",
 			"links": [
+				{
+					"name": "ResearchGate (papers, ideas)",
+					"url": "https://www.researchgate.net/search?q=bug%20tracker"
+				},
 				{
 					"name": "CSharp In Depth",
 					"url": "https://csharpindepth.com/"
@@ -870,7 +874,7 @@
 		},
 		{
 			"id": 40,
-			"name": "Hosting",
+			"name": "Hosting Services",
 			"about": "",
 			"links": [
 				{
@@ -908,6 +912,18 @@
 				{
 					"name": "asphostportal.com",
 					"url": "https://www.asphostportal.com/"
+				},
+				{
+					"name": "PlanetScale",
+					"url": "https://planetscale.com/"
+				},
+				{
+					"name": "Firebase",
+					"url": "https://firebase.google.com/"
+				},
+				{
+					"name": "Vercel",
+					"url": "https://vercel.com/"
 				}
 			]
 		},
@@ -1862,8 +1878,7 @@
 					"url": "https://learning.oreilly.com/library/view/learning-mysql/0596008643/ch04s04.html"
 				}
 			]
-		}
-		,
+		},
 		{
 			"id": 85,
 			"name": "Concept: Business",
