@@ -830,6 +830,10 @@
 					"url": "https://www.entityframeworktutorial.net/basics/context-class-in-entity-framework.aspx"
 				},
 				{
+					"name": "Tutorials Point (for beginners)",
+					"url": "https://www.tutorialspoint.com/entity_framework/index.htm"
+				},
+				{
 					"name": "EF Good Practices (SO)",
 					"url": "https://stackoverflow.com/a/19312851/7389293"
 				}
@@ -1664,15 +1668,18 @@
 		},
 		{
 			"id": 73,
-			"name": "Workspace",
-			"about": "",
-			"links": [
+			"name": "Typeface",
+			"about": "A typeface is the design of lettering that can include variations in size, weight (e.g. bold), slope (e.g. italic), width (e.g. condensed), and so on. Each of these variations of the typeface is a font.",
+			"links": [{
+				"name": "List of monospaced typefaces (Wikipedia)",
+				"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces"
+			},
 				{
-					"name": "Wikipedia",
-					"url": ""
+					"name": "IBM Plex® typeface",
+					"url": "https://github.com/IBM/plex/"
 				},
 				{
-					"name": "Cascadia Code",
+					"name": "Cascadia Code (MS)",
 					"url": "https://github.com/microsoft/cascadia-code#installation"
 				}
 			]
@@ -1899,6 +1906,10 @@
 				{
 					"name": "Entity Relationship Modeling Examples (O'Reilly)",
 					"url": "https://learning.oreilly.com/library/view/learning-mysql/0596008643/ch04s04.html"
+				},
+				{
+					"name": "EDM (Entity Data Model)",
+					"url": "https://www.tutorialspoint.com/entity_framework/entity_framework_data_model.htm"
 				}
 			]
 		},
