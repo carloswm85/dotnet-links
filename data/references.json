@@ -631,8 +631,7 @@
 				{
 					"name": "⭐ Repository and Unit of Work Patterns in an ASP.NET MVC (MS)",
 					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application"
-				}
-				,
+				},
 				{
 					"name": "Martin Fowler on Repository Pattern",
 					"url": "https://martinfowler.com/eaaCatalog/repository.html"
@@ -662,7 +661,8 @@
 				{
 					"name": "Scrum Guide (Official)",
 					"url": "https://scrumguides.org/scrum-guide.html"
-				},{
+				},
+				{
 					"name": "Quick Overview",
 					"url": "https://www.professionaldevelopment.ie/who-uses-scrum"
 				},
@@ -1679,10 +1679,11 @@
 			"id": 73,
 			"name": "Typeface",
 			"about": "A typeface is the design of lettering that can include variations in size, weight (e.g. bold), slope (e.g. italic), width (e.g. condensed), and so on. Each of these variations of the typeface is a font.",
-			"links": [{
-				"name": "List of monospaced typefaces (Wikipedia)",
-				"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces"
-			},
+			"links": [
+				{
+					"name": "List of monospaced typefaces (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces"
+				},
 				{
 					"name": "IBM Plex® typeface",
 					"url": "https://github.com/IBM/plex/"
