@@ -101,6 +101,10 @@
 				{
 					"name": "Import/Export DB",
 					"url": "https://stackoverflow.com/a/66770043/7389293"
+				},
+				{
+					"name": "Multiple methods for scheduling a SQL Server backup automatically",
+					"url": "https://www.sqlshack.com/multiple-methods-for-scheduling-a-sql-server-backup-automatically/"
 				}
 			]
 		},
@@ -364,10 +368,6 @@
 			"about": "Transact-SQL (T-SQL) is Microsoft's and Sybase's proprietary extension to the SQL (Structured Query Language) used to interact with relational databases. T-SQL expands on the SQL standard to include procedural programming, local variables, various support functions for string processing, date processing, mathematics, etc. and changes to the DELETE and UPDATE statements.",
 			"links": [
 				{
-					"name": "(General) Style",
-					"url": "https://www.sqlstyle.guide/"
-				},
-				{
 					"name": "Data Types (numerics, strings, time)",
 					"url": "https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16"
 				},
@@ -384,11 +384,15 @@
 		{
 			"id": 15,
 			"name": "SQL Language",
-			"about": "SQL (Structured Query Language)[5] is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. ",
+			"about": "SQL (Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. ",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/SQL"
+				},
+				{
+					"name": "(General) Style",
+					"url": "https://www.sqlstyle.guide/"
 				},
 				{
 					"name": "char Vs nchar",
@@ -654,6 +658,17 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Scrum_(software_development)"
+				},
+				{
+					"name": "Scrum Guide (Official)",
+					"url": "https://scrumguides.org/scrum-guide.html"
+				},{
+					"name": "Quick Overview",
+					"url": "https://www.professionaldevelopment.ie/who-uses-scrum"
+				},
+				{
+					"name": "What's Backlog? (SPA)",
+					"url": "https://muyagile.com/que-es-el-backlog/"
 				}
 			]
 		},
@@ -665,6 +680,14 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Agile_software_development"
+				},
+				{
+					"name": "Agile Manifesto",
+					"url": "http://agilemanifesto.org/"
+				},
+				{
+					"name": "Agile Alliance",
+					"url": "https://www.agilealliance.org/"
 				}
 			]
 		},
@@ -810,6 +833,10 @@
 				{
 					"name": "DbContext (session to DB)",
 					"url": "https://www.entityframeworktutorial.net/basics/context-class-in-entity-framework.aspx"
+				},
+				{
+					"name": "Tutorials Point (for beginners)",
+					"url": "https://www.tutorialspoint.com/entity_framework/index.htm"
 				},
 				{
 					"name": "EF Good Practices (SO)",
@@ -1650,15 +1677,18 @@
 		},
 		{
 			"id": 73,
-			"name": "Workspace",
-			"about": "",
-			"links": [
+			"name": "Typeface",
+			"about": "A typeface is the design of lettering that can include variations in size, weight (e.g. bold), slope (e.g. italic), width (e.g. condensed), and so on. Each of these variations of the typeface is a font.",
+			"links": [{
+				"name": "List of monospaced typefaces (Wikipedia)",
+				"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces"
+			},
 				{
-					"name": "Wikipedia",
-					"url": ""
+					"name": "IBM Plex® typeface",
+					"url": "https://github.com/IBM/plex/"
 				},
 				{
-					"name": "Cascadia Code",
+					"name": "Cascadia Code (MS)",
 					"url": "https://github.com/microsoft/cascadia-code#installation"
 				}
 			]
@@ -1885,6 +1915,10 @@
 				{
 					"name": "Entity Relationship Modeling Examples (O'Reilly)",
 					"url": "https://learning.oreilly.com/library/view/learning-mysql/0596008643/ch04s04.html"
+				},
+				{
+					"name": "EDM (Entity Data Model)",
+					"url": "https://www.tutorialspoint.com/entity_framework/entity_framework_data_model.htm"
 				}
 			]
 		},
