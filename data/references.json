@@ -53,7 +53,11 @@
 					"url": "https://bootstrap-datepicker.readthedocs.io/"
 				},
 				{
-					"name": "Material Design",
+					"name": "Material Design vs Bootstrap: Which One is Better?",
+					"url": "https://azmind.com/material-design-vs-bootstrap/#difference"
+				},
+				{
+					"name": "MDB Bootstrap - Material Design",
 					"url": "https://mdbootstrap.com/"
 				}
 			]
@@ -1969,6 +1973,17 @@
 				{
 					"name": "",
 					"url": ""
+				}
+			]
+		},
+		{
+			"id": 88,
+			"name": "Building Forms",
+			"about": "How to better build forms. Mainly using Bootstrap and/or any of its super-sets.",
+			"links": [
+				{
+					"name": "Bootstrap Fieldset Legend: How To + Examples + Template",
+					"url": "https://azmind.com/bootstrap-fieldset-legend/"
 				}
 			]
 		}
