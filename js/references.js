@@ -27,14 +27,14 @@ fetch(requestURL)
 				"data-bs-target",
 				`#${references[i].name
 					.toLowerCase()
-					.replace(/[. *+?\/\#^${&}(:)|[\]\\]/g, "")}`
+					.replace(/[. *+?\/\#^${&}(:,)|[\]\\]/g, "")}`
 			);
 			button.setAttribute("aria-expanded", "false");
 			button.setAttribute(
 				"aria-controls",
 				`${references[i].name
 					.toLowerCase()
-					.replace(/[. *+?\/\#^${&}(:)|[\]\\]/g, "")}`
+					.replace(/[. *+?\/\#^${&}(:,)|[\]\\]/g, "")}`
 			);
 			button.setAttribute(
 				"data-content",
@@ -69,7 +69,7 @@ fetch(requestURL)
 				"id",
 				`${references[i].name
 					.toLowerCase()
-					.replace(/[. *+?\/\#^${&}(:)|[\]\\]/g, "")}`
+					.replace(/[. *+?\/\#^${&}(:,)|[\]\\]/g, "")}`
 			);
 
 			let div3 = document.createElement("div");

@@ -657,7 +657,8 @@
 				{
 					"name": "Scrum Guide (Official)",
 					"url": "https://scrumguides.org/scrum-guide.html"
-				},{
+				},
+				{
 					"name": "Quick Overview",
 					"url": "https://www.professionaldevelopment.ie/who-uses-scrum"
 				},
@@ -818,12 +819,12 @@
 					"url": "https://docs.microsoft.com/en-us/ef/"
 				},
 				{
-					"name": "entityframework.net",
-					"url": "https://entityframework.net/"
+					"name": "EF Basics",
+					"url": "https://www.entityframeworktutorial.net/what-is-entityframework.aspx"
 				},
 				{
-					"name": "EF6 Tutorial",
-					"url": "https://www.entityframeworktutorial.net/what-is-entityframework.aspx"
+					"name": "entityframework.net",
+					"url": "https://entityframework.net/"
 				},
 				{
 					"name": "DbContext (session to DB)",
@@ -1670,10 +1671,11 @@
 			"id": 73,
 			"name": "Typeface",
 			"about": "A typeface is the design of lettering that can include variations in size, weight (e.g. bold), slope (e.g. italic), width (e.g. condensed), and so on. Each of these variations of the typeface is a font.",
-			"links": [{
-				"name": "List of monospaced typefaces (Wikipedia)",
-				"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces"
-			},
+			"links": [
+				{
+					"name": "List of monospaced typefaces (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces"
+				},
 				{
 					"name": "IBM Plex® typeface",
 					"url": "https://github.com/IBM/plex/"
