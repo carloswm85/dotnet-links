@@ -219,6 +219,10 @@
 					"url": "https://learn.jquery.com/code-organization/"
 				},
 				{
+					"name": "jQuery Cheatsheet",
+					"url": "https://www.codecademy.com/learn/learn-jquery/modules/learn-jquery-introduction/cheatsheet"
+				},
+				{
 					"name": "jQueryUI",
 					"url": "https://jqueryui.com/"
 				},
@@ -1946,6 +1950,21 @@
 				{
 					"name": "Wikipedia",
 					"url": ""
+				},
+				{
+					"name": "",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 87,
+			"name": "Cheetsheets",
+			"about": "A cheat sheet or crib sheet is a concise set of notes used for quick reference. Cheat sheets were historically used by students without an instructor or teacher's knowledge to cheat on a test or exam. This collection of cheatsheets here is about programming, meant to help you in your daily tasks as a professional programmer.",
+			"links": [
+				{
+					"name": "Codecademy",
+					"url": "https://www.codecademy.com/resources/cheatsheets/all"
 				},
 				{
 					"name": "",
