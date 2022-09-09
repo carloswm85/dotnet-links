@@ -770,7 +770,7 @@
 		{
 			"id": 33,
 			"name": "Job Search",
-			"about": "Places where to look up for job.",
+			"about": "Places where to look up for a job.",
 			"links": [
 				{
 					"name": "arc.dev",
@@ -795,6 +795,10 @@
 				{
 					"name": "Freelancer Dot Net Developer",
 					"url": "https://www.facebook.com/groups/185064098523465"
+				},
+				{
+					"name": "Talently",
+					"url": "https://everest.talently.tech/register/"
 				}
 			]
 		},
@@ -1984,6 +1988,21 @@
 				{
 					"name": "Bootstrap Fieldset Legend: How To + Examples + Template",
 					"url": "https://azmind.com/bootstrap-fieldset-legend/"
+				}
+			]
+		},
+		{
+			"id": 89,
+			"name": "💡",
+			"about": "Some core ideas.",
+			"links": [
+				{
+					"name": "Expertise",
+					"url": "./docs/my_ideas/expertise.pdf"
+				},
+				{
+					"name": "",
+					"url": ""
 				}
 			]
 		}
