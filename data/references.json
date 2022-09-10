@@ -799,6 +799,10 @@
 				{
 					"name": "Talently",
 					"url": "https://everest.talently.tech/register/"
+				},
+				{
+					"name": "lemon.io",
+					"url": "https://lemon.io/"
 				}
 			]
 		},
@@ -1056,6 +1060,14 @@
 				{
 					"name": "hdeleonnet (Back-End; SPA)",
 					"url": "https://www.youtube.com/c/hdeleonnet"
+				},
+				{
+					"name": "BettaTech (SPA)",
+					"url": "https://www.youtube.com/c/BettaTech"
+				},
+				{
+					"name": "EDteam (SPA)",
+					"url": "https://www.youtube.com/c/EDteam"
 				}
 			]
 		},
@@ -2003,6 +2015,40 @@
 				{
 					"name": "",
 					"url": ""
+				}
+			]
+		},
+		{
+			"id": 90,
+			"name": "Background Tasks",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": ""
+				},
+				{
+					"name": "Hosted Services (Queued processes)",
+					"url": ""
+				},
+				{
+					"name": "Scheduled Tasks",
+					"url": ""
+				}
+			]
+		},
+		{
+			"id": 91,
+			"name": "VSCode (Tweaks for .NET development)",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Visual_Studio_Code"
+				},
+				{
+					"name": "scriptcs (C# integration for \"Code Runner\" extension",
+					"url": "https://github.com/scriptcs/scriptcs"
 				}
 			]
 		}
