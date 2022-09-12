@@ -1388,6 +1388,10 @@
 				{
 					"name": "shhdharmen.me",
 					"url": "https://blog.shhdharmen.me/"
+				},
+				{
+					"name": "meziantou.net",
+				"url": "https://www.meziantou.net/"
 				}
 			]
 		},
@@ -2061,6 +2065,21 @@
 				{
 					"name": "scriptcs (C# integration for \"Code Runner\" extension",
 					"url": "https://github.com/scriptcs/scriptcs"
+				}
+			]
+		},
+		{
+			"id": 92,
+			"name": "Cryptography and .NET",
+			"about": "Cryptography, or cryptology is the practice and study of techniques for secure communication in the presence of adversarial behavior. More generally, cryptography is about constructing and analyzing protocols that prevent third parties or the public from reading private messages.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Cryptography"
+				},
+				{
+					"name": "Cryptography in .NET",
+					"url": "https://www.meziantou.net/cryptography-in-dotnet.htm"
 				}
 			]
 		}
