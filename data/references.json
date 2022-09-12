@@ -828,8 +828,12 @@
 					"url": "https://overapi.com/"
 				},
 				{
-					"name": "Desmos Online Calculator",
+					"name": "Desmos Online Graphic Calculator",
 					"url": "https://www.desmos.com/calculator"
+				},
+				{
+					"name": "Desmos Scientific Calculator",
+					"url": "https://www.desmos.com/scientific"
 				}
 			]
 		},
