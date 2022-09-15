@@ -1,0 +1,9 @@
+
+@Html.Hidden("yourProperty", model.yourProperty);
+@Html.HiddenFor(m => m.yourProperty)
+
+@Html.Hidden("Name", "Value")
+@Html.HiddenFor(x => x.Name, "Value");
+
+<input id="Name" name="Name" type="hidden" value="Value">
+
