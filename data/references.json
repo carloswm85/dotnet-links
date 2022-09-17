@@ -272,6 +272,10 @@
 				{
 					"name": "C# Design Patterns",
 					"url": "https://scottlilly.com/c-design-patterns/"
+				},
+				{
+					"name": "How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map",
+					"url": "https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/"
 				}
 			]
 		},
@@ -822,6 +826,14 @@
 				{
 					"name": "overapi.com (cheatsheets)",
 					"url": "https://overapi.com/"
+				},
+				{
+					"name": "Desmos Online Graphic Calculator",
+					"url": "https://www.desmos.com/calculator"
+				},
+				{
+					"name": "Desmos Scientific Calculator",
+					"url": "https://www.desmos.com/scientific"
 				}
 			]
 		},
@@ -977,12 +989,16 @@
 		},
 		{
 			"id": 41,
-			"name": "C# OOP",
+			"name": "OOP",
 			"about": "",
 			"links": [
 				{
-					"name": "Partials",
-					"url": "https://www.geeksforgeeks.org/partial-classes-in-c-sharp/"
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Object-oriented_programming"
+				},
+				{
+					"name": "4 Principles of Object-Oriented Programming",
+					"url": "https://khalilstemmler.com/articles/object-oriented/programming/4-principles/"
 				}
 			]
 		},
