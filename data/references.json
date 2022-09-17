@@ -525,6 +525,13 @@
 				{
 					"name": "CSharp In Depth",
 					"url": "https://csharpindepth.com/"
+				},{
+					"name": "The Little ASP.NET Core Book (ENG)",
+					"url": "https://recaffeinate.co/book/"
+				},
+				{
+					"name": "The Little ASP.NET Core Book (SPA)",
+					"url": "https://aspnetcoremaster.com/asp.net/core/2019/03/17/libro-asp-net-core.html"
 				}
 			]
 		},
