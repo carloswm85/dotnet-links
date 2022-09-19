@@ -1402,14 +1402,28 @@
 					"name": "AutoMapper",
 					"url": "http://automapper.org/",
 					"tags": [
-						""
+						"mapper", "dto"
 					]
 				},
 				{
 					"name": "C# Bogus",
 					"url": "https://github.com/bchavez/Bogus",
 					"tags": [
-						""
+						"form", "content", ""
+					]
+				},
+				{
+					"name": "RabbitMQ",
+					"url": "https://betterprogramming.pub/why-do-we-need-rabbitmq-f9f1d99c074c",
+					"tags": [
+						"message", "broker", ""
+					]
+				},
+				{
+					"name": "NLog",
+					"url": "https://nlog-project.org/",
+					"tags": [
+						"logging", "", ""
 					]
 				}
 			]
