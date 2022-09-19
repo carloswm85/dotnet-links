@@ -298,34 +298,6 @@
 					"tags": [
 						""
 					]
-				},
-				{
-					"name": "Service Layer Architecture",
-					"url": "https://stackoverflow.com/questions/14887871/creating-a-service-layer-for-my-mvc-application",
-					"tags": [
-						""
-					]
-				},
-				{
-					"name": "Service Layer Design",
-					"url": "https://stackoverflow.com/questions/31180816/mvc-design-pattern-service-layer-purpose",
-					"tags": [
-						""
-					]
-				},
-				{
-					"name": "Service/Business Layer & Repository Providers/Repository Layer",
-					"url": "https://stackoverflow.com/questions/20514446/how-to-call-model-methods-in-controller-in-asp-net-mvc",
-					"tags": [
-						""
-					]
-				},
-				{
-					"name": "Persistence Layer",
-					"url": "https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design",
-					"tags": [
-						""
-					]
 				}
 			]
 		},
@@ -1402,28 +1374,35 @@
 					"name": "AutoMapper",
 					"url": "http://automapper.org/",
 					"tags": [
-						"mapper", "dto"
+						"mapper",
+						"dto"
 					]
 				},
 				{
 					"name": "C# Bogus",
 					"url": "https://github.com/bchavez/Bogus",
 					"tags": [
-						"form", "content", ""
+						"form",
+						"content",
+						""
 					]
 				},
 				{
 					"name": "RabbitMQ",
 					"url": "https://betterprogramming.pub/why-do-we-need-rabbitmq-f9f1d99c074c",
 					"tags": [
-						"message", "broker", ""
+						"message",
+						"broker",
+						""
 					]
 				},
 				{
 					"name": "NLog",
 					"url": "https://nlog-project.org/",
 					"tags": [
-						"logging", "", ""
+						"logging",
+						"",
+						""
 					]
 				}
 			]
@@ -2368,7 +2347,7 @@
 		},
 		{
 			"id": 67,
-			"name": "npm (Dependencies)",
+			"name": "npm Dependencies",
 			"about": "",
 			"links": [
 				{
@@ -3193,6 +3172,63 @@
 				{
 					"name": "Cryptography in .NET",
 					"url": "https://www.meziantou.net/cryptography-in-dotnet.htm"
+				}
+			]
+		},
+		{
+			"id": 93,
+			"name": "Layer Service",
+			"about": "On Domain Drive Design",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "",
+					"tags": [
+						"wikipedia"
+					]
+				},
+				{
+					"name": "Service Layer Architecture",
+					"url": "https://stackoverflow.com/questions/14887871/creating-a-service-layer-for-my-mvc-application",
+					"tags": [
+						""
+					]
+				},
+				{
+					"name": "Service Layer Design",
+					"url": "https://stackoverflow.com/questions/31180816/mvc-design-pattern-service-layer-purpose",
+					"tags": [
+						""
+					]
+				},
+				{
+					"name": "Service/Business Layer & Repository Providers/Repository Layer",
+					"url": "https://stackoverflow.com/questions/20514446/how-to-call-model-methods-in-controller-in-asp-net-mvc",
+					"tags": [
+						""
+					]
+				},
+				{
+					"name": "Persistence Layer",
+					"url": "https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design",
+					"tags": [
+						""
+					]
+				},
+				{
+					"name": "Domain Driven Design: Domain Service, Application Service",
+					"url": "https://stackoverflow.com/questions/2268699/domain-driven-design-domain-service-application-service",
+					"tags": [
+						"ddd",
+						"services"
+					]
+				},
+				{
+					"name": "Validating with a Service Layer (C#)",
+					"url": "https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/models-data/validating-with-a-service-layer-cs",
+					"tags": [
+						"services", "validation"
+					]
 				}
 			]
 		}
