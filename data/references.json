@@ -3234,7 +3234,44 @@
 					"name": "Validating with a Service Layer (C#)",
 					"url": "https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/models-data/validating-with-a-service-layer-cs",
 					"tags": [
-						"services", "validation"
+						"services",
+						"validation"
+					]
+				}
+			]
+		},
+		{
+			"id": 94,
+			"name": "Web Application Architectures",
+			"about": "",
+			"links": [
+				{
+					"name": "Google It",
+					"url": "https://www.google.com/search?q=web+application+architecture",
+					"tags": [
+						"search"
+					]
+				},
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Web_application",
+					"tags": [
+						"wikipedia",
+						"web application"
+					]
+				},
+				{
+					"name": "What is Web Application Architecture? How It Works, Trends, Best Practices and More",
+					"url": "https://stackify.com/web-application-architecture/",
+					"tags": [
+						"architecture"
+					]
+				},
+				{
+					"name": "Common Web Application Architectures (MS)",
+					"url": "https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures?fbclid=IwAR1PcWjyZAhu82v7n8oM-GDk__yGiBIL1JGDAx5q88ek7IWTy2MKFCEnvZk",
+					"tags": [
+						"architecture"
 					]
 				}
 			]
