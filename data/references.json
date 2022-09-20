@@ -1341,6 +1341,13 @@
 					"tags": [
 						""
 					]
+				},
+				{
+					"name": "NHibernate",
+					"url": "https://nhibernate.info/",
+					"tags": [
+						"orm"
+					]
 				}
 			]
 		},
