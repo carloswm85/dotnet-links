@@ -625,21 +625,31 @@
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/ASP.NET_Razor",
 					"tags": [
-						""
+						"wiki"
 					]
 				},
 				{
 					"name": "HTML Helper",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php",
 					"tags": [
-						""
+						"razor",
+						"helpers"
 					]
 				},
 				{
 					"name": "Custom Helper Minimal Example (SO)",
 					"url": "https://stackoverflow.com/a/50947610/7389293",
 					"tags": [
-						""
+						"helper",
+						"stackoverflow"
+					]
+				},
+				{
+					"name": "Learn Razor Pages - Forms",
+					"url": "https://www.learnrazorpages.com/razor-pages/forms",
+					"tags": [
+						"razor",
+						"forms"
 					]
 				}
 			]
