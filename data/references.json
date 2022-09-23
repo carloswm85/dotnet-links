@@ -8,7 +8,7 @@
 				{
 					"name": "dotnetperls.com",
 					"url": "https://www.dotnetperls.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -16,7 +16,7 @@
 				{
 					"name": "c-sharpcorner.com",
 					"url": "https://www.c-sharpcorner.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -24,7 +24,7 @@
 				{
 					"name": "tutorialsteacher.com",
 					"url": "https://www.tutorialsteacher.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -39,7 +39,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -47,7 +47,7 @@
 				{
 					"name": "Official Docs (5.1)",
 					"url": "https://getbootstrap.com/docs/5.1/getting-started/introduction/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -55,7 +55,7 @@
 				{
 					"name": "Dark Theme using JS",
 					"url": "https://blog.shhdharmen.me/toggle-light-and-dark-themes-in-bootstrap",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -63,7 +63,7 @@
 				{
 					"name": "Dark Theme using CSS",
 					"url": "https://vinorodrigues.github.io/bootstrap-dark-5/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -71,7 +71,7 @@
 				{
 					"name": "StartBootstrap",
 					"url": "https://startbootstrap.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -79,7 +79,7 @@
 				{
 					"name": "CoreUI Admin",
 					"url": "https://github.com/coreui/coreui-free-bootstrap-admin-template",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -87,7 +87,7 @@
 				{
 					"name": "DatePicker",
 					"url": "https://bootstrap-datepicker.readthedocs.io/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -95,7 +95,7 @@
 				{
 					"name": "Material Design vs Bootstrap: Which One is Better?",
 					"url": "https://azmind.com/material-design-vs-bootstrap/#difference",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -103,7 +103,7 @@
 				{
 					"name": "MDB Bootstrap - Material Design",
 					"url": "https://mdbootstrap.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -118,7 +118,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Async/await",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -126,7 +126,7 @@
 				{
 					"name": "Why",
 					"url": "https://stackoverflow.com/a/32343477/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -134,7 +134,7 @@
 				{
 					"name": "How and When",
 					"url": "https://stackoverflow.com/questions/14455293/how-and-when-to-use-async-and-await",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -142,7 +142,7 @@
 				{
 					"name": "Getting Started",
 					"url": "https://www.pluralsight.com/guides/csharp-async-await-keywords-getting-started",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -150,7 +150,7 @@
 				{
 					"name": "Control Flow",
 					"url": "https://www.pluralsight.com/guides/understand-control-flow-async-await",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -165,7 +165,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/SQL_Server_Management_Studio",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -173,7 +173,7 @@
 				{
 					"name": "Local Server Set Up",
 					"url": "https://blogs.triggerdb.com/2021/06/02/instalar-y-configurar-sql-2019-developer-paso-a-paso/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -181,7 +181,7 @@
 				{
 					"name": "Import/Export DB",
 					"url": "https://stackoverflow.com/a/66770043/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -189,7 +189,7 @@
 				{
 					"name": "Multiple methods for scheduling a SQL Server backup automatically",
 					"url": "https://www.sqlshack.com/multiple-methods-for-scheduling-a-sql-server-backup-automatically/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -204,7 +204,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/CSS",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -212,7 +212,7 @@
 				{
 					"name": "Flexbox Guide",
 					"url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -220,7 +220,7 @@
 				{
 					"name": "Grid Guide",
 					"url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -228,7 +228,7 @@
 				{
 					"name": "CSS Topics Guides",
 					"url": "https://css-tricks.com/guides/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -236,7 +236,7 @@
 				{
 					"name": "CSS Tooltips Implementation",
 					"url": "https://www.florin-pop.com/blog/2019/05/pure-css-tooltip/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -251,7 +251,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/System_time",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -259,7 +259,7 @@
 				{
 					"name": "DateTime to \"YYYYMMDDHHMMSS\" format",
 					"url": "https://stackoverflow.com/a/24728080/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -267,7 +267,7 @@
 				{
 					"name": "UNIX Time 🔥",
 					"url": "https://currentmillis.com/standard/specification/client-centric-time/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -275,7 +275,7 @@
 				{
 					"name": "UNIX_TIMESTAMP in SQL Server",
 					"url": "https://stackoverflow.com/questions/8837225/unix-timestamp-in-sql-server",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -283,7 +283,7 @@
 				{
 					"name": "How to get correct UNIX_TIMESTAMP in C#",
 					"url": "https://stackoverflow.com/questions/21219797/how-to-get-correct-timestamp-in-c-sharp",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -291,7 +291,7 @@
 				{
 					"name": "timeSpan.ToString()",
 					"url": "https://stackoverflow.com/questions/11077711/timespan-tostring-format",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -299,7 +299,7 @@
 				{
 					"name": "dotnetperls.com",
 					"url": "https://www.dotnetperls.com/timespan",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -314,7 +314,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Multitier_architecture",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -322,7 +322,7 @@
 				{
 					"name": "First Reading",
 					"url": "https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -330,7 +330,7 @@
 				{
 					"name": "Layered Project Case",
 					"url": "https://stackoverflow.com/questions/71714676/where-do-i-place-the-entity-framework-queries-in-layered-architecture",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -345,7 +345,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/JQuery",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -353,7 +353,7 @@
 				{
 					"name": "Official Docs",
 					"url": "https://learn.jquery.com/code-organization/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -361,7 +361,7 @@
 				{
 					"name": "jQuery Cheatsheet",
 					"url": "https://www.codecademy.com/learn/learn-jquery/modules/learn-jquery-introduction/cheatsheet",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -369,7 +369,7 @@
 				{
 					"name": "jQueryUI",
 					"url": "https://jqueryui.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -377,7 +377,7 @@
 				{
 					"name": "Select2",
 					"url": "https://select2.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -385,7 +385,7 @@
 				{
 					"name": "jquery-steps",
 					"url": "http://www.jquery-steps.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -393,7 +393,7 @@
 				{
 					"name": "DataTables (Examples)",
 					"url": "https://datatables.net/examples/index",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -401,7 +401,7 @@
 				{
 					"name": "DataTables at ASP.NET (Back-end)",
 					"url": "https://gist.github.com/ChinhP/9b4dc1df1b12637b99a420aa268ae32b",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -409,7 +409,7 @@
 				{
 					"name": "jQueryValidation",
 					"url": "https://jqueryvalidation.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -424,7 +424,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Software_design_pattern",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -432,7 +432,7 @@
 				{
 					"name": "Source Making",
 					"url": "https://sourcemaking.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -440,7 +440,7 @@
 				{
 					"name": "Refactoring Guru",
 					"url": "https://refactoring.guru/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -448,7 +448,7 @@
 				{
 					"name": "C# Design Patterns",
 					"url": "https://scottlilly.com/c-design-patterns/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -456,7 +456,7 @@
 				{
 					"name": "How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map",
 					"url": "https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -471,7 +471,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Vue.js",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -479,7 +479,7 @@
 				{
 					"name": "Official Docs",
 					"url": "https://vuejs.org/guide/introduction.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -494,7 +494,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -502,7 +502,7 @@
 				{
 					"name": "React in 100 Seconds",
 					"url": "https://youtu.be/Tn6-PIqc4UM",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -510,7 +510,7 @@
 				{
 					"name": "Official Docs",
 					"url": "https://reactjs.org/docs/getting-started.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -525,7 +525,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Angular_(web_framework)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -533,7 +533,7 @@
 				{
 					"name": "Official Docs",
 					"url": "https://angular.io/docs",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -541,7 +541,7 @@
 				{
 					"name": "Sample App (at GitHub pages",
 					"url": "https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-github-pages.aspx#creating-an-angular-app",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -549,7 +549,7 @@
 				{
 					"name": "5 Things to Know About Angular Development With C#",
 					"url": "https://programmers.io/5-things-to-know-about-angular-development-with-c/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -564,7 +564,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/JavaScript",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -572,7 +572,7 @@
 				{
 					"name": "Comparison of JavaScript-based web frameworks (Wiki)",
 					"url": "https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -580,7 +580,7 @@
 				{
 					"name": "Style guide",
 					"url": "https://google.github.io/styleguide/jsguide.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -595,7 +595,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Regular_expression",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -603,7 +603,7 @@
 				{
 					"name": "regexr.com",
 					"url": "https://regexr.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -611,7 +611,7 @@
 				{
 					"name": "regex101.com",
 					"url": "https://regex101.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -626,7 +626,7 @@
 				{
 					"name": "Data Types (numerics, strings, time)",
 					"url": "https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -634,7 +634,7 @@
 				{
 					"name": "sqlservertutorial.net",
 					"url": "https://www.sqlservertutorial.net/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -642,7 +642,7 @@
 				{
 					"name": "W3 Schools",
 					"url": "https://www.w3schools.com/sql/default.asp",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -657,7 +657,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/SQL",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -665,7 +665,7 @@
 				{
 					"name": "(General) Style",
 					"url": "https://www.sqlstyle.guide/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -673,7 +673,7 @@
 				{
 					"name": "char Vs nchar",
 					"url": "https://stackoverflow.com/a/176523/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -681,7 +681,7 @@
 				{
 					"name": "Data Types",
 					"url": "https://www.w3schools.com/sql/sql_datatypes.asp",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -696,7 +696,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/ASP.NET_Razor",
-					"about": "",
+					"description": "",
 					"tags": [
 						"wiki"
 					]
@@ -704,7 +704,7 @@
 				{
 					"name": "HTML Helper",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php",
-					"about": "",
+					"description": "",
 					"tags": [
 						"razor",
 						"helpers"
@@ -713,7 +713,7 @@
 				{
 					"name": "Custom Helper Minimal Example (SO)",
 					"url": "https://stackoverflow.com/a/50947610/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						"helper",
 						"stackoverflow"
@@ -722,7 +722,7 @@
 				{
 					"name": "Learn Razor Pages - Forms",
 					"url": "https://www.learnrazorpages.com/razor-pages/forms",
-					"about": "",
+					"description": "",
 					"tags": [
 						"razor",
 						"forms"
@@ -738,7 +738,7 @@
 				{
 					"name": "MS Technical Documentation",
 					"url": "https://docs.microsoft.com/en-us/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -746,7 +746,7 @@
 				{
 					"name": "MS .NET Video Tutorials",
 					"url": "https://dotnet.microsoft.com/en-us/learn/videos",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -754,7 +754,7 @@
 				{
 					"name": "MS ASP.NET Core Docs                                  ",
 					"url": "https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -762,7 +762,7 @@
 				{
 					"name": "HTML Helper",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -770,7 +770,7 @@
 				{
 					"name": "Rip Tutorial",
 					"url": "https://riptutorial.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -778,7 +778,7 @@
 				{
 					"name": "DotNet Tutorials",
 					"url": "https://dotnettutorials.net/course/csharp-dot-net-tutorials/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -786,7 +786,7 @@
 				{
 					"name": "TutorialsTeacher",
 					"url": "https://www.tutorialsteacher.com/csharp",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -794,7 +794,7 @@
 				{
 					"name": "DotNet Academy",
 					"url": "https://dotnetcademy.net/Search",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -802,7 +802,7 @@
 				{
 					"name": "Pragim Tech",
 					"url": "https://www.pragimtech.com/course-category/free-online-courses/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -810,7 +810,7 @@
 				{
 					"name": "Dot Net Tutorials",
 					"url": "https://dotnettutorials.net/course/asp-dot-net-mvc-tutorials/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -825,7 +825,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -833,7 +833,7 @@
 				{
 					"name": "C# Style Guide (by Google)",
 					"url": "https://google.github.io/styleguide/csharp-style.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -841,7 +841,7 @@
 				{
 					"name": "C# Style Rules (by MS)",
 					"url": "https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -849,7 +849,7 @@
 				{
 					"name": "C# Built In Types",
 					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -857,7 +857,7 @@
 				{
 					"name": "Constraints on type parameters",
 					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -865,7 +865,7 @@
 				{
 					"name": "Interfaces",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -880,7 +880,7 @@
 				{
 					"name": "ResearchGate (papers, ideas)",
 					"url": "https://www.researchgate.net/search?q=bug%20tracker",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -888,7 +888,7 @@
 				{
 					"name": "CSharp In Depth",
 					"url": "https://csharpindepth.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -896,7 +896,7 @@
 				{
 					"name": "The Little ASP.NET Core Book (ENG)",
 					"url": "https://recaffeinate.co/book/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -904,7 +904,7 @@
 				{
 					"name": "The Little ASP.NET Core Book (SPA)",
 					"url": "https://aspnetcoremaster.com/asp.net/core/2019/03/17/libro-asp-net-core.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -919,7 +919,7 @@
 				{
 					"name": ".NET Architecture Guides (Official)",
 					"url": "https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -927,7 +927,7 @@
 				{
 					"name": "Rip Tutorial",
 					"url": "https://riptutorial.com/ebook",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -942,7 +942,7 @@
 				{
 					"name": "Helper Methods",
 					"url": "https://stackoverflow.com/questions/8233286/mvc3-helper-method-to-be-used-by-several-controllers",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -957,7 +957,7 @@
 				{
 					"name": "ViewModels More Functional",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-viewmodel-make-your-viewmodels-more-functional-PY",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -965,7 +965,7 @@
 				{
 					"name": "Model Validation",
 					"url": "https://www.c-sharpcorner.com/article/model-validation-in-mvc-5/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -980,7 +980,7 @@
 				{
 					"name": "MVC Dropdowns",
 					"url": "https://www.danylkoweb.com/Blog/the-ultimate-guide-to-aspnet-mvc-dropdowns-JO",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -988,7 +988,7 @@
 				{
 					"name": "Best Way to Bind Partial View",
 					"url": "https://www.ifourtechnolab.com/blog/best-way-to-bind-partial-view-for-improving-performance-in-asp-net-mvc",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1003,7 +1003,7 @@
 				{
 					"name": "ViewModels More Functional",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-viewmodel-make-your-viewmodels-more-functional-PY",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1018,7 +1018,7 @@
 				{
 					"name": "Why? (SO)",
 					"url": "https://stackoverflow.com/questions/8749153/why-use-repository-pattern-or-please-explain-it-to-me",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1026,7 +1026,7 @@
 				{
 					"name": "But why?? (SO)",
 					"url": "https://stackoverflow.com/questions/11985736/repository-pattern-step-by-step-explanation",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1034,7 +1034,7 @@
 				{
 					"name": "Implementation #1 (SO)",
 					"url": "https://stackoverflow.com/questions/10925257/best-repository-pattern-for-asp-net-mvc/10925510#10925510",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1042,7 +1042,7 @@
 				{
 					"name": "Implementation #2 (pragimtech.com)",
 					"url": "https://www.pragimtech.com/blog/blazor/rest-api-repository-pattern/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1050,7 +1050,7 @@
 				{
 					"name": "Implementation #3 (remondo.net)",
 					"url": "./docs/001.pdf",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1058,7 +1058,7 @@
 				{
 					"name": "Why: Interfaces in RP, with good implementation example",
 					"url": "https://stackoverflow.com/questions/10616131/repository-pattern-why-exactly-do-we-need-interfaces",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1066,7 +1066,7 @@
 				{
 					"name": "Why: RP and DDD",
 					"url": "https://stackoverflow.com/questions/27631490/what-is-the-use-of-repository-and-why-do-mvc-developers-create-repository",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1074,7 +1074,7 @@
 				{
 					"name": "DbContext (entityframeworktutorial.net)",
 					"url": "https://www.entityframeworktutorial.net/efcore/entity-framework-core-dbcontext.aspx",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1082,7 +1082,7 @@
 				{
 					"name": "Models (POCO), Entity Framework and Data Patterns",
 					"url": "https://www.codeproject.com/Articles/615499/Models-POCO-Entity-Framework-and-Data-Patterns",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1090,7 +1090,7 @@
 				{
 					"name": "Content List for RP interface (GS)",
 					"url": "https://docs.google.com/spreadsheets/d/18gYhR05ykkRqwye3n808POnTfXT_8MVjz-a5rtldZrg/edit?usp=sharing",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1098,7 +1098,7 @@
 				{
 					"name": "⭐ Repository and Unit of Work Patterns in an ASP.NET MVC (MS)",
 					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1106,7 +1106,7 @@
 				{
 					"name": "Martin Fowler on Repository Pattern",
 					"url": "https://martinfowler.com/eaaCatalog/repository.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1121,7 +1121,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Test-driven_development",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1136,7 +1136,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Scrum_(software_development)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1144,7 +1144,7 @@
 				{
 					"name": "Scrum Guide (Official)",
 					"url": "https://scrumguides.org/scrum-guide.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1152,7 +1152,7 @@
 				{
 					"name": "Quick Overview",
 					"url": "https://www.professionaldevelopment.ie/who-uses-scrum",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1160,7 +1160,7 @@
 				{
 					"name": "What's Backlog? (SPA)",
 					"url": "https://muyagile.com/que-es-el-backlog/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1175,7 +1175,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Agile_software_development",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1183,7 +1183,7 @@
 				{
 					"name": "Agile Manifesto",
 					"url": "http://agilemanifesto.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1191,7 +1191,7 @@
 				{
 					"name": "Agile Alliance",
 					"url": "https://www.agilealliance.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1206,7 +1206,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/SOLID",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1214,7 +1214,7 @@
 				{
 					"name": "Example: remondo.net",
 					"url": "http://web.archive.org/web/20150411131853/http://www.remondo.net/category/solid-series/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1229,7 +1229,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1237,7 +1237,7 @@
 				{
 					"name": "Life Cycle",
 					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1245,7 +1245,7 @@
 				{
 					"name": "Basic Architecture (SO)",
 					"url": "https://stackoverflow.com/questions/9732747/what-type-of-architecture-is-this-called/9933371#9933371",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1253,7 +1253,7 @@
 				{
 					"name": "Basic Implementation (danylkoweb.com)",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-make-your-application-an-onion-QE",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1268,7 +1268,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/API",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1276,7 +1276,7 @@
 				{
 					"name": "mockAPI",
 					"url": "https://mockapi.io/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1291,7 +1291,7 @@
 				{
 					"name": "C# Discord",
 					"url": "https://discord.gg/csharp",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1299,7 +1299,7 @@
 				{
 					"name": "ASP.NET Core en Español",
 					"url": "https://www.facebook.com/groups/291405831518163",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1314,7 +1314,7 @@
 				{
 					"name": "arc.dev",
 					"url": "https://arc.dev/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1322,7 +1322,7 @@
 				{
 					"name": "amazonuniversity.jobs",
 					"url": "https://www.amazonuniversity.jobs/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1330,7 +1330,7 @@
 				{
 					"name": "UpWork",
 					"url": "https://www.upwork.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1338,7 +1338,7 @@
 				{
 					"name": "Fiverr",
 					"url": "https://www.fiverr.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1346,7 +1346,7 @@
 				{
 					"name": "FlexJobs",
 					"url": "https://www.flexjobs.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1354,7 +1354,7 @@
 				{
 					"name": "Freelancer Dot Net Developer",
 					"url": "https://www.facebook.com/groups/185064098523465",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1362,7 +1362,7 @@
 				{
 					"name": "Talently",
 					"url": "https://everest.talently.tech/register/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1370,7 +1370,7 @@
 				{
 					"name": "lemon.io",
 					"url": "https://lemon.io/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1385,7 +1385,7 @@
 				{
 					"name": "10015 Tools",
 					"url": "https://10015.io/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1393,7 +1393,7 @@
 				{
 					"name": "Thought Works Technology Radar",
 					"url": "https://www.thoughtworks.com/radar",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1401,7 +1401,7 @@
 				{
 					"name": "overapi.com (cheatsheets)",
 					"url": "https://overapi.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1409,7 +1409,7 @@
 				{
 					"name": "Desmos Online Graphic Calculator",
 					"url": "https://www.desmos.com/calculator",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1417,7 +1417,7 @@
 				{
 					"name": "Desmos Scientific Calculator",
 					"url": "https://www.desmos.com/scientific",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1432,7 +1432,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Entity_Framework",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1440,7 +1440,7 @@
 				{
 					"name": "Official Docs",
 					"url": "https://docs.microsoft.com/en-us/ef/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1448,7 +1448,7 @@
 				{
 					"name": "EF Basics",
 					"url": "https://www.entityframeworktutorial.net/what-is-entityframework.aspx",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1456,7 +1456,7 @@
 				{
 					"name": "entityframework.net",
 					"url": "https://entityframework.net/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1464,7 +1464,7 @@
 				{
 					"name": "DbContext (session to DB)",
 					"url": "https://www.entityframeworktutorial.net/basics/context-class-in-entity-framework.aspx",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1472,7 +1472,7 @@
 				{
 					"name": "Tutorials Point (for beginners)",
 					"url": "https://www.tutorialspoint.com/entity_framework/index.htm",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1480,7 +1480,7 @@
 				{
 					"name": "EF Good Practices (SO)",
 					"url": "https://stackoverflow.com/a/19312851/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1495,7 +1495,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1503,7 +1503,7 @@
 				{
 					"name": "What's this?",
 					"url": "https://education.launchcode.org/csharp-web-development/chapters/orm-intro/background.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1511,7 +1511,7 @@
 				{
 					"name": "NHibernate",
 					"url": "https://nhibernate.info/",
-					"about": "",
+					"description": "",
 					"tags": [
 						"orm"
 					]
@@ -1526,7 +1526,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Domain-driven_design",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1541,7 +1541,7 @@
 				{
 					"name": "T4MVC",
 					"url": "https://github.com/T4MVC/T4MVC",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1549,7 +1549,7 @@
 				{
 					"name": "AutoMapper",
 					"url": "http://automapper.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						"mapper",
 						"dto"
@@ -1558,7 +1558,7 @@
 				{
 					"name": "C# Bogus",
 					"url": "https://github.com/bchavez/Bogus",
-					"about": "",
+					"description": "",
 					"tags": [
 						"form",
 						"content",
@@ -1568,7 +1568,7 @@
 				{
 					"name": "RabbitMQ",
 					"url": "https://betterprogramming.pub/why-do-we-need-rabbitmq-f9f1d99c074c",
-					"about": "",
+					"description": "",
 					"tags": [
 						"message",
 						"broker",
@@ -1578,7 +1578,7 @@
 				{
 					"name": "NLog",
 					"url": "https://nlog-project.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						"logging",
 						"",
@@ -1595,7 +1595,7 @@
 				{
 					"name": "Use own DB on GHP",
 					"url": "https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1603,7 +1603,7 @@
 				{
 					"name": "Link to html in another repo",
 					"url": "https://stackoverflow.com/questions/62601696/github-page-link-to-html-in-another-repo",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1618,7 +1618,7 @@
 				{
 					"name": "Azure",
 					"url": "https://azure.microsoft.com/en-us/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1626,7 +1626,7 @@
 				{
 					"name": "AWS",
 					"url": "https://aws.amazon.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1634,7 +1634,7 @@
 				{
 					"name": "somee.com",
 					"url": "https://somee.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1642,7 +1642,7 @@
 				{
 					"name": "myasp.net",
 					"url": "https://www.myasp.net/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1650,7 +1650,7 @@
 				{
 					"name": "smarterasp.net",
 					"url": "https://www.smarterasp.net",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1658,7 +1658,7 @@
 				{
 					"name": "ionos.com/",
 					"url": "https://www.ionos.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1666,7 +1666,7 @@
 				{
 					"name": "contabo.com",
 					"url": "https://contabo.com/en/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1674,7 +1674,7 @@
 				{
 					"name": "sitioshispanos.com",
 					"url": "https://www.sitioshispanos.com/es/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1682,7 +1682,7 @@
 				{
 					"name": "asphostportal.com",
 					"url": "https://www.asphostportal.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1690,7 +1690,7 @@
 				{
 					"name": "PlanetScale",
 					"url": "https://planetscale.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1698,7 +1698,7 @@
 				{
 					"name": "Firebase",
 					"url": "https://firebase.google.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1706,7 +1706,7 @@
 				{
 					"name": "Vercel",
 					"url": "https://vercel.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1721,7 +1721,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Object-oriented_programming",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1729,7 +1729,7 @@
 				{
 					"name": "4 Principles of Object-Oriented Programming",
 					"url": "https://khalilstemmler.com/articles/object-oriented/programming/4-principles/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1744,7 +1744,7 @@
 				{
 					"name": "List of topics",
 					"url": "./assets/broken.png",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1752,7 +1752,7 @@
 				{
 					"name": "musicForProgramming();",
 					"url": "https://musicforprogramming.net/fiftyseven",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1760,7 +1760,7 @@
 				{
 					"name": "InfoQ - Software Development News, Trends and Best Practices",
 					"url": "https://www.infoq.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1775,7 +1775,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Language_Integrated_Query",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1783,7 +1783,7 @@
 				{
 					"name": "Official Docs",
 					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1791,7 +1791,7 @@
 				{
 					"name": "codingame.com free course",
 					"url": "https://www.codingame.com/playgrounds/213/using-c-linq---a-practical-overview/welcome",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1799,7 +1799,7 @@
 				{
 					"name": "Using IQueryable with Linq",
 					"url": "https://stackoverflow.com/questions/1578778/using-iqueryable-with-linq/1578809#1578809",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1814,7 +1814,7 @@
 				{
 					"name": "freeCodeCamp.org",
 					"url": "https://www.youtube.com/c/Freecodecamp/videos",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1822,7 +1822,7 @@
 				{
 					"name": "dotNET",
 					"url": "https://www.youtube.com/c/dotNET/videos",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1830,7 +1830,7 @@
 				{
 					"name": "Coder Foundry",
 					"url": "https://www.youtube.com/c/CoderFoundryBootcamp/videos",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1838,7 +1838,7 @@
 				{
 					"name": "Code Skills",
 					"url": "https://www.youtube.com/c/jestradabe/videos",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1846,7 +1846,7 @@
 				{
 					"name": ".NET Interview Preparation videos",
 					"url": "https://www.youtube.com/c/dnfvideo/videos",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1854,7 +1854,7 @@
 				{
 					"name": "Mark Richards, on Software Architecture",
 					"url": "https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1862,7 +1862,7 @@
 				{
 					"name": "hdeleonnet (Back-End; SPA)",
 					"url": "https://www.youtube.com/c/hdeleonnet",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1870,7 +1870,7 @@
 				{
 					"name": "BettaTech (SPA)",
 					"url": "https://www.youtube.com/c/BettaTech",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1878,7 +1878,7 @@
 				{
 					"name": "EDteam (SPA)",
 					"url": "https://www.youtube.com/c/EDteam",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1893,7 +1893,7 @@
 				{
 					"name": "abp.io",
 					"url": "https://abp.io/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1901,7 +1901,7 @@
 				{
 					"name": "syncfusion.com (inspiration)",
 					"url": "https://ej2.syncfusion.com/home/aspnetmvc.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1916,7 +1916,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Software_architecture",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1924,7 +1924,7 @@
 				{
 					"name": "Software Architecture Monday, with Mark Richards",
 					"url": "https://youtu.be/FKYKeqWfyIs",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1932,7 +1932,7 @@
 				{
 					"name": "Multitier Architecture (Wiki)",
 					"url": "https://en.wikipedia.org/wiki/Multitier_architecture",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1940,7 +1940,7 @@
 				{
 					"name": "Onion Architecture (Jeffrey Palermo)",
 					"url": "https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1948,7 +1948,7 @@
 				{
 					"name": "Jamstack.org",
 					"url": "https://jamstack.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1956,7 +1956,7 @@
 				{
 					"name": "Martin Fowler",
 					"url": "https://martinfowler.com/architecture/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1971,7 +1971,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/ADO.NET",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1979,7 +1979,7 @@
 				{
 					"name": "MS Docs",
 					"url": "https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -1987,7 +1987,7 @@
 				{
 					"name": "Entity Framework VS ADO.NET",
 					"url": "https://stackoverflow.com/questions/22328889/entity-framework-vs-pure-ado-net",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2002,7 +2002,7 @@
 				{
 					"name": "if() return",
 					"url": "https://www.youtube.com/shorts/JnFh2NoAM4s",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2017,7 +2017,7 @@
 				{
 					"name": "Asana",
 					"url": "https://app.asana.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2025,7 +2025,7 @@
 				{
 					"name": "notion.so",
 					"url": "https://www.notion.so",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2033,7 +2033,7 @@
 				{
 					"name": "boostnote.io",
 					"url": "https://boostnote.io/gdm",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2048,7 +2048,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/JSON",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2056,7 +2056,7 @@
 				{
 					"name": "tutorialspoint.com",
 					"url": "https://www.tutorialspoint.com/json/json_quick_guide.htm",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2064,7 +2064,7 @@
 				{
 					"name": "11 Ways to Improve JSON Performance & Usage",
 					"url": "https://stackify.com/top-11-json-performance-usage-tips/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2072,7 +2072,7 @@
 				{
 					"name": "JSON Google Style Guide",
 					"url": "https://google.github.io/styleguide/jsoncstyleguide.xml",
-					"about": "",
+					"description": "",
 					"tags": [
 						"style guide"
 					]
@@ -2087,7 +2087,7 @@
 				{
 					"name": "openbase.com (npm)",
 					"url": "https://openbase.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2102,7 +2102,7 @@
 				{
 					"name": "Top 10",
 					"url": "https://openbase.com/categories/js/most-popular-javascript-html-templating-engine-libraries",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2110,7 +2110,7 @@
 				{
 					"name": "How to Modularize HTML Using Template Engines and Gulp",
 					"url": "https://zellwk.com/blog/nunjucks-with-gulp/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2118,7 +2118,7 @@
 				{
 					"name": "Nunjucks",
 					"url": "https://mozilla.github.io/nunjucks/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2126,7 +2126,7 @@
 				{
 					"name": "Pug",
 					"url": "https://github.com/pugjs/pug",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2141,7 +2141,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Docker_(software)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2149,7 +2149,7 @@
 				{
 					"name": "Docker For Beginners",
 					"url": "https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2157,7 +2157,7 @@
 				{
 					"name": "Docker Docs",
 					"url": "https://docs.docker.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2165,7 +2165,7 @@
 				{
 					"name": "Docker, what is it and what is the purpose",
 					"url": "https://stackoverflow.com/a/42111368/7389293",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2180,7 +2180,7 @@
 				{
 					"name": "ASP.NET MVC Best Practices and Guidelines",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2195,7 +2195,7 @@
 				{
 					"name": "Healthy Software Developer",
 					"url": "https://www.youtube.com/c/JaymeEdwardsMedia",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2210,7 +2210,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2225,7 +2225,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Git",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2233,7 +2233,7 @@
 				{
 					"name": "Git Docs",
 					"url": "https://git-scm.com/doc",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2241,7 +2241,7 @@
 				{
 					"name": "Common Git Commands",
 					"url": "http://guides.beanstalkapp.com/version-control/common-git-commands.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2249,7 +2249,7 @@
 				{
 					"name": "Git Workflow",
 					"url": "https://wiki.spheredev.org/index.php/Git_for_the_lazy#Introduce_yourself_to_git",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2257,7 +2257,7 @@
 				{
 					"name": "git - the simple guide",
 					"url": "http://up1.github.io/git-guide/index.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2265,7 +2265,7 @@
 				{
 					"name": "learngitbranching.js.org",
 					"url": "https://learngitbranching.js.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2273,7 +2273,7 @@
 				{
 					"name": "gitexercises.fracz.com",
 					"url": "https://gitexercises.fracz.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2281,7 +2281,7 @@
 				{
 					"name": "gitimmersion.com",
 					"url": "https://gitimmersion.com/lab_01.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2289,7 +2289,7 @@
 				{
 					"name": "visual-git-guide",
 					"url": "https://marklodato.github.io/visual-git-guide/index-en.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2304,7 +2304,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/User_interface",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2312,7 +2312,7 @@
 				{
 					"name": "Toast Notifications",
 					"url": "https://codewithmukesh.com/blog/toast-notifications-in-aspnet-core/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2327,7 +2327,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Digital_nomad",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2335,7 +2335,7 @@
 				{
 					"name": "The Ultimate Digital Nomad Guide",
 					"url": "https://www.outsite.co/digital-nomad-guide",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2343,7 +2343,7 @@
 				{
 					"name": "Reddit",
 					"url": "https://www.reddit.com/r/digitalnomad/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2351,7 +2351,7 @@
 				{
 					"name": "OUTSITE",
 					"url": "https://www.outsite.co/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2366,7 +2366,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2374,7 +2374,7 @@
 				{
 					"name": "danylkoweb.com",
 					"url": "https://www.danylkoweb.com",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2382,7 +2382,7 @@
 				{
 					"name": "codejourney.net",
 					"url": "https://www.codejourney.net/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2390,7 +2390,7 @@
 				{
 					"name": "shhdharmen.me",
 					"url": "https://blog.shhdharmen.me/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2398,7 +2398,7 @@
 				{
 					"name": "meziantou.net",
 					"url": "https://www.meziantou.net/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2413,7 +2413,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2421,7 +2421,7 @@
 				{
 					"name": "What's",
 					"url": "https://generalassemb.ly/blog/what-is-a-javascript-framework/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2429,7 +2429,7 @@
 				{
 					"name": "Angular",
 					"url": "https://angular.io/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2437,7 +2437,7 @@
 				{
 					"name": "ReactJS",
 					"url": "https://reactjs.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2445,7 +2445,7 @@
 				{
 					"name": "Vue.js",
 					"url": "https://vuejs.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2453,7 +2453,7 @@
 				{
 					"name": "Alpine",
 					"url": "https://alpinejs.dev/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2468,7 +2468,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Blazor",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2476,7 +2476,7 @@
 				{
 					"name": "",
 					"url": "https://swimburger.net/blog/dotnet/how-to-deploy-aspnet-blazor-webassembly-to-github-pagesHow to deploy ASP.NET Blazor WebAssembly to GitHub Pages",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2491,7 +2491,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "/assets/wikipedia-no.jpg",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2499,7 +2499,7 @@
 				{
 					"name": "What's",
 					"url": "https://kinsta.com/blog/static-site-generator/#5-best-static-site-generators",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2507,7 +2507,7 @@
 				{
 					"name": "Jekyll",
 					"url": "https://jekyllrb.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2515,7 +2515,7 @@
 				{
 					"name": "HUGO",
 					"url": "https://gohugo.io",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2523,7 +2523,7 @@
 				{
 					"name": "11ty (JS, NodeJS)",
 					"url": "https://www.11ty.dev/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2531,7 +2531,7 @@
 				{
 					"name": "Gatsbyjs (from ReactJS)",
 					"url": "https://www.gatsbyjs.com",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2539,7 +2539,7 @@
 				{
 					"name": "Gridsome",
 					"url": "https://gridsome.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2554,7 +2554,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Authentication_and_authorization_infrastructure",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2562,7 +2562,7 @@
 				{
 					"name": "auth0",
 					"url": "https://auth0.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2577,7 +2577,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Exception_handling",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2585,7 +2585,7 @@
 				{
 					"name": "throw keyword basic example",
 					"url": "https://www.tutorialsteacher.com/csharp/throw-csharp",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2600,7 +2600,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "/assets/wikipedia-no.jpg",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2608,7 +2608,7 @@
 				{
 					"name": "Bundling and Minification",
 					"url": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/performance/bundling-and-minification",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2616,7 +2616,7 @@
 				{
 					"name": "Bundling #1",
 					"url": "https://www.c-sharpcorner.com/article/bundling-in-asp-net-mvc-application/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2624,7 +2624,7 @@
 				{
 					"name": "Bundling #2",
 					"url": "https://www.tutorialsteacher.com/mvc/scriptbundle-mvc",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2639,7 +2639,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Npm_(software)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2647,7 +2647,7 @@
 				{
 					"name": "npmjs (Official site)",
 					"url": "https://www.npmjs.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2655,7 +2655,7 @@
 				{
 					"name": "FakerJS",
 					"url": "https://fakerjs.dev/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2679,7 +2679,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Collection_(abstract_data_type)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2687,7 +2687,7 @@
 				{
 					"name": "LinkedIn: IEnumerable vs ICollection vs IList vs IQueryable",
 					"url": "https://www.linkedin.com/pulse/ienumerable-vs-icollection-idictionary-ilist-hasan-shahjahan/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2695,7 +2695,7 @@
 				{
 					"name": "Code Project: ist vs IEnumerable vs IQueryable vs ICollection vs IDictionary",
 					"url": "https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2710,7 +2710,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Big_O_notation",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2718,7 +2718,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2733,7 +2733,7 @@
 				{
 					"name": "Choose the Language: C#",
 					"url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2741,7 +2741,7 @@
 				{
 					"name": "Choose the Framework: .NET",
 					"url": "https://en.wikipedia.org/wiki/.NET_Framework_version_history",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2749,7 +2749,7 @@
 				{
 					"name": "HTTP Protocol",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2757,7 +2757,7 @@
 				{
 					"name": "HTTP status codes list (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2765,7 +2765,7 @@
 				{
 					"name": "HTTP Response Status Codes (MDN)",
 					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2773,7 +2773,7 @@
 				{
 					"name": "HTTP Request Methods (verbs; MDN)",
 					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2781,7 +2781,7 @@
 				{
 					"name": "ORM: Entity Framework",
 					"url": "https://en.wikipedia.org/wiki/Entity_Framework",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2789,7 +2789,7 @@
 				{
 					"name": "MS SQL Server/Syntax",
 					"url": "https://en.wikipedia.org/wiki/Microsoft_SQL_Server",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2797,7 +2797,7 @@
 				{
 					"name": "CRUD/Store Procedures",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2805,7 +2805,7 @@
 				{
 					"name": "DB Design (Constraints, Rules)",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2813,7 +2813,7 @@
 				{
 					"name": "Lazy Loading",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2821,7 +2821,7 @@
 				{
 					"name": "Back-End Security",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2829,7 +2829,7 @@
 				{
 					"name": "JSON Web Token",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2837,7 +2837,7 @@
 				{
 					"name": "Authentication/Authorization",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2845,7 +2845,7 @@
 				{
 					"name": "Layer Filtering",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2853,7 +2853,7 @@
 				{
 					"name": "Queue Tasks (Tareas en segundo plano)",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2861,7 +2861,7 @@
 				{
 					"name": "Webhooks",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2869,7 +2869,7 @@
 				{
 					"name": "Services: API Rest, SOAP",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2877,7 +2877,7 @@
 				{
 					"name": "Document Generation (Swagger)",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2885,7 +2885,7 @@
 				{
 					"name": "Unit Testing",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2893,7 +2893,7 @@
 				{
 					"name": "Design Patterns: Observer, DI, Mediator, Factory, Builder, Singleton, Facade, Strategy, State",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2901,7 +2901,7 @@
 				{
 					"name": "Basic Front-End",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2909,7 +2909,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2924,7 +2924,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Frontend_and_backend#Back-end_focused",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2932,7 +2932,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2947,7 +2947,7 @@
 				{
 					"name": "Postman",
 					"url": "https://www.postman.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2955,7 +2955,7 @@
 				{
 					"name": "dbdiagram.io (DB design)",
 					"url": "https://dbdiagram.io/home",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2963,7 +2963,7 @@
 				{
 					"name": "dbml.org (Mark Up Language)",
 					"url": "https://www.dbml.org/home/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2978,7 +2978,7 @@
 				{
 					"name": "List of monospaced typefaces (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/List_of_monospaced_typefaces",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2986,7 +2986,7 @@
 				{
 					"name": "IBM Plex® typeface",
 					"url": "https://github.com/IBM/plex/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -2994,7 +2994,7 @@
 				{
 					"name": "Cascadia Code (MS)",
 					"url": "https://github.com/microsoft/cascadia-code#installation",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3009,7 +3009,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Blazor",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3017,7 +3017,7 @@
 				{
 					"name": "ASP.NET MVC Best Practices and Guidelines",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-best-practices-and-guidelines-Q4",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3032,7 +3032,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3040,7 +3040,7 @@
 				{
 					"name": "58 Form Design & UX Best Practices",
 					"url": "https://www.ventureharbour.com/form-design-best-practices/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3055,7 +3055,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Data_structure",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3063,7 +3063,7 @@
 				{
 					"name": "MS Docs",
 					"url": "https://docs.microsoft.com/en-us/dotnet/standard/collections/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3071,7 +3071,7 @@
 				{
 					"name": "List of Data Structures (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/List_of_data_structures",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3079,7 +3079,7 @@
 				{
 					"name": "Fundamental Data Structures and Algorithms in C# 🔥",
 					"url": "https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3094,7 +3094,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/F_Sharp_(programming_language)",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3102,7 +3102,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3117,7 +3117,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3125,7 +3125,7 @@
 				{
 					"name": "REST APIs with .NET and C#",
 					"url": "https://dotnet.microsoft.com/en-us/apps/aspnet/apis",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3133,7 +3133,7 @@
 				{
 					"name": "Web API vs REST API Simplified: 4 Critical Differences",
 					"url": "https://hevodata.com/learn/web-api-vs-rest-api/#web",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3148,7 +3148,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3156,7 +3156,7 @@
 				{
 					"name": "HTTP Request Methods (verbs)",
 					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3164,7 +3164,7 @@
 				{
 					"name": "HTTP Status (Mozilla)",
 					"url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3172,7 +3172,7 @@
 				{
 					"name": "List of HTTP status codes (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3187,7 +3187,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3195,7 +3195,7 @@
 				{
 					"name": "What is a microservice? (SO)",
 					"url": "https://stackoverflow.com/questions/46575898/what-is-a-microservice",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3210,7 +3210,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3218,7 +3218,7 @@
 				{
 					"name": "Reflection",
 					"url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3233,7 +3233,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3241,7 +3241,7 @@
 				{
 					"name": "Concatenating Strings Efficiently (String Builder)",
 					"url": "https://web.archive.org/web/20181106113504/http://yoda.arachsys.com:80/csharp/stringbuilder.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3256,7 +3256,7 @@
 				{
 					"name": "sqlauthority.com",
 					"url": "https://blog.sqlauthority.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3264,7 +3264,7 @@
 				{
 					"name": "sqltutorial.org",
 					"url": "https://www.sqltutorial.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3272,7 +3272,7 @@
 				{
 					"name": "SQL Server and Azure SQL Labs and Workshops",
 					"url": "https://github.com/microsoft/sqlworkshops",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3280,7 +3280,7 @@
 				{
 					"name": "tt.com/sql",
 					"url": "https://www.tutorialsteacher.com/sql",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3288,7 +3288,7 @@
 				{
 					"name": "tt.com/sqlserver",
 					"url": "https://www.tutorialsteacher.com/sqlserver",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3296,7 +3296,7 @@
 				{
 					"name": "learnsql.com",
 					"url": "https://learnsql.com/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3304,7 +3304,7 @@
 				{
 					"name": "learnsqlonline.org/",
 					"url": "https://www.learnsqlonline.org/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3312,7 +3312,7 @@
 				{
 					"name": "tutorialspoint.com/sql",
 					"url": "https://www.tutorialspoint.com/sql/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3320,7 +3320,7 @@
 				{
 					"name": "Normalization (up to 5NF)",
 					"url": "https://youtu.be/GFQaEYEc8_8",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3335,7 +3335,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3343,7 +3343,7 @@
 				{
 					"name": "Entity Relationship (ER) Diagram Model with DBMS Example (Guru99)",
 					"url": "https://www.guru99.com/er-diagram-tutorial-dbms.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3351,7 +3351,7 @@
 				{
 					"name": "What is Entity Relationship Diagram (ERD)?",
 					"url": "https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3359,7 +3359,7 @@
 				{
 					"name": "Entity Relationship Diagram Examples (edrawsoft.com)",
 					"url": "https://www.edrawsoft.com/er-diagram-examples.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3367,7 +3367,7 @@
 				{
 					"name": "Entity Relationship Modeling Examples (O'Reilly)",
 					"url": "https://learning.oreilly.com/library/view/learning-mysql/0596008643/ch04s04.html",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3375,7 +3375,7 @@
 				{
 					"name": "EDM (Entity Data Model)",
 					"url": "https://www.tutorialspoint.com/entity_framework/entity_framework_data_model.htm",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3390,7 +3390,7 @@
 				{
 					"name": "Business process (Wikipedia)",
 					"url": "https://en.wikipedia.org/wiki/Business_process",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3398,7 +3398,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3413,7 +3413,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3421,7 +3421,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3436,7 +3436,7 @@
 				{
 					"name": "Codecademy",
 					"url": "https://www.codecademy.com/resources/cheatsheets/all",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3444,7 +3444,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3459,7 +3459,7 @@
 				{
 					"name": "Bootstrap Fieldset Legend: How To + Examples + Template",
 					"url": "https://azmind.com/bootstrap-fieldset-legend/",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3474,7 +3474,7 @@
 				{
 					"name": "Expertise",
 					"url": "./docs/my_ideas/expertise.pdf",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3482,7 +3482,7 @@
 				{
 					"name": "",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3497,7 +3497,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3505,7 +3505,7 @@
 				{
 					"name": "Hosted Services (Queued processes)",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3513,7 +3513,7 @@
 				{
 					"name": "Scheduled Tasks",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3528,7 +3528,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3536,7 +3536,7 @@
 				{
 					"name": "scriptcs (C# integration for \"Code Runner\" extension",
 					"url": "https://github.com/scriptcs/scriptcs",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3551,7 +3551,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Cryptography",
-					"about": "",
+					"description": "",
 					"tags": [
 						"wikipedia"
 					]
@@ -3570,7 +3570,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "",
-					"about": "",
+					"description": "",
 					"tags": [
 						"wikipedia"
 					]
@@ -3578,7 +3578,7 @@
 				{
 					"name": "Service Layer Architecture",
 					"url": "https://stackoverflow.com/questions/14887871/creating-a-service-layer-for-my-mvc-application",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3586,7 +3586,7 @@
 				{
 					"name": "Service Layer Design",
 					"url": "https://stackoverflow.com/questions/31180816/mvc-design-pattern-service-layer-purpose",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3594,7 +3594,7 @@
 				{
 					"name": "Service/Business Layer & Repository Providers/Repository Layer",
 					"url": "https://stackoverflow.com/questions/20514446/how-to-call-model-methods-in-controller-in-asp-net-mvc",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3602,7 +3602,7 @@
 				{
 					"name": "Persistence Layer",
 					"url": "https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design",
-					"about": "",
+					"description": "",
 					"tags": [
 						""
 					]
@@ -3610,7 +3610,7 @@
 				{
 					"name": "Domain Driven Design: Domain Service, Application Service",
 					"url": "https://stackoverflow.com/questions/2268699/domain-driven-design-domain-service-application-service",
-					"about": "",
+					"description": "",
 					"tags": [
 						"ddd",
 						"services"
@@ -3619,7 +3619,7 @@
 				{
 					"name": "Validating with a Service Layer (C#)",
 					"url": "https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/models-data/validating-with-a-service-layer-cs",
-					"about": "",
+					"description": "",
 					"tags": [
 						"services",
 						"validation"
@@ -3635,7 +3635,7 @@
 				{
 					"name": "Google It",
 					"url": "https://www.google.com/search?q=web+application+architecture",
-					"about": "",
+					"description": "",
 					"tags": [
 						"search"
 					]
@@ -3643,7 +3643,7 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Web_application",
-					"about": "",
+					"description": "",
 					"tags": [
 						"wikipedia",
 						"web application"
@@ -3652,7 +3652,7 @@
 				{
 					"name": "What is Web Application Architecture? How It Works, Trends, Best Practices and More",
 					"url": "https://stackify.com/web-application-architecture/",
-					"about": "",
+					"description": "",
 					"tags": [
 						"architecture"
 					]
@@ -3660,7 +3660,7 @@
 				{
 					"name": "Common Web Application Architectures (MS)",
 					"url": "https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures?fbclid=IwAR1PcWjyZAhu82v7n8oM-GDk__yGiBIL1JGDAx5q88ek7IWTy2MKFCEnvZk",
-					"about": "",
+					"description": "",
 					"tags": [
 						"architecture"
 					]
