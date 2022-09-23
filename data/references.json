@@ -309,7 +309,7 @@
 					"url": "https://stackoverflow.com/a/31062594/7389293",
 					"description": "For DateTime values on MVC. An important database features is the ability to have computed properties. If you're mapping your code first classes to tables that contain computed properties, you don't want Entity Framework to try to update those columns. But you do want EF to return those values from the database after you've inserted or updated data. You can use the DatabaseGenerated annotation to flag those properties in your class along with the Computed enum. Other enums are None and Identity.",
 					"tags": [
-						"razor", "datetime", "computed properties"
+						"razor", "datetime", "computed properties", "getter", "setter"
 					]
 				}
 			]
