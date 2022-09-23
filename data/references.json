@@ -1532,12 +1532,37 @@
 					]
 				},
 				{
-					"name": "\"Domain\" defined (Wiki)",
+					"name": "(a) \"Domain\"",
 					"url": "https://en.wikipedia.org/wiki/Domain_(software_engineering)",
+					"description": "Also known as \"problem domain\".",
 					"tags": [
 						"ddd",
 						"wikipedia",
 						"definition"
+					]
+				},
+				{
+					"name": "(b) \"Business Domain\"",
+					"url": "https://en.wikipedia.org/wiki/Business_domain",
+					"description": "Set of classes that represent objects in the business model being implemented. The business domain is distinguishable from the business model in that the business model is an understanding and explanation of information and behaviors in the problem domain, while the business domain is an implementation of that business model in a specific programming language.",
+					"tags": [
+						"ddd", "domain", "business"
+					]
+				},
+				{
+					"name": "(c) \"Business Model\"",
+					"url": "https://en.wikipedia.org/wiki/Business_model",
+					"description": "A business model describes how an organization creates, delivers, and captures value, in economic, social, cultural or other contexts. The process of business model construction and modification is also called \"business model innovation\" and forms a part of business strategy.",
+					"tags": [
+						"ddd", "business"
+					]
+				},
+				{
+					"name": "Vladimir Khorikov: DDD in a nutshell",
+					"url": "https://www.youtube.com/watch?v=kPV1SkdSnhE&ab_channel=CentricRO",
+					"description": "Takeaways: the main principles of DDD and why DDD is important in business applications, technical aspects and patterns in DDD, including the difference between anemic and rich domain models, the relation between DDD, microservices and Cloud.",
+					"tags": [
+						"ddd", "video", "pelado", "vladimir", "youtube"
 					]
 				}
 			]
