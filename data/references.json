@@ -1521,7 +1521,7 @@
 		{
 			"id": 37,
 			"name": "Domain-Driven Design (DDD)",
-			"about": "Domain-driven design (DDD) is a major software design approach, focusing on modelling software to match a domain according to input from that domain's experts. Under domain-driven design, the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes like LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.",
+			"about": "It is a software development approach that uses and builds upon OOAD (Object-Oriented Analysis and Design) principles and ideas. Domain-driven design (DDD) is a major software design approach, focusing on modelling software to match a domain according to input from that domain's experts. Under domain-driven design, the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes like LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -1563,6 +1563,14 @@
 					"description": "Takeaways: the main principles of DDD and why DDD is important in business applications, technical aspects and patterns in DDD, including the difference between anemic and rich domain models, the relation between DDD, microservices and Cloud.",
 					"tags": [
 						"ddd", "video", "pelado", "vladimir", "youtube"
+					]
+				},
+				{
+					"name": "Free Course on DDD, PluralSight",
+					"url": "https://www.pluralsight.com/courses/domain-driven-design-in-practice",
+					"description": "A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.",
+					"tags": [
+						"course"
 					]
 				}
 			]
