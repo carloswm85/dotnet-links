@@ -744,6 +744,14 @@
 			"about": "Different tutorial sites focused on .NET technologies, general view of them.",
 			"links": [
 				{
+					"name": "Understanding .NET (EDteam, SPA)",
+					"url": "https://youtu.be/fuTDzzarQGg",
+					"description": ".NET es la plataforma estrella de Microsoft, sobre la cuál se puede desarrollar de todo (web, móvil, videojuegos, inteligencia artificial, escritorio, cloud, entre otros). Sin embargo, términos como .NET Framework, .NET Core, .NET 5, .NET Standard, ASP.NET, ASP.NET Core, VisualBasic.NET, etc, pueden darte dolor de cabeza y confundirte.",
+					"tags": [
+						"youtube", "edteam"
+					]
+				},
+				{
 					"name": "MS Technical Documentation",
 					"url": "https://docs.microsoft.com/en-us/",
 					"description": "",
@@ -2521,6 +2529,13 @@
 					"description": "",
 					"tags": [
 						""
+					]
+				},{
+					"name": "What’s behind the hype about Blazor?",
+					"url": "https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/",
+					"description": "Blazor is a new client-side UI framework from the ASP.NET team. Its big selling point is the ability to write rich web UI experiences using HTML, CSS, and C# instead of JavaScript—something a lot of developers have been dreaming of.",
+					"tags": [
+						"blazor", "ui", "blog", "stackoverflow"
 					]
 				},
 				{
