@@ -309,7 +309,11 @@
 					"url": "https://stackoverflow.com/a/31062594/7389293",
 					"description": "For DateTime values on MVC. An important database features is the ability to have computed properties. If you're mapping your code first classes to tables that contain computed properties, you don't want Entity Framework to try to update those columns. But you do want EF to return those values from the database after you've inserted or updated data. You can use the DatabaseGenerated annotation to flag those properties in your class along with the Computed enum. Other enums are None and Identity.",
 					"tags": [
-						"razor", "datetime", "computed properties", "getter", "setter"
+						"razor",
+						"datetime",
+						"computed properties",
+						"getter",
+						"setter"
 					]
 				}
 			]
@@ -748,7 +752,8 @@
 					"url": "https://youtu.be/fuTDzzarQGg",
 					"description": ".NET es la plataforma estrella de Microsoft, sobre la cuál se puede desarrollar de todo (web, móvil, videojuegos, inteligencia artificial, escritorio, cloud, entre otros). Sin embargo, términos como .NET Framework, .NET Core, .NET 5, .NET Standard, ASP.NET, ASP.NET Core, VisualBasic.NET, etc, pueden darte dolor de cabeza y confundirte.",
 					"tags": [
-						"youtube", "edteam"
+						"youtube",
+						"edteam"
 					]
 				},
 				{
@@ -1562,7 +1567,9 @@
 					"url": "https://en.wikipedia.org/wiki/Business_domain",
 					"description": "Set of classes that represent objects in the business model being implemented. The business domain is distinguishable from the business model in that the business model is an understanding and explanation of information and behaviors in the problem domain, while the business domain is an implementation of that business model in a specific programming language.",
 					"tags": [
-						"ddd", "domain", "business"
+						"ddd",
+						"domain",
+						"business"
 					]
 				},
 				{
@@ -1570,7 +1577,8 @@
 					"url": "https://en.wikipedia.org/wiki/Business_model",
 					"description": "A business model describes how an organization creates, delivers, and captures value, in economic, social, cultural or other contexts. The process of business model construction and modification is also called \"business model innovation\" and forms a part of business strategy.",
 					"tags": [
-						"ddd", "business"
+						"ddd",
+						"business"
 					]
 				},
 				{
@@ -1578,7 +1586,11 @@
 					"url": "https://www.youtube.com/watch?v=kPV1SkdSnhE&ab_channel=CentricRO",
 					"description": "Takeaways: the main principles of DDD and why DDD is important in business applications, technical aspects and patterns in DDD, including the difference between anemic and rich domain models, the relation between DDD, microservices and Cloud.",
 					"tags": [
-						"ddd", "video", "pelado", "vladimir", "youtube"
+						"ddd",
+						"video",
+						"pelado",
+						"vladimir",
+						"youtube"
 					]
 				},
 				{
@@ -2419,14 +2431,24 @@
 		{
 			"id": 60,
 			"name": "Blogs",
-			"about": "",
+			"about": "A blog (a truncation of \"weblog\") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts).",
 			"links": [
 				{
 					"name": "Wikipedia",
-					"url": "",
+					"url": "https://en.wikipedia.org/wiki/Blog",
 					"description": "",
 					"tags": [
-						""
+						"wikipedia"
+					]
+				},
+				{
+					"name": "Stackoverflow Blog",
+					"url": "https://stackoverflow.blog",
+					"description": "Good stuffs, understandable, professional and not verbose.",
+					"tags": [
+						"blog",
+						"stackoverflow",
+						"top"
 					]
 				},
 				{
@@ -2530,12 +2552,16 @@
 					"tags": [
 						""
 					]
-				},{
+				},
+				{
 					"name": "What’s behind the hype about Blazor?",
 					"url": "https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/",
 					"description": "Blazor is a new client-side UI framework from the ASP.NET team. Its big selling point is the ability to write rich web UI experiences using HTML, CSS, and C# instead of JavaScript—something a lot of developers have been dreaming of.",
 					"tags": [
-						"blazor", "ui", "blog", "stackoverflow"
+						"blazor",
+						"ui",
+						"blog",
+						"stackoverflow"
 					]
 				},
 				{
