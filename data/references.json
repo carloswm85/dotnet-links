@@ -703,7 +703,9 @@
 					"url": "https://www.postgresql.org/docs/current/datatype-enum.html",
 					"description": "Enumerated (enum) types are data types that comprise a static, ordered set of values. They are equivalent to the enum types supported in a number of programming languages. An example of an enum type might be the days of the week, or a set of status values for a piece of data.",
 					"tags": [
-						"enum", "postgresql", "datatype"
+						"enum",
+						"postgresql",
+						"datatype"
 					]
 				}
 			]
@@ -3776,7 +3778,8 @@
 					"url": "https://en.wikipedia.org/wiki/Work_ethic",
 					"description": "Wikipedia article.",
 					"tags": [
-						"wikipedia", "ethics"
+						"wikipedia",
+						"ethics"
 					]
 				},
 				{
@@ -3784,7 +3787,22 @@
 					"url": "https://youtu.be/IxbhAsDDbmI",
 					"description": "Review del libro The Clean Coder de Robert Martin, este es la continuación del libro Clean Code y habla sobre un código de conducta, cumple lo que promete?, te hará un mejor desarrollador? la respuesta en este video.",
 					"tags": [
-						"holamundo", "martin", "robert", "clean coder", "book"
+						"holamundo",
+						"martin",
+						"robert",
+						"clean coder",
+						"book"
+					]
+				},
+				{
+					"name": "Healthy Software Developer",
+					"url": "https://www.youtube.com/c/JaymeEdwardsMedia",
+					"description": "\"After over 35 projects for some of the most prestigious companies, I burned out. Learn from my mistakes and insights! After a 25 year career as a software architect and management consultant, I now work part time in the mornings. And in the afternoon I'm coaching programmers and other IT professionals to be mentally healthy when they deliver software!\" - Jayme Edwards",
+					"tags": [
+						"youtube",
+						"ethics",
+						"work",
+						"health"
 					]
 				}
 			]
