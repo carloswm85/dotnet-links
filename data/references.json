@@ -3757,6 +3757,29 @@
 					]
 				}
 			]
+		},
+		{
+			"id": 95,
+			"name": "Work Ethics",
+			"about": "Work ethic is a belief that work and diligence have a moral benefit and an inherent ability, virtue or value to strengthen character and individual abilities. It is a set of values centered on importance of work and manifested by determination or desire to work hard. Social ingrainment of this value is considered to enhance character through hard work that is respective to an individual's field of work.",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Work_ethic",
+					"description": "Wikipedia article.",
+					"tags": [
+						"wikipedia", "ethics"
+					]
+				},
+				{
+					"name": "Revisando The clean coder, vale la pena leerlo? (SPA)",
+					"url": "https://youtu.be/IxbhAsDDbmI",
+					"description": "Review del libro The Clean Coder de Robert Martin, este es la continuación del libro Clean Code y habla sobre un código de conducta, cumple lo que promete?, te hará un mejor desarrollador? la respuesta en este video.",
+					"tags": [
+						"holamundo", "martin", "robert", "clean coder", "book"
+					]
+				}
+			]
 		}
 	]
 }
