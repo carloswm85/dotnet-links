@@ -1,9 +1,17 @@
 
-@Html.Hidden("yourProperty", model.yourProperty);
-@Html.HiddenFor(m => m.yourProperty)
 
-@Html.Hidden("Name", "Value")
-@Html.HiddenFor(x => x.Name, "Value");
 
-<input id="Name" name="Name" type="hidden" value="Value">
 
+
+
+
+
+<div class="col-12 col-md-6 mb-3">
+	@Html.LabelFor(Model => Model.Quantity)
+	@if (Model.Quantity) {
+		@Html.EditorFor(Model => Model.Quantity, new { htmlAttributes = new { @type = "number" } })
+	} else {
+		@Html.EditorFor(Model => Model.Quantity, new { htmlAttributes = new { @type = "number", @disabled = "true" } })
+	}
+	@Html.ValidationMessageFor(Model => Model.Quantity, "", new { @class = "text-danger" })
+</div>
