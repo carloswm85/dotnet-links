@@ -962,6 +962,14 @@
 					"tags": [
 						""
 					]
+				},
+				{
+					"name": "FreeComputerBooks.com - Links to Free Computer, Mathematics, Technical Books all over the World",
+					"url": "https://freecomputerbooks.com/microsoftDotNetBooks.html",
+					"description": "This site is a directory of Hyperlinks to free ebooks, tutorials, and lecture notes, etc, all over the world. It is basically a free service to the communities with the focus on Information Technologies, Computer Science, Mathematics, etc. This site neither supports copyright infringement, nor links to web sites that trade copyrighted material. If you find any questionable links on this web site, please contact the webmaster (see the contact info at the bottom). ",
+					"tags": [
+						"ebooks"
+					]
 				}
 			]
 		},
@@ -1060,6 +1068,16 @@
 					"description": "",
 					"tags": [
 						""
+					]
+				},
+				{
+					"name": "CRUD using the Repository Pattern in MVC",
+					"url": "https://www.c-sharpcorner.com/UploadFile/3d39b4/crud-using-the-repository-pattern-in-mvc/",
+					"description": "This article introduces the repository pattern in an MVC application. We are developing an application for a Book entity on which we can perform Create, Read, Update and Delete operations. To keep the article simple and make it easy to understand the repository pattern, we use a single book entity in the application.",
+					"tags": [
+						"crud",
+						"repository pattern",
+						"tutorial"
 					]
 				},
 				{
@@ -1282,11 +1300,13 @@
 					]
 				},
 				{
-					"name": "Basic Implementation (danylkoweb.com)",
+					"name": "ASP.NET MVC: Make Your Application an Onion! (danylkoweb.com)",
 					"url": "https://www.danylkoweb.com/Blog/aspnet-mvc-make-your-application-an-onion-QE",
-					"description": "",
+					"description": "\"When building your application from scratch, how do you arrange your libraries in your solution? Today, we'll talk about how to break your project into reusable components to make it extendable for future projects using an onion architecture.\"",
 					"tags": [
-						""
+						"onion",
+						"architecture",
+						"danylko"
 					]
 				}
 			]
@@ -1563,6 +1583,24 @@
 					]
 				},
 				{
+					"name": "Aprende DDD en 20 minutos ⚡ | Domain-Driven Design (SPA)",
+					"url": "https://youtu.be/dH5aSQLXtKg",
+					"description": "Resumen de Domain Driven Design tanto de la parte táctica como estratégica.",
+					"tags": [
+						"ddd",
+						"video",
+						"español",
+						"spanish"
+					]
+				},{
+					"name": "An Introduction to Domain Driven Design",
+					"url": "https://www.methodsandtools.com/archive/archive.php?id=97",
+					"description": "Today's enterprise applications are undoubtedly sophisticated and rely on some specialized technologies (persistence, AJAX, web services and so on) to do what they do. And as developers it's understandable that we tend to focus on these technical details. But the truth is that a system that doesn't solve the business needs is of no use to anyone, no matter how pretty it looks or how well architected its infrastructure.",
+					"tags": [
+						"ddd", "introduction"
+					]
+				},
+				{
 					"name": "(a) \"Domain\"",
 					"url": "https://en.wikipedia.org/wiki/Domain_(software_engineering)",
 					"description": "Also known as \"problem domain\".",
@@ -1609,6 +1647,15 @@
 					"description": "A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.",
 					"tags": [
 						"course"
+					]
+				},
+				{
+					"name": "Services in Domain-Driven Design (DDD), Lev Gorodinski",
+					"url": "http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/",
+					"description": "\"The term service is overloaded and its meaning takes on different shades depending on the context. As a result, there is a cloud of confusion surrounding the notion of services as one tries to distinguish between application services, domain services, infrastructural services, SOA services, etc. In all these cases the term “service” is valid, however the roles are different and can span all layers of an application.\"",
+					"tags": [
+						"services",
+						"ddd"
 					]
 				}
 			]
@@ -1973,9 +2020,9 @@
 				{
 					"name": "abp.io",
 					"url": "https://abp.io/",
-					"description": "",
+					"description": "ABP Framework is a complete infrastructure based on the ASP.NET Core to create modern web applications and APIs by following the software development best practices and the latest technologies.",
 					"tags": [
-						""
+						"framework"
 					]
 				},
 				{
@@ -1999,6 +2046,13 @@
 					"description": "",
 					"tags": [
 						""
+					]
+				},{
+					"name": "Chapter 3: Architectural Patterns and Styles",
+					"url": "https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)?redirectedfrom=MSDN#DomainModelStyle",
+					"description": "This chapter describes and discusses high level patterns and principles commonly used for applications today. These are often referred to as the architectural styles.",
+					"tags": [
+						"microsoft", "architectural style", "design"
 					]
 				},
 				{
@@ -2454,7 +2508,7 @@
 				{
 					"name": "Stackoverflow Blog",
 					"url": "https://stackoverflow.blog",
-					"description": "Good stuffs, understandable, professional and not verbose.",
+					"description": "Programming realted good stuffs, understandable, professional and not verbose.",
 					"tags": [
 						"blog",
 						"stackoverflow",
@@ -3665,7 +3719,7 @@
 		},
 		{
 			"id": 93,
-			"name": "Layer Service",
+			"name": "Service Layer",
 			"about": "On Domain Drive Design",
 			"links": [
 				{
@@ -3803,6 +3857,69 @@
 						"ethics",
 						"work",
 						"health"
+					]
+				}
+			]
+		},
+		{
+			"id": 96,
+			"name": "Project Building",
+			"about": "",
+			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "#",
+					"description": "Wikipedia article.",
+					"tags": [
+						"wikipedia"
+					]
+				},{
+					"name": "The Ultimate Visual Studio Solution Structure (S0)",
+					"url": "https://stackoverflow.com/questions/3516313/the-ultimate-visual-studio-solution-structure",
+					"description": "Some examples of project structure.",
+					"tags": [
+						"project", "structure", "examples"
+					]
+				},
+				{
+					"name": "Where can I find samples of full ASP.NET MVC projects?",
+					"url": "https://www.danylkoweb.com/Blog/where-can-i-find-sample-aspnet-mvc-projects-HL",
+					"description": "\"This is one question I'm constantly asked by developers new to MVC. In this post, I show some sites with sample projects so you can build by example.\" - Johnatan Danylko",
+					"tags": [
+						"project",
+						"template",
+						"boilerplate"
+					]
+				},
+				{
+					"name": "Entity Framework - Insert Update Delete View data in SQL Server using Three Tier",
+					"url": "https://youtu.be/Ncbr5axCabM",
+					"description": "\"Creating Three Tier Architecture using Entity Framework database first in C#. The C# Basics beginner course is a free C# Tutorial Series that helps beginning programmers learn the basics of the C# Programming Language. This is the best way to Learn C# for beginners.\"",
+					"tags": [
+						"entity framework",
+						"3 tier",
+						"layer"
+					]
+				},
+				{
+					"name": "Entity Framework Database First Separate Entity Layer From Data Layer",
+					"url": "https://youtu.be/kymH_wHiSSw",
+					"description": "Separate the entity layer from data layer for Entity Framework Database First approach",
+					"tags": [
+						"entity framework",
+						"3 tier",
+						"layer"
+					]
+				},
+				{
+					"name": "Architecture Guide: ASP.NET MVC Framework + N-tier + Entity Framework and Many More",
+					"url": "https://www.codeproject.com/Articles/70061/Architecture-Guide-ASP-NET-MVC-Framework-N-tier-En",
+					"description": "\"If you want to use ASP.NET MVC framework but is struggling to get things arrange to confidently use for your next business project. This Article is just for you. The article guide you to use ASP.NET MVC framework to architect a small Document Management System.\"",
+					"tags": [
+						"project",
+						"mvc",
+						"n-tier",
+						"entity framework"
 					]
 				}
 			]
