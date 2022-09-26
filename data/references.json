@@ -1,4 +1,6 @@
 {
+	"name": "dotnet-bookmarks",
+	"about": "C# and .NET bookmarks, focused on MVC and DDD",
 	"references": [
 		{
 			"id": 0,
@@ -3719,15 +3721,15 @@
 		},
 		{
 			"id": 93,
-			"name": "Service Layer",
-			"about": "On Domain Drive Design",
+			"name": "Service Layer (DDD)",
+			"about": "Services on Domain Drive Design.",
 			"links": [
 				{
 					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"url": "https://en.wikipedia.org/wiki/Service_(systems_architecture)",
+					"description": "In the contexts of software architecture, service-orientation and service-oriented architecture, the term service refers to a software functionality or a set of software functionalities (such as the retrieval of specified information or the execution of a set of operations) with a purpose that different clients can reuse for different purposes, together with the policies that should control its usage (based on the identity of the client requesting the service, for example).",
 					"tags": [
-						"wikipedia"
+						"wikipedia", "services"
 					]
 				},
 				{
