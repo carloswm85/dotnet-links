@@ -714,19 +714,19 @@
 		},
 		{
 			"id": 16,
-			"name": "ASP.NET Razor",
-			"about": "Razor is an ASP.NET programming syntax used to create dynamic web pages with the C# or VB.NET programming languages. Razor Pages can make coding page-focused scenarios easier and more productive than using controllers and views.",
+			"name": "Razor Pages",
+			"about": "Razor is an ASP.NET programming syntax used to create dynamic web pages with the C# or VB.NET programming languages.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/ASP.NET_Razor",
-					"description": "",
+					"description": "Razor is an ASP.NET programming syntax used to create dynamic web pages with the C# or VB.NET programming languages. Razor was in development in June 2010 and was released for Microsoft Visual Studio 2010 in January 2011. Razor is a simple-syntax view engine and was released as part of MVC 3 and the WebMatrix tool set. Razor became a component of AspNetWebStack and then became a part of ASP.NET Core.",
 					"tags": [
-						"wiki"
+						"wikipedia", "razor"
 					]
 				},
 				{
-					"name": "HTML Helper",
+					"name": "HTML Helpers",
 					"url": "https://www.completecsharptutorial.com/asp-net-mvc5/beginners-course-of-html-helper-in-asp-net-mvc.php",
 					"description": "",
 					"tags": [
