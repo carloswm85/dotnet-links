@@ -2866,31 +2866,47 @@
 		},
 		{
 			"id": 68,
-			"name": "System.Collections",
+			"name": "Collections",
 			"about": "It is a grouping of some variable number of data items (possibly zero) that have some shared significance to the problem being solved and need to be operated upon together in some controlled fashion.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Collection_(abstract_data_type)",
-					"description": "",
+					"description": "In computer programming, a collection is a grouping of some variable number of data items (possibly zero) that have some shared significance to the problem being solved and need to be operated upon together in some controlled fashion. Generally, the data items will be of the same type or, in languages supporting inheritance, derived from some common ancestor type. A collection is a concept applicable to abstract data types, and does not prescribe a specific implementation as a concrete data structure, though often there is a conventional choice (see Container for type theory discussion). Examples of collections include lists, sets, multisets, trees and graphs. ",
 					"tags": [
-						""
+						"wikipedia"
 					]
 				},
 				{
 					"name": "LinkedIn: IEnumerable vs ICollection vs IList vs IQueryable",
 					"url": "https://www.linkedin.com/pulse/ienumerable-vs-icollection-idictionary-ilist-hasan-shahjahan/",
-					"description": "",
+					"description": "Collections in c#, we have been using it interchangeably but do we really know what is it that separates each other.They all have specific characteristics that differentiate them and makes them adaptable to certain scenarios.",
 					"tags": [
-						""
+						"ilist",
+						"icollection",
+						"ienumerable",
+						"interfaces",
+						"use"
 					]
 				},
 				{
-					"name": "Code Project: ist vs IEnumerable vs IQueryable vs ICollection vs IDictionary",
+					"name": "Code Project: IList vs IEnumerable vs IQueryable vs ICollection vs IDictionary",
 					"url": "https://www.codeproject.com/Articles/832189/List-vs-IEnumerable-vs-IQueryable-vs-ICollection-v",
-					"description": "",
+					"description": "This article is one of the first sources (with complete and clear comparison) about data structure, Array, ArrayList, List, IList, ICollection, Stack, Queue, HashTable, Dictionary, IQueryable, IEnumerable.",
 					"tags": [
-						""
+						"ilist",
+						"icollection",
+						"ienumerable",
+						"interfaces",
+						"use"
+					]
+				},
+				{
+					"name": "When to use - IEnumerable vs IList vs ICollection?",
+					"url": "https://youtu.be/YYZo1l74JE0",
+					"description": "A common interview question with .NET Core is explain the difference between IEnumerable, ICollection and IList? We use them so often that many times we forget the basic difference on which will help optimization in which scenario.",
+					"tags": [
+						"video", "ilist", "icollection", "ienumerable", "interfaces", "use"
 					]
 				}
 			]
