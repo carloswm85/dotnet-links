@@ -322,23 +322,27 @@
 		},
 		{
 			"id": 6,
-			"name": "nTier/Layered Architecture",
-			"about": "Multitier architecture (often referred to as n-tier architecture) is a client–server architecture in which presentation, application processing and data management functions are physically separated. The most widespread use of multitier architecture is the three-tier architecture.",
+			"name": "nTier Architecture",
+			"about": "N-tier application architecture provides a model by which developers can create flexible and reusable applications. By segregating an application into tiers, developers acquire the option of modifying or adding a specific tier, instead of reworking the entire application. A three-tier architecture is typically composed of a presentation tier, a logic tier, and a data tier. While the concepts of layer and tier are often used interchangeably, one fairly common point of view is that there is indeed a difference. This view holds that a layer is a logical structuring mechanism for the conceptual elements that make up the software solution, while a tier is a physical structuring mechanism for the hardware elements that make up the system infrastructure.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Multitier_architecture",
-					"description": "",
+					"description": "Multitier architecture (often referred to as n-tier architecture) is a client–server architecture in which presentation, application processing and data management functions are physically separated. The most widespread use of multitier architecture is the three-tier architecture. ",
 					"tags": [
-						""
+						"ntier",
+						"layer",
+						"architecture"
 					]
 				},
 				{
-					"name": "First Reading",
+					"name": "N-tier architecture style (MS)",
 					"url": "https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier",
-					"description": "",
+					"description": "An N-tier architecture divides an application into logical layers and physical tiers. Logical diagram of an N-tier architecture style. Layers are a way to separate responsibilities and manage dependencies. Each layer has a specific responsibility. A higher layer can use services in a lower layer, but not the other way around.",
 					"tags": [
-						""
+						"ntier",
+						"architecture",
+						"microsoft"
 					]
 				},
 				{
@@ -347,6 +351,16 @@
 					"description": "",
 					"tags": [
 						""
+					]
+				},
+				{
+					"name": "AWS Serverless Multi-Tier Architectures with Amazon API Gateway and AWS Lambda (AWS)",
+					"url": "https://docs.aws.amazon.com/whitepapers/latest/serverless-multi-tier-architectures-api-gateway-lambda/introduction.html",
+					"description": "",
+					"tags": [
+						"ntier",
+						"architecture",
+						"aws"
 					]
 				}
 			]
@@ -648,9 +662,11 @@
 				{
 					"name": "sqlservertutorial.net",
 					"url": "https://www.sqlservertutorial.net/",
-					"description": "",
+					"description": "The sqlservertutorial.net website designed for Software Developers, Database Administrators, Data Engineers, Data Scientists, and Solution Architects who want to get started with SQL Server quickly and efficiently.",
 					"tags": [
-						""
+						"sql server",
+						"tutorial",
+						"❤️"
 					]
 				},
 				{
@@ -722,7 +738,8 @@
 					"url": "https://en.wikipedia.org/wiki/ASP.NET_Razor",
 					"description": "Razor is an ASP.NET programming syntax used to create dynamic web pages with the C# or VB.NET programming languages. Razor was in development in June 2010 and was released for Microsoft Visual Studio 2010 in January 2011. Razor is a simple-syntax view engine and was released as part of MVC 3 and the WebMatrix tool set. Razor became a component of AspNetWebStack and then became a part of ASP.NET Core.",
 					"tags": [
-						"wikipedia", "razor"
+						"wikipedia",
+						"razor"
 					]
 				},
 				{
@@ -908,7 +925,7 @@
 		{
 			"id": 19,
 			"name": "Online Books",
-			"about": "Just one book per link. At ResearchGate you can find highly developed ideas for projects.",
+			"about": "One book or library per link. At ResearchGate you can find highly developed ideas for projects (graduate papers).",
 			"links": [
 				{
 					"name": "ResearchGate (papers, ideas)",
@@ -935,11 +952,13 @@
 					]
 				},
 				{
-					"name": "The Little ASP.NET Core Book (SPA)",
-					"url": "https://aspnetcoremaster.com/asp.net/core/2019/03/17/libro-asp-net-core.html",
-					"description": "",
+					"name": "Amazon Whitepapers (AWS)",
+					"url": "https://aws.amazon.com/whitepapers/",
+					"description": "Expand your knowledge of the cloud with AWS technical content authored by AWS and the AWS community, including technical whitepapers, technical guides, reference material, and reference architecture diagrams.",
 					"tags": [
-						""
+						"reading",
+						"online",
+						"book"
 					]
 				}
 			]
@@ -993,7 +1012,7 @@
 		{
 			"id": 22,
 			"name": "MVC - Model on .NET",
-			"about": "",
+			"about": "A Model, in the context of an ASP.NET Model View Controller (MVC), is the representation of the data being posted to the Controller, the data being worked on in a View or the representation of the domain specific entities operating in the business tier. The Model contains core application information. It includes data, validation rules, data access, and aggregation logic.",
 			"links": [
 				{
 					"name": "ViewModels More Functional",
@@ -1016,7 +1035,7 @@
 		{
 			"id": 23,
 			"name": "MVC - View on .NET",
-			"about": "",
+			"about": "A View, in the context of a Model View Controller (MVC) architecture, is a software class that contains a template and data form and produces a response for the browser. It receives data from the Controller of the MVC and packages it and presents it to the browser for display. The View is not very autonomous -it is like a black box where some data is thrown at it and it gives a display to the user in a browser friendly manner. It collects the input data from data sources, finds the template upon invocation, and combines them into HTML output at runtime.",
 			"links": [
 				{
 					"name": "MVC Dropdowns",
@@ -1039,7 +1058,7 @@
 		{
 			"id": 24,
 			"name": "MVC - Controller on .NET",
-			"about": "",
+			"about": "A controller is a program component that serves as a mediator between a user and application and handles business-related tasks triggered in ASP.NET pages. A controller is used for scripting exposed and middle-tier endpoints for expected user actions and results.",
 			"links": [
 				{
 					"name": "ViewModels More Functional",
@@ -1275,7 +1294,7 @@
 		{
 			"id": 30,
 			"name": "MVC (General)",
-			"about": "Model–view–controller (MVC) is a software architectural pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.Traditionally used for desktop graphical user interfaces (GUIs), this pattern became popular for designing web applications.Popular programming languages have MVC frameworks that facilitate the implementation of the pattern.",
+			"about": "Model View Controller (MVC) is a design pattern for computer software. It can be considered an approach to distinguish between the data model, processing control and the user interface. It neatly separates the graphical interface displayed to the user from the code that manages the user actions. The objective is to provide a framework which enforces better and more accurate design.",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -1433,7 +1452,7 @@
 		{
 			"id": 34,
 			"name": "Online Tools",
-			"about": "",
+			"about": "Online tools, applications or whatever you may find handy when developing your applications.",
 			"links": [
 				{
 					"name": "10015 Tools",
@@ -1543,7 +1562,7 @@
 		{
 			"id": 36,
 			"name": "Object–Relational Mapping (ORM)",
-			"about": "",
+			"about": "Object-relational mapping (ORM) is a programming technique in which a metadata descriptor is used to connect object code to a relational database. Object code is written in object-oriented programming (OOP) languages such as Java or C#. ORM converts data between type systems that are unable to coexist within relational databases and OOP languages.",
 			"links": [
 				{
 					"name": "Wikipedia",
@@ -1667,7 +1686,7 @@
 		{
 			"id": 38,
 			"name": "NuGet Dependencies",
-			"about": "",
+			"about": "NuGet is a mechanism through which developers can create, share, and consume useful.NET libraries and packages.",
 			"links": [
 				{
 					"name": "T4MVC",
@@ -1730,7 +1749,7 @@
 		{
 			"id": 39,
 			"name": "GitHub Pages",
-			"about": "",
+			"about": "It is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.",
 			"links": [
 				{
 					"name": "Use own DB on GHP",
@@ -1753,8 +1772,16 @@
 		{
 			"id": 40,
 			"name": "Hosting Services",
-			"about": "",
+			"about": "A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create and maintain a site and makes it accessible on the World Wide Web. Companies providing web hosting services are sometimes called web hosts.",
 			"links": [
+				{
+					"name": "Web Hosting Service",
+					"url": "https://en.wikipedia.org/wiki/Web_hosting_service",
+					"description": "A web hosting service is a type of Internet hosting service that hosts websites for clients.",
+					"tags": [
+						"wikipedia"
+					]
+				},
 				{
 					"name": "Azure",
 					"url": "https://azure.microsoft.com/en-us/",
@@ -1856,12 +1883,12 @@
 		{
 			"id": 41,
 			"name": "OOP",
-			"about": "",
+			"about": "Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated. It also includes ideas of inheritance of attributes and methods.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Object-oriented_programming",
-					"description": "",
+					"description": "Object-oriented programming (OOP) is a programming paradigm based on the concept of \"objects\", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).",
 					"tags": [
 						""
 					]
@@ -2028,12 +2055,12 @@
 		{
 			"id": 45,
 			"name": ".NET Frameworks",
-			"about": "",
+			"about": "NET Frameworks are frameworks that are built on top of the one .NET framework.",
 			"links": [
 				{
 					"name": "abp.io",
 					"url": "https://abp.io/",
-					"description": "ABP Framework is a complete infrastructure based on the ASP.NET Core to create modern web applications and APIs by following the software development best practices and the latest technologies.",
+					"description": "ABP Framework offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. It provides the fundamental infrastructure, production-ready startup templates, modules, themes, tooling, guides and documentation to implement that architecture properly and automate the details and repetitive works as much as possible.",
 					"tags": [
 						"framework"
 					]
@@ -2050,7 +2077,7 @@
 		},
 		{
 			"id": 46,
-			"name": "Software Architecture",
+			"name": "General Software Architecture",
 			"about": "Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.",
 			"links": [
 				{
@@ -2116,14 +2143,15 @@
 		{
 			"id": 47,
 			"name": "ADO.NET",
-			"about": "",
+			"about": "ADO.NET is the data access component for the . NET Framework. ADO.NET leverages the power of XML to provide disconnected access to data. ADO.NET is made of a set of classes that are used for connecting to a database, providing access to relational data, XML, and application data, and retrieving results.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/ADO.NET",
-					"description": "",
+					"description": "ADO.NET is a data access technology from the Microsoft .NET Framework that provides communication between relational and non-relational systems through a common set of components. ADO.NET is a set of computer software components that programmers can use to access data and data services from a database. It is a part of the base class library that is included with the Microsoft .NET Framework. It is commonly used by programmers to access and modify data stored in relational database systems, though it can also access data in non-relational data sources. ADO.NET is sometimes considered an evolution of ActiveX Data Objects (ADO) technology, but was changed so extensively that it can be considered an entirely new product. ",
 					"tags": [
-						""
+						"ado.net",
+						"wikipedia"
 					]
 				},
 				{
@@ -2147,7 +2175,7 @@
 		{
 			"id": 48,
 			"name": "Cleaner Code Examples",
-			"about": "",
+			"about": "When we talk about clean code, we talk about a reader-focused development style that produces software that's easy to write, read, and maintain. Clean code is code that is easy to understand and easy to change. The word “clean” has become very trendy nowadays if you look at design, photography, etc",
 			"links": [
 				{
 					"name": "if() return",
@@ -2162,7 +2190,7 @@
 		{
 			"id": 49,
 			"name": "Workflow Tools",
-			"about": "",
+			"about": "Workflow is the series of activities that are necessary to complete a task. Each step in a workflow has a specific step before it and a specific step after it, with the exception of the first and last steps. In a linear workflow, an outside event usually initiates the first step.",
 			"links": [
 				{
 					"name": "Asana",
@@ -2193,14 +2221,15 @@
 		{
 			"id": 50,
 			"name": "JSON",
-			"about": "",
+			"about": "It is a text-based way of representing JavaScript object literals, arrays, and scalar data. JSON is relatively easy to read and write, while also easy for software to parse and generate. It is often used for serializing structured data and exchanging it over a network, typically between a server and web applications.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/JSON",
-					"description": "",
+					"description": "JSON (JavaScript Object Notation),  is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays (or other serializable values). It is a common data format with diverse uses in electronic data interchange, including that of web applications with servers. JSON is a language-independent data format. It was derived from JavaScript, but many modern programming languages include code to generate and parse JSON-format data. JSON filenames use the extension .json. ",
 					"tags": [
-						""
+						"json",
+						"wikipedia"
 					]
 				},
 				{
@@ -2340,14 +2369,14 @@
 		{
 			"id": 55,
 			"name": "Well-being ❤️‍🩹",
-			"about": "",
+			"about": "Well-being, or wellbeing, also known as wellness, prudential value or quality of life, refers to what is intrinsically valuable relative to someone. So the well-being of a person is what is ultimately good for this person, what is in the self-interest of this person. IN SHORT: The state of being comfortable, healthy, or happy.",
 			"links": [
 				{
-					"name": "Healthy Software Developer",
+					"name": "Healthy Software Developer (YT)",
 					"url": "https://www.youtube.com/c/JaymeEdwardsMedia",
-					"description": "",
+					"description": "\"After over 35 projects for some of the most prestigious companies, I burned out. Learn from my mistakes and insights! After a 25 year career as a software architect and management consultant, I now work part time in the mornings. And in the afternoon I'm coaching programmers and other IT professionals to be mentally healthy when they deliver software!\" - Jayme Edwards",
 					"tags": [
-						""
+						"youtube", "health", "job", "happiness"
 					]
 				}
 			]
@@ -2906,7 +2935,12 @@
 					"url": "https://youtu.be/YYZo1l74JE0",
 					"description": "A common interview question with .NET Core is explain the difference between IEnumerable, ICollection and IList? We use them so often that many times we forget the basic difference on which will help optimization in which scenario.",
 					"tags": [
-						"video", "ilist", "icollection", "ienumerable", "interfaces", "use"
+						"video",
+						"ilist",
+						"icollection",
+						"ienumerable",
+						"interfaces",
+						"use"
 					]
 				}
 			]
