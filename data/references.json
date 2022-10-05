@@ -1504,9 +1504,9 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Entity_Framework",
-					"description": "",
+					"description": "Entity Framework (EF) is an open source object–relational mapping (ORM) framework for ADO.NET. It was originally shipped as an integral part of .NET Framework. Starting with Entity Framework version 6, it has been delivered separately from the .NET Framework.",
 					"tags": [
-						""
+						"ef", "orm"
 					]
 				},
 				{
