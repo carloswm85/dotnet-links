@@ -895,6 +895,13 @@
 					"tags": [
 						""
 					]
+				},{
+					"name": "Hidden Features of C# (SO)",
+					"url": "https://stackoverflow.com/questions/9033/hidden-features-of-c",
+					"description": "We, C# developers, all know the basics of C#. I mean declarations, conditionals, loops, operators, etc. Some of us even mastered the stuff like Generics, anonymous types, lambdas, LINQ, etc. But what are the most hidden features or tricks of C# that even C# fans, addicts, experts barely know?",
+					"tags": [
+						"stackoverflow", "interesting"
+					]
 				},
 				{
 					"name": "C# Built In Types",
@@ -1498,7 +1505,7 @@
 		},
 		{
 			"id": 35,
-			"name": "Entity Framework (6, Core)",
+			"name": "Entity Framework (EF6, EF Core)",
 			"about": "Entity Framework is an open-source ORM framework for .NET applications supported by Microsoft. It enables developers to work with data using objects of domain specific classes without focusing on the underlying database tables and columns where this data is stored. With the Entity Framework, developers can work at a higher level of abstraction when they deal with data, and can create and maintain data-oriented applications with less code compared with traditional applications. ",
 			"links": [
 				{
@@ -1555,6 +1562,22 @@
 					"description": "",
 					"tags": [
 						""
+					]
+				},
+				{
+					"name": "TransactionScope and Transactions (SO)",
+					"url": "https://stackoverflow.com/questions/2701934/transactionscope-and-transactions",
+					"description": "It looks like TransactionScope object Rolls back before the SqlTransaction? Is that possible and if so what is the correct methodology for wrapping a TransactionScope in a transaction.",
+					"tags": [
+						"transactions", "scope", "roll back"
+					]
+				},
+				{
+					"name": "TransactionScope Class (MS)",
+					"url": "https://learn.microsoft.com/en-us/dotnet/api/system.transactions.transactionscope?view=net-6.0",
+					"description": "Makes a code block transactional. This class cannot be inherited. The System.Transactions infrastructure provides both an explicit programming model based on the Transaction class, as well as an implicit programming model using the TransactionScope class, in which transactions are automatically managed by the infrastructure.",
+					"tags": [
+						"transactions"
 					]
 				}
 			]
