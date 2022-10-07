@@ -3977,7 +3977,7 @@
 		},
 		{
 			"id": 96,
-			"name": "Project Building",
+			"name": "🏗️ Project Building (How To)",
 			"about": "",
 			"links": [
 				{
@@ -4037,6 +4037,21 @@
 						"mvc",
 						"n-tier",
 						"entity framework"
+					]
+				}
+			]
+		},
+		{
+			"id": 97,
+			"name": "🏗️ Project Examples",
+			"about": "This section is for storing useful links for project examples, templates, business generic types, or business specific types.",
+			"links": [
+				{
+					"name": "Project Examples at GitHub",
+					"url": "https://github.com/search?l=C%23&q=Generic&type=Repositories",
+					"description": "Useful generic repositories, at GitHub.",
+					"tags": [
+						"project", "repositories", "help"
 					]
 				}
 			]
