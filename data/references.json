@@ -895,12 +895,14 @@
 					"tags": [
 						""
 					]
-				},{
+				},
+				{
 					"name": "Hidden Features of C# (SO)",
 					"url": "https://stackoverflow.com/questions/9033/hidden-features-of-c",
 					"description": "We, C# developers, all know the basics of C#. I mean declarations, conditionals, loops, operators, etc. Some of us even mastered the stuff like Generics, anonymous types, lambdas, LINQ, etc. But what are the most hidden features or tricks of C# that even C# fans, addicts, experts barely know?",
 					"tags": [
-						"stackoverflow", "interesting"
+						"stackoverflow",
+						"interesting"
 					]
 				},
 				{
@@ -1341,20 +1343,12 @@
 		},
 		{
 			"id": 31,
-			"name": "APIs",
-			"about": "An application programming interface (API) is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification. A computer system that meets this standard is said to implement or expose an API. The term API may refer either to the specification or to the implementation.",
+			"name": "",
+			"about": "",
 			"links": [
 				{
 					"name": "Wikipedia",
-					"url": "https://en.wikipedia.org/wiki/API",
-					"description": "",
-					"tags": [
-						""
-					]
-				},
-				{
-					"name": "mockAPI",
-					"url": "https://mockapi.io/",
+					"url": "",
 					"description": "",
 					"tags": [
 						""
@@ -1486,6 +1480,14 @@
 					]
 				},
 				{
+					"name": "mockAPI",
+					"url": "https://mockapi.io/",
+					"description": "",
+					"tags": [
+						""
+					]
+				},
+				{
 					"name": "Desmos Online Graphic Calculator",
 					"url": "https://www.desmos.com/calculator",
 					"description": "",
@@ -1513,7 +1515,8 @@
 					"url": "https://en.wikipedia.org/wiki/Entity_Framework",
 					"description": "Entity Framework (EF) is an open source object–relational mapping (ORM) framework for ADO.NET. It was originally shipped as an integral part of .NET Framework. Starting with Entity Framework version 6, it has been delivered separately from the .NET Framework.",
 					"tags": [
-						"ef", "orm"
+						"ef",
+						"orm"
 					]
 				},
 				{
@@ -1569,7 +1572,9 @@
 					"url": "https://stackoverflow.com/questions/2701934/transactionscope-and-transactions",
 					"description": "It looks like TransactionScope object Rolls back before the SqlTransaction? Is that possible and if so what is the correct methodology for wrapping a TransactionScope in a transaction.",
 					"tags": [
-						"transactions", "scope", "roll back"
+						"transactions",
+						"scope",
+						"roll back"
 					]
 				},
 				{
@@ -2399,7 +2404,10 @@
 					"url": "https://www.youtube.com/c/JaymeEdwardsMedia",
 					"description": "\"After over 35 projects for some of the most prestigious companies, I burned out. Learn from my mistakes and insights! After a 25 year career as a software architect and management consultant, I now work part time in the mornings. And in the afternoon I'm coaching programmers and other IT professionals to be mentally healthy when they deliver software!\" - Jayme Edwards",
 					"tags": [
-						"youtube", "health", "job", "happiness"
+						"youtube",
+						"health",
+						"job",
+						"happiness"
 					]
 				}
 			]
@@ -2528,7 +2536,8 @@
 					"url": "https://en.wikipedia.org/wiki/User_interface",
 					"description": "In the industrial design field of human–computer interaction, a user interface is the space where interactions between humans and machines occur.",
 					"tags": [
-						"wikipedia", "ui"
+						"wikipedia",
+						"ui"
 					]
 				},
 				{
@@ -2536,7 +2545,8 @@
 					"url": "https://codewithmukesh.com/blog/toast-notifications-in-aspnet-core/",
 					"description": "",
 					"tags": [
-						"toast", "notifications"
+						"toast",
+						"notifications"
 					]
 				}
 			]
@@ -2544,14 +2554,16 @@
 		{
 			"id": 59,
 			"name": "Nomad Work",
-			"about": "",
+			"about": "What Is a Digital Nomad/Working? Digital nomads are people who are location-independent and use technology to perform their job, living a nomadic lifestyle. Digital nomads work remotely, telecommuting rather than being physically present at a company's headquarters or office.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Digital_nomad",
-					"description": "",
+					"description": "Digital nomads are people who live in a nomadic way while working remotely using technology and the internet. Such people generally have minimal material possessions and work remotely in temporary housing, hotels, cafes, public libraries, co-working spaces, or recreational vehicles, using Wi-Fi, smartphones or mobile hotspots to access the Internet. Some digital nomads are perpetual travelers, while others are only nomadic for a short period of time. While some nomads travel through various countries, others focus on one area. Some may engage in van-dwelling. In 2020, a research study found that 10.9 million American workers described themselves as digital nomads, an increase of 49% from 2019.",
 					"tags": [
-						""
+						"wikipedia",
+						"work",
+						"job"
 					]
 				},
 				{
@@ -2879,14 +2891,14 @@
 		{
 			"id": 67,
 			"name": "npm Dependencies",
-			"about": "",
+			"about": "npm is the world's largest Software Registry. The registry contains +800,000 code packages. Open-source developers use npm to share software. Many organizations also use npm to manage private development. Using npm is free to use. You can download all npm public software packages without any registration or logon. npm includes a CLI (Command Line Client) that can be used to download and install software.",
 			"links": [
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/Npm_(software)",
-					"description": "",
+					"description": "npm (originally short for Node Package Manager)is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm, Inc.",
 					"tags": [
-						""
+						"wikipedia"
 					]
 				},
 				{
@@ -2994,7 +3006,7 @@
 		{
 			"id": 70,
 			"name": "🔙 Back-End Portfolio/Prep 🔚",
-			"about": "",
+			"about": "Software engineering portfolios are sites that display a collection of your professional projects to employers. Portfolios help employers understand your background as a software engineer, so it's beneficial to include your most impressive projects and work experiences.",
 			"links": [
 				{
 					"name": "Choose the Language: C#",
@@ -3208,8 +3220,17 @@
 		{
 			"id": 72,
 			"name": "Back-End Tools",
-			"about": "",
+			"about": "Software tools or scripts designed to assist a programmer with developing software. For example, a compiler is an example of a programming tool.",
 			"links": [
+				{
+					"name": "Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Programming_tool",
+					"description": "A programming tool or software development tool is a computer program that software developers use to create, debug, maintain, or otherwise support other programs and applications. The term usually refers to relatively simple programs, that can be combined to accomplish a task, much as one might use multiple hands to fix a physical object. The most basic tools are a source code editor and a compiler or interpreter, which are used ubiquitously and continuously. Other tools are used more or less depending on the language, development methodology, and individual engineer, often used for a discrete task, like a debugger or profiler. Tools may be discrete programs, executed separately – often from the command line – or may be parts of a single large program, called an integrated development environment (IDE). In many cases, particularly for simpler use, simple ad hoc techniques are used instead of a tool, such as print debugging instead of using a debugger, manual timing (of overall program or section of code) instead of a profiler, or tracking bugs in a text file or spreadsheet instead of a bug tracking system. The distinction between tools and applications is murky. For example, developers use simple databases (such as a file containing a list of important values) all the time as tools.[dubious – discuss] However a full-blown database is usually thought of as an application or software in its own right. For many years, computer-assisted software engineering (CASE) tools were sought after. Successful tools have proven elusive. In one sense, CASE tools emphasized design and architecture support, such as for UML. But the most successful of these tools are IDEs.",
+					"tags": [
+						"wikipedia",
+						"tools"
+					]
+				},
 				{
 					"name": "Postman",
 					"url": "https://www.postman.com/",
@@ -3284,15 +3305,34 @@
 		},
 		{
 			"id": 75,
-			"name": "UI/UX",
-			"about": "",
+			"name": "UI/UX and Related Topics",
+			"about": "UX design refers to the term “user experience design”, while UI stands for “user interface design”. Both elements are crucial to a software product and work closely together.",
 			"links": [
 				{
 					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"url": "https://en.wikipedia.org/wiki/User_experience",
+					"description": "The user experience (UX) is how a user interacts with and experiences a product, system or service. It includes a person's perceptions of utility, ease of use, and efficiency. Improving user experience is important to most companies, designers, and creators when creating and refining products because negative user experience can diminish the use of the product and, therefore, any desired positive impacts; conversely, designing toward profitability often conflicts with ethical user experience objectives and even causes harm. User experience is subjective. However, the attributes that make up the user experience are objective.",
 					"tags": [
-						""
+						"wikipedia",
+						"user experience"
+					]
+				},
+				{
+					"name": "UXD (User Experience Design)",
+					"url": "https://en.wikipedia.org/wiki/User_experience_design",
+					"description": "User experience design (UX design, UXD, UED, or XD) is the process of defining the experience a user would go through when interacting with a digital product or website. Design decisions in UX design are often driven by research, data analysis, and test results rather than aesthetic preferences and opinions. Unlike user interface design, which focuses solely on the design of a computer interface, UX design encompasses all aspects of a user's perceived experience with a product or website, such as its usability, usefulness, desirability, brand perception, and overall performance. UX design is also an element of the customer experience (CX), which encompasses all aspects and stages of a customer's experience and interaction with a company.",
+					"tags": [
+						"wikipedia",
+						"user experience design"
+					]
+				},
+				{
+					"name": "UID (User Interface Design)",
+					"url": "https://en.wikipedia.org/wiki/User_interface_design",
+					"description": "User interface (UI) design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience. In computer or software design, user interface (UI) design primarily focuses on information architecture. It is the process of building interfaces that clearly communicates to the user what's important. UI design refers to graphical user interfaces and other forms of interface design. The goal of user interface design is to make the user's interaction as simple and efficient as possible, in terms of accomplishing user goals (user-centered design).",
+					"tags": [
+						"wikipedia",
+						"user intrface design"
 					]
 				},
 				{
@@ -3369,13 +3409,49 @@
 		},
 		{
 			"id": 78,
-			"name": "Restful APIs",
-			"about": "",
+			"name": "API, REST, Rest Web APIs & RESTful Web Services",
+			"about": "Different APIs explanations around the web.",
 			"links": [
 				{
-					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"name": "API (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/API",
+					"description": "An application programming interface (API) is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software. A document or standard that describes how to build or use such a connection or interface is called an API specification. A computer system that meets this standard is said to implement or expose an API. The term API may refer either to the specification or to the implementation. In contrast to a user interface, which connects a computer to a person, an application programming interface connects computers or pieces of software to each other.",
+					"tags": [
+						"wikipedia",
+						"api"
+					]
+				},
+				{
+					"name": "REST (Wikipedia)",
+					"url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
+					"description": "Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a Client-Server architecture. REST defines four interface constraints: Identification of resources, Manipulation of resources, Self-descriptive messages and hypermedia as the engine of application state.",
+					"tags": [
+						"wikipedia",
+						"rest"
+					]
+				},
+				{
+					"name": "Web APIs",
+					"url": "https://en.wikipedia.org/wiki/Web_API",
+					"description": "A web API is an application programming interface for either a web server or a web browser. It is a web development concept, usually limited to a web application's client-side (including any web frameworks being used), and thus usually does not include web server or browser implementation details such as SAPIs or APIs unless publicly accessible by a remote web application.",
+					"tags": [
+						"wikipedia",
+						"web api"
+					]
+				},
+				{
+					"name": "Web Service",
+					"url": "https://en.wikipedia.org/wiki/Web_service",
+					"description": "A web service (WS) is either:\n\t- A service offered by an electronic device to another electronic device, communicating with each other via the Internet, or...\n\t- A server running on a computer device, listening for requests at a particular port over a network, serving web documents (HTML, JSON, XML, images).",
+					"tags": [
+						"wikipedia",
+						"web service"
+					]
+				},
+				{
+					"name": "REST API & RESTful Web Services Explained | Web Services Tutorial (YouTube)",
+					"url": "https://youtu.be/LooL6_chvN4",
+					"description": "What is REST API? REST stands for Representational State Transfer and API stands for Application Programming Interface.\nRepresentational - the resource (image, page, video, profile) is represented by the web server to the client in any format like HTML, Image, JSON, XML etc.\nState - the state of the application (web site) on a client's computer changes as the client clicks from one link to the next. Ask the client clicks on the link, they request additional resources, and the application \"state\" changes.\nTransfer - the transfer of resources from the web server to the client in a \"representational\" state which can be read by the client or implemented in the application program by the programmer. The transfer may also refer to the application state transfer as the client browses a web site.\nAPI - application programming interface provides useful methods/functions which a programmer can implement into his own application in a chosen programming language like PHP. The API makes it easy for programmers to implement. It's important to note that the response we get when sending REST API request will usually be in JSON, XML or other format which makes it easy to implement in the code and it's not meant to be read immediately by a human being.",
 					"tags": [
 						""
 					]
@@ -3401,14 +3477,15 @@
 		{
 			"id": 79,
 			"name": "HTTP Protocol",
-			"about": "",
+			"about": "The Hypertext Transfer Protocol is an application protocol for distributed, collaborative, hypermedia information systems that allows users to communicate data on the World Wide Web. It is a client-server protocol: requests are sent by one entity, the user-agent (or a proxy on behalf of it). Most of the time the user-agent is a Web browser, but it can be anything, for example, a robot that crawls the Web to populate and maintain a search engine index.",
 			"links": [
 				{
 					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"url": "The Hypertext Transfer Protocol (HTTP) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.",
+					"description": "https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
 					"tags": [
-						""
+						"wikipedia",
+						"http"
 					]
 				},
 				{
@@ -3440,14 +3517,15 @@
 		{
 			"id": 80,
 			"name": "Microservices",
-			"about": "",
+			"about": "Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. These services are owned by small, self-contained teams.",
 			"links": [
 				{
 					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"url": "https://en.wikipedia.org/wiki/Microservices",
+					"description": "A microservice architecture – a variant of the SOA structural style – is an architectural pattern that arranges an application as a collection of loosely-coupled, fine-grained services, communicating through lightweight protocols. One of its goals is that teams can develop and deploy their services independently of others. This is achieved by the reduction of several dependencies in the code base, allowing for developers to evolve their services with limited restrictions from users, and for users to be hidden from additional complexity. As a consequence, organizations are able to develop software with fast growth and size, as well as use off-the-shelf services more easily. Communication requirements are reduced. These benefits come at a cost to maintaining the decoupling. Interfaces need to be designed carefully and treated as a public API. One technique that is used is having multiple interfaces on the same service, or multiple versions of the same service, so as to not disrupt existing users of the code.",
 					"tags": [
-						""
+						"wikipedia",
+						"microservices"
 					]
 				},
 				{
@@ -3495,7 +3573,7 @@
 		},
 		{
 			"id": 82,
-			"name": "Strings",
+			"name": "String Manipulation",
 			"about": "",
 			"links": [
 				{
@@ -4051,7 +4129,9 @@
 					"url": "https://github.com/search?l=C%23&q=Generic&type=Repositories",
 					"description": "Useful generic repositories, at GitHub.",
 					"tags": [
-						"project", "repositories", "help"
+						"project",
+						"repositories",
+						"help"
 					]
 				}
 			]
