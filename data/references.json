@@ -1343,15 +1343,15 @@
 		},
 		{
 			"id": 31,
-			"name": "",
+			"name": "👨🏼‍🏫 Courses",
 			"about": "",
 			"links": [
 				{
-					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"name": "manzoorthetrainer.com",
+					"url": "https://www.manzoorthetrainer.com/courses",
+					"description": "Manzoor is a Microsoft Certified Trainer who has been working on MS .Net technologies for more than a decade. Apart from development he is also passionate about delivering training on various MS .Net technologies and he has 15+ years of experience as a software development teacher.",
 					"tags": [
-						""
+						"courses", "list", "learn", "angular"
 					]
 				}
 			]
