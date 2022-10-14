@@ -4079,7 +4079,7 @@
 		},
 		{
 			"id": 96,
-			"name": "🏗️ Project Building (How To)",
+			"name": "🏗️ Project Building: How To Do It",
 			"about": "",
 			"links": [
 				{
@@ -4145,7 +4145,7 @@
 		},
 		{
 			"id": 97,
-			"name": "🏗️ Project Examples",
+			"name": "🏗️ Project Building: Examples",
 			"about": "This section is for storing useful links for project examples, templates, business generic types, or business specific types.",
 			"links": [
 				{
@@ -4156,6 +4156,29 @@
 						"project",
 						"repositories",
 						"help"
+					]
+				}
+			]
+		},
+		{
+			"id": 98,
+			"name": "🏗️ Project Building: Tutorials",
+			"about": "Tutorials for project building, using .NET technologies.",
+			"links": [
+				{
+					"name": "ASP.NET MVC Web App on 3-Tier for Beginners – Part 1",
+					"url": "https://www.codeproject.com/Articles/841324/ASP-NET-MVC-Web-App-on-Tier-for-Beginners-Part?msg=5903144#xx5903144xx",
+					"description": "The objective of this article series is to make the beginners understand how data moves from one layer to another layer in ASP.NET MVC web app when it is designed on 3-layers.",
+					"tags": [
+						"3tier", "mvc", "project"
+					]
+				},
+				{
+					"name": "",
+					"url": "",
+					"description": "",
+					"tags": [
+						""
 					]
 				}
 			]
