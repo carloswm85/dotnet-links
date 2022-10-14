@@ -1285,17 +1285,33 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/SOLID",
-					"description": "",
+					"description": "In software engineering, SOLID is a mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin, first introduced in his 2000 paper Design Principles and Design Patterns.",
 					"tags": [
-						""
+						"wikipedia", "solid"
 					]
 				},
 				{
-					"name": "Example: remondo.net",
+					"name": "The SOLID Principles in C# - Implementation examples (remondo.net)",
 					"url": "http://web.archive.org/web/20150411131853/http://www.remondo.net/category/solid-series/",
 					"description": "",
 					"tags": [
-						""
+						"solid", "implementation"
+					]
+				},
+				{
+					"name": "What are the SOLID principles in Java? (educative.io)",
+					"url": "https://www.educative.io/answers/what-are-the-solid-principles-in-java",
+					"description": "SOLID principles are object-oriented design concepts relevant to software development. SOLID is an acronym for five other class-design principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle.",
+					"tags": [
+						"solid"
+					]
+				},
+				{
+					"name": "SOLID Principles In C# (c-sharpcorner.com)",
+					"url": "https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/",
+					"description": "SOLID design principles in C# are basic design principles. SOLID stands for Single Responsibility Principle (SRP), Open closed Principle (OSP), Liskov substitution Principle (LSP), Interface Segregation Principle (ISP), and Dependency Inversion Principle (DIP).",
+					"tags": [
+						"solid"
 					]
 				}
 			]
@@ -1707,6 +1723,14 @@
 					"tags": [
 						"services",
 						"ddd"
+					]
+				},
+				{
+					"name": "Welcome to Domain-Driven Design (DDD), by ddd-crew",
+					"url": "https://github.com/ddd-crew/welcome-to-ddd",
+					"description": "This project contains definitions of DDD and fundamental concepts to reduce the learning curve and confusion. The Crew has elaborated several useful repositories (take a look at them)!",
+					"tags": [
+						"ddd", "repositories", "open-source"
 					]
 				}
 			]
