@@ -1285,17 +1285,35 @@
 				{
 					"name": "Wikipedia",
 					"url": "https://en.wikipedia.org/wiki/SOLID",
-					"description": "",
+					"description": "In software engineering, SOLID is a mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin, first introduced in his 2000 paper Design Principles and Design Patterns.",
 					"tags": [
-						""
+						"wikipedia",
+						"solid"
 					]
 				},
 				{
-					"name": "Example: remondo.net",
+					"name": "The SOLID Principles in C# - Implementation examples (remondo.net)",
 					"url": "http://web.archive.org/web/20150411131853/http://www.remondo.net/category/solid-series/",
 					"description": "",
 					"tags": [
-						""
+						"solid",
+						"implementation"
+					]
+				},
+				{
+					"name": "What are the SOLID principles in Java? (educative.io)",
+					"url": "https://www.educative.io/answers/what-are-the-solid-principles-in-java",
+					"description": "SOLID principles are object-oriented design concepts relevant to software development. SOLID is an acronym for five other class-design principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle.",
+					"tags": [
+						"solid"
+					]
+				},
+				{
+					"name": "SOLID Principles In C# (c-sharpcorner.com)",
+					"url": "https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp/",
+					"description": "SOLID design principles in C# are basic design principles. SOLID stands for Single Responsibility Principle (SRP), Open closed Principle (OSP), Liskov substitution Principle (LSP), Interface Segregation Principle (ISP), and Dependency Inversion Principle (DIP).",
+					"tags": [
+						"solid"
 					]
 				}
 			]
@@ -1343,15 +1361,18 @@
 		},
 		{
 			"id": 31,
-			"name": "",
+			"name": "👨🏼‍🏫 Courses",
 			"about": "",
 			"links": [
 				{
-					"name": "Wikipedia",
-					"url": "",
-					"description": "",
+					"name": "manzoorthetrainer.com",
+					"url": "https://www.manzoorthetrainer.com/courses",
+					"description": "Manzoor is a Microsoft Certified Trainer who has been working on MS .Net technologies for more than a decade. Apart from development he is also passionate about delivering training on various MS .Net technologies and he has 15+ years of experience as a software development teacher.",
 					"tags": [
-						""
+						"courses",
+						"list",
+						"learn",
+						"angular"
 					]
 				}
 			]
@@ -1707,6 +1728,16 @@
 					"tags": [
 						"services",
 						"ddd"
+					]
+				},
+				{
+					"name": "Welcome to Domain-Driven Design (DDD), by ddd-crew",
+					"url": "https://github.com/ddd-crew/welcome-to-ddd",
+					"description": "This project contains definitions of DDD and fundamental concepts to reduce the learning curve and confusion. The Crew has elaborated several useful repositories (take a look at them)!",
+					"tags": [
+						"ddd",
+						"repositories",
+						"open-source"
 					]
 				}
 			]
@@ -4055,7 +4086,7 @@
 		},
 		{
 			"id": 96,
-			"name": "🏗️ Project Building (How To)",
+			"name": "🏗️ Project Building: How To Do It",
 			"about": "",
 			"links": [
 				{
@@ -4121,7 +4152,7 @@
 		},
 		{
 			"id": 97,
-			"name": "🏗️ Project Examples",
+			"name": "🏗️ Project Building: Examples",
 			"about": "This section is for storing useful links for project examples, templates, business generic types, or business specific types.",
 			"links": [
 				{
@@ -4138,6 +4169,31 @@
 		},
 		{
 			"id": 98,
+			"name": "🏗️ Project Building: Tutorials",
+			"about": "Tutorials for project building, using .NET technologies.",
+			"links": [
+				{
+					"name": "ASP.NET MVC Web App on 3-Tier for Beginners – Part 1",
+					"url": "https://www.codeproject.com/Articles/841324/ASP-NET-MVC-Web-App-on-Tier-for-Beginners-Part?msg=5903144#xx5903144xx",
+					"description": "The objective of this article series is to make the beginners understand how data moves from one layer to another layer in ASP.NET MVC web app when it is designed on 3-layers.",
+					"tags": [
+						"3tier",
+						"mvc",
+						"project"
+					]
+				},
+				{
+					"name": "",
+					"url": "",
+					"description": "",
+					"tags": [
+						""
+					]
+				}
+			]
+		},
+		{
+			"id": 99,
 			"name": "Unit Testing",
 			"about": "In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.",
 			"links": [
@@ -4154,7 +4210,8 @@
 					"url": "https://xunit.net/",
 					"description": "xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license).",
 					"tags": [
-						"wikipedia", "unit testing"
+						"wikipedia",
+						"unit testing"
 					]
 				}
 			]
