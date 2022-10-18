@@ -4213,6 +4213,14 @@
 						"wikipedia",
 						"unit testing"
 					]
+				},
+				{
+					"name": "Moq",
+					"url": "https://github.com/moq/moq4",
+					"description": "Moq is a mocking framework for C#/.NET. It is used in unit testing to isolate your class under test from its dependencies and ensure that the proper methods on the dependent objects are being called.",
+					"tags": [
+						"mock objects", "framework", "unit testing"
+					]
 				}
 			]
 		}
