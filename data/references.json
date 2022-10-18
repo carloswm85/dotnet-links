@@ -4221,6 +4221,14 @@
 					"tags": [
 						"mock objects", "framework", "unit testing"
 					]
+				},
+				{
+					"name": "Unit testing best practices with .NET Core and .NET Standard",
+					"url": "https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices",
+					"description": "There are numerous benefits of writing unit tests; they help with regression, provide documentation, and facilitate good design. However, hard to read and brittle unit tests can wreak havoc on your code base. This article describes some best practices regarding unit test design for your .NET Core and .NET Standard projects.",
+					"tags": [
+						"best practices"
+					]
 				}
 			]
 		}
