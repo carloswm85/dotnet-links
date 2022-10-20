@@ -2554,6 +2554,14 @@
 					"tags": [
 						""
 					]
+				},
+				{
+					"name": "Visual Studio: Update code with fetch, merge, and pull (and rebase)",
+					"url": "https://learn.microsoft.com/en-us/azure/devops/repos/git/pulling?view=azure-devops&tabs=visual-studio-2019",
+					"description": "- \"fetch\" downloads any new commits that others uploaded to the remote repo. The remote-tracking branches in local repo cache are updated—local branches remain unchanged.\n- \"merge\" integrates commits from one or more source branches into a target branch.\n- \"rebase\" integrates commits from a source branch into a target branch, but uses a different strategy than merging.\n- \"pull\" performs a fetch and then a merge or rebase to integrate fetched commits into your current local branch.",
+					"tags": [
+						"rebase", "visual studio"
+					]
 				}
 			]
 		},
