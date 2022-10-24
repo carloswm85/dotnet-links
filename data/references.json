@@ -1076,6 +1076,14 @@
 					"tags": [
 						""
 					]
+				},
+				{
+					"name": "RedirectToAction with parameter (SO)",
+					"url": "https://stackoverflow.com/questions/1257482/redirecttoaction-with-parameter",
+					"description": "Is there a clever way to do this? Currently I'm stashing ID in tempdata, but when you hit f5 to refresh the page again after going back, the tempdata is gone and the page crashes.",
+					"tags": [
+						"stackoverflow", "mvc"
+					]
 				}
 			]
 		},
